@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190505762204000507550030007778981111007057" versao="4.00"><ide><cUF>31</cUF><cNF>11100705</cNF><natOp>VENDA DE MERCADORIAS SUJEITA AO REGIME DE S.T. - SUBSTITUIDO</natOp><mod>55</mod><serie>3</serie><nNF>777898</nNF><dhEmi>2019-05-07T15:37:00-03:00</dhEmi><dhSaiEnt>2019-05-07T15:37:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3154606</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.103</verProc></ide><emit><CNPJ>05762204000507</CNPJ><xNome>PLAYVENDER DIST. HIGIENE LIMPEZA LTDA</xNome><xFant>PLAYVENDER MG</xFant><enderEmit><xLgr>DO KM 513 AO KM 518 GALPAO VERMELHO</xLgr><nro>515</nro><xBairro>VEREDA</xBairro><cMun>3154606</cMun><xMun>RIBEIRAO DAS NEVES</xMun><UF>MG</UF><CEP>33822502</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3135193500</fone></enderEmit><IE>0024587930059</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA ME</xNome><enderDest><xLgr>R SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36405000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><entrega><CNPJ>23809403000181</CNPJ><xLgr>R SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>15862</cProd><cEAN>7891150064324</cEAN><xProd>DET PO OMO 800G LAV PERFEITA LV800 PG700</xProd><NCM>34022000</NCM><CEST>1100400</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>CX</uCom><qCom>1.0000</qCom><vUnCom>145.8800000000</vUnCom><vProd>145.88</vProd><cEANTrib>7891150064324</cEANTrib><uTrib>CX</uTrib><qTrib>1.0000</qTrib><vUnTrib>145.8800000000</vUnTrib><indTot>1</indTot><xPed>307002434</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>185.63</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>14.73</vICMSSubstituto><vICMSSTRet>18.68</vICMSSTRet><pRedBCEfet>0.0000</pRedBCEfet><vBCEfet>0.00</vBCEfet><pICMSEfet>0.0000</pICMSEfet><vICMSEfet>0.00</vICMSEfet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>145.88</vBC><pPIS>1.6500</pPIS><vPIS>2.41</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>145.88</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>11.09</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>PERC.PARC.FCI: 0 - N. FCI: 426CBE10-6308-4553-A0BB-34C60BEC2F59</infAdProd></det><det nItem="2"><prod><cProd>14636</cProd><cEAN>7898962794166</cEAN><xProd>PAPEL HIG MIMMO FD COMP NEUT 30M L12 P11</xProd><NCM>48181000</NCM><CEST>2004300</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>FD</uCom><qCom>1.0000</qCom><vUnCom>58.0000000000</vUnCom><vProd>58.00</vProd><cEANTrib>7898962794166</cEANTrib><uTrib>FD</uTrib><qTrib>1.0000</qTrib><vUnTrib>58.0000000000</vUnTrib><indTot>1</indTot><xPed>307002434</xPed><nItemPed>2</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>70.23</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>5.22</vICMSSubstituto><vICMSSTRet>7.43</vICMSSTRet><pRedBCEfet>0.0000</pRedBCEfet><vBCEfet>0.00</vBCEfet><pICMSEfet>0.0000</pICMSEfet><vICMSEfet>0.00</vICMSEfet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>203.88</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>2.41</vPIS><vCOFINS>11.09</vCOFINS><vOutro>0.00</vOutro><vNF>203.88</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete><transporta><CPF>06728299670</CPF><xNome>HEWLEY SCHWENK DE ASSIS</xNome><xEnder>RUA ANTONIO FERREIRA DE PAIVA, 137 - BOM SOSSEGO</xEnder><xMun>RIBEIRAO DAS NE</xMun><UF>MG</UF></transporta><vol><qVol>2</qVol><nVol>2</nVol><pesoL>22.350</pesoL><pesoB>22.886</pesoB></vol></transp><cobr><fat><nFat>777898</nFat><vOrig>203.88</vOrig><vDesc>0</vDesc><vLiq>203.88</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-06-04</dVenc><vDup>203.88</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>203.88</vPag></detPag></pag><infAdic><infCpl>EMPRESA GERNCIADA PELO WINTHOR//NUMPED: 307002434 - N.TRANS:1019861 - N.ORDEM COMPRA: - NUM CAR:23722//VENDEDOR: 307 - KENIA SULANITA LOBO - TEL: 31- 971544802 - PRAZO: 28 DIAS - COBRANCA:BCO ITAU NOVA CONTA//N. FANTASIA: - REFERENCIA: - END. ENTREGA:R SANTA APOLONIA FONTE GRANDE CONSELHEIRO LAF//OBS GERAIS: - OBSENTREGA1_1//OBS ENTREGA://OBSTRIB://IMPOSTO (ICMS) RECOLHIDO POR ST NOS TERMOS DO ANEXO XV DO RICMS/MG. BC DO ICMS ST: R$ 255.86, VLR. ICMS : R$ 26.11 (ART. 37, ANEXO XV, PARTE I DO RICMS/MG//DEV. FORNECEDOR: N.NF DE COMPRA: - MOTIVO://ICMS PAGO POR SUBST.TRIBUT. NA FASE ANTERIOR, NOS TERMOS DO RICMS-MG</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190505762204000507550030007778981111007057"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Nar+0m8wC0tVMtRb5aCVIKfKOLY=</DigestValue></Reference></SignedInfo><SignatureValue>kFxqiUTP80BrC56gNLKJn2mdh4F9gp9yp9195R/XZmAIIoBvVZHR2O9Sn2b1E9QRdr9mOCbAL2zu
+ZmDCHeCpAg7n1MNxC0NERvF6BRKyYdBERjjhZzQfZ67Y/idOZEdCbuzwRQMhQL7bhZ5HN7KvjWQb
+yDvxQ+ep4BQvkGOuPhRt+X0EmY5/lpSfo9/NCzc8CMmmjfnKiEEw4xtKUsyFdhp6ZN85qGpq/OiW
+d2twOuHnVGVAdYxuATNBENuG2F4QwU3aqvZwOYXRR24cT9nDzPqALAdR0q8Dw76GxJ+TPnSCz2pc
+gwzp4YYlg3+f2X/kQgTszAQ9+v2oNL9+EZ8QvQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIKTCCBhGgAwIBAgIQHUPyHp+fGMmtCp3epTkwwjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTE5MDUwMjE0MTUyNFoXDTIwMDUwMTE0MTUyNFowgf0xCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJSSjEYMBYGA1UEBwwPRHVxdWUgZGUgQ2F4aWFzMTYwNAYDVQQL
+DC1TZWNyZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsM
+DVJGQiBlLUNOUEogQTExFzAVBgNVBAsMDjAxNTU0Mjg1MDAwMjU2MUkwRwYDVQQDDEBQTEFZVkVO
+REVSIERJU1RSSUJVSURPUkEgREUgSElHSUVORSBFIExJTVBFWkEgTFREOjA1NzYyMjA0MDAwMTgz
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx8tgw+7KmTrtJ75wuDTQ3ij+wgG2Bxsc
+cxbOXKE9bC2LYwYjJbjCXN+kO/BTk/THgA+DrD9CVkL5JjhWPMvZhvbQFj+t0gZOP2nopgVIORvk
+cu5xNU509k8BTR+TJnc6TAZf7VZQpdYXVuI+UTG8CavcSmxI0wdpDN7Zp9uvuIxHLlnh5pOCmxBb
+w56WnkggFEXwJVkkq+cPVYGtX5X2v/WEjw8OtGpVtSHflChzvSoq0b/Zcfr5S7iGOqhzqWbUtbWC
+9w0cvHzFZcYqVK+f3kdzJl0teR9biP43wZ98tYVwt2bfrwVo1NeBhvHhCNND2r9N6k+C1m1fqmKT
+JLiYQQIDAQABo4IDJzCCAyMwgdYGA1UdEQSBzjCBy6BABgVgTAEDBKA3BDUwMjA2MTk3MDAxNTU1
+NzQyNzI2MDAwMDAwMDAwMDAwMDAwMDAwNjE3NDI1MzJERVRSQU5SSqArBgVgTAEDAqAiBCBNQVJD
+VVMgVklOSUNJVVMgREEgU0lMVkEgTUFDSEFET6AZBgVgTAEDA6AQBA4wNTc2MjIwNDAwMDE4M6AX
+BgVgTAEDB6AOBAwwMDAwMDAwMDAwMDCBJmp1cmlkaWNvLmphcXVlbGluZUBqc2NvbnRhZG9yZXMu
+Y29tLmJyMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUU31/nb7RYdAgutqf44mnE3NYzUIwfwYDVR0g
+BHgwdjB0BgZgTAECAQwwajBoBggrBgEFBQcCARZcaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWdu
+LmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQ2VydGlzaWduX1JGQi9EUENfQUNfQ2VydGlzaWdu
+X1JGQi5wZGYwgbwGA1UdHwSBtDCBsTBXoFWgU4ZRaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWdu
+LmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMFag
+VKBShlBodHRwOi8vaWNwLWJyYXNpbC5vdXRyYWxjci5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FD
+Q2VydGlzaWduUkZCRzUvTGF0ZXN0Q1JMLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMEMIGsBggrBgEFBQcBAQSBnzCBnDBfBggrBgEFBQcwAoZTaHR0cDov
+L2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9jZXJ0aWZpY2Fkb3MvQUNf
+Q2VydGlzaWduX1JGQl9HNS5wN2MwOQYIKwYBBQUHMAGGLWh0dHA6Ly9vY3NwLWFjLWNlcnRpc2ln
+bi1yZmIuY2VydGlzaWduLmNvbS5icjANBgkqhkiG9w0BAQsFAAOCAgEAq975ejJp9yJwOvs1rCm/
+o698xtt3tjKBwmuNDAmI5JwvrntAuA/tymDwAkTbmAjbQCUERXuSaZDZ8piNAUEaqok9wLTLb4bn
+DTfy185C01BsdrQF3v6/8O32oiZtXbDpuDw3f4FQKvArlbnQ8B57J7yVUdjAmorwl7rh/wcgqfIb
+q/64NOFhWBR0gXlSg6EkbjCI5R5FoVo4qokl6YUsSgifsMw0qAEE/Z9EwKW1KW4RsdAVFgdjKVXt
+iKah3AfHgQNJvIn2yNi79xhS4RmfVDL67EV8k7bjkGb1zM5eH5nbh9X4LeuR2k9rR1xd90Z/DxfC
+dZDAG06A3LIGVWMm0n5ereUdyn4UelXajfjWtG8ZMibqp5+2LfUxes0balFTJecVbq6Ung2mAUGj
++efxLikhj/NzFKR4CAbaW+5GowGFkbS9o4+m8D8JewPf7J5WH9x/5p5KkzrS5VjVYUBWbq+IZIDt
+bdGgj/ojhwrwAk35x4fn1hXQXYkdnVpIS+HHW0B12woK1vGI/hNF6QAqHQbyUKiyukubmnYreLpg
+tcQrkHSnY0dVFdr7oLNeaoL0OBPQ9MTvThNeNX1KhyK2Nvzzvmjkv4oMLEU5HJlYf9pk5gPX7pif
+6tVExtpw8ZspOErC2PaxaT41DVENhAHAiI4Z/YalOZmqI6azRpVIF7g=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193282922862">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.3</verAplic>
+  <chNFe>31190505762204000507550030007778981111007057</chNFe>
+  <dhRecbto>2019-05-07T15:38:11-03:00</dhRecbto>
+  <nProt>131193282922862</nProt>
+  <digVal>Nar+0m8wC0tVMtRb5aCVIKfKOLY=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

@@ -1,0 +1,42 @@
+body{
+    background: url(../images/tela.jpg) no-repeat 0px 0px;
+    z-index:-2;
+    width:100%;
+    height:100%;
+    position: absolute;
+}
+.titulo1{
+     background-color:rgba(117,135,155,0.6);
+    width:600px;
+    height:100%;
+     border-radius: 0px 0px 20px 20px ;
+    font-size:75px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#fff;
+    margin-top: -1px;
+}
+.login{
+    z-index:-1;
+    position:absolute;
+    background-color:rgba(117,135,155,0.6);
+    width:500px;
+    height:300px;
+    margin-top:400px;
+    margin-left:80px;
+    border-radius: 20px;
+}
+.formulario{
+    margin-top:420px;
+    margin-left: 100px;
+}
+.user{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:25px;
+    color:#ffff;
+}
+espaco{
+    font-size:75px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#055294;
+}
+

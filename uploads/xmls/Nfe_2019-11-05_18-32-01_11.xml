@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31191070986302000166550010008983501888038009" versao="4.00"><ide><cUF>31</cUF><cNF>88803800</cNF><natOp>VENDA PROD ESTAB SUJ REG S.TRIB - CONTR SUBSTITUTO</natOp><mod>55</mod><serie>1</serie><nNF>898350</nNF><dhEmi>2019-10-25T02:15:02-03:00</dhEmi><dhSaiEnt>2019-10-25T02:15:02-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3152709</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>9</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>1.00</verProc></ide><emit><CNPJ>70986302000166</CNPJ><xNome>ABATEDOURO PRADENSE LTDA</xNome><xFant>FRANGO ATALAIA</xFant><enderEmit><xLgr>RUA DA FABRICA 10</xLgr><nro>S/N</nro><xBairro>Rua de Baixo</xBairro><cMun>3152709</cMun><xMun>PRADOS</xMun><UF>MG</UF><CEP>36320000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3233536482</fone></enderEmit><IE>5278395620007</IE><CRT>3</CRT></emit><dest><CNPJ>38474441000106</CNPJ><xNome>GERALDO DA CONSOLACAO CONDE</xNome><enderDest><xLgr>S O SEBASTI O</xLgr><nro>83</nro><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>0319386048</fone></enderDest><indIEDest>1</indIEDest><IE>1836732800038</IE></dest><autXML><CPF>02876533669</CPF></autXML><det nItem="1"><prod><cProd>6</cProd><cEAN>SEM GTIN</cEAN><xProd>PEITO RESF. 20 KG</xProd><NCM>02071300</NCM><CEST>1708700</CEST><indEscala>S</indEscala><CFOP>5401</CFOP><uCom>KG</uCom><qCom>20.0000</qCom><vUnCom>5.7000000000</vUnCom><vProd>114.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>KG</uTrib><qTrib>20.0000</qTrib><vUnTrib>5.7000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS70><orig>0</orig><CST>70</CST><modBC>3</modBC><pRedBC>61.11</pRedBC><vBC>44.33</vBC><pICMS>18.00</pICMS><vICMS>7.98</vICMS><modBCST>4</modBCST><pMVAST>15.00</pMVAST><pRedBCST>61.11</pRedBCST><vBCST>50.98</vBCST><pICMSST>18.00</pICMSST><vICMSST>1.20</vICMSST></ICMS70></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>Vol.        1</infAdProd></det><total><ICMSTot><vBC>44.33</vBC><vICMS>7.98</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>50.98</vBCST><vST>1.20</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>114.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>115.20</vNF></ICMSTot></total><transp><modFrete>3</modFrete><transporta><CNPJ>70986302000166</CNPJ><xNome>ABATEDOURO PRADENSE LTDA.</xNome><IE>5278395620007</IE><xEnder>RUA DA FABRICA</xEnder><xMun>PRADOS</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>CX</esp><pesoL>20.000</pesoL><pesoB>20.470</pesoB></vol></transp><cobr><fat><nFat>898350</nFat><vOrig>115.20</vOrig><vDesc>0.00</vDesc><vLiq>115.20</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-11-08</dVenc><vDup>115.20</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>115.20</vPag></detPag></pag><infAdic><infCpl>PIS e COFINS Al quota Zero - Conf Art 1 , XIX, b da Lei 10.925/2004. ICMS retido subst tributaria conf. anexo XV art. 111, parte 2 item 43.2.48 do Dec 43.080/02 RICMS.</infCpl><obsCont xCampo="placa"><xTexto>HLO3491</xTexto></obsCont></infAdic><compra><xPed>399495</xPed></compra></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31191070986302000166550010008983501888038009"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>HiocztbFjt+yhA3ZSdHZtrCgx7A=</DigestValue></Reference></SignedInfo><SignatureValue>lNogs8IK8ExtK3xXgvuxSpa0Idxkf+BTBegmnMjGPlxFHXZJSIxOkUEMsydWUxB3DIYg/I7/IFW+
+fq55We3od9iP63Rvth/0oL/CrcDPyZhSColC3JxIUwhXOuCjzEFz324s9/5N7f5EVyPpKD9TqVoP
+cT6dGF8GbLOe7q8dDoVQuNxlM/LW6kwJD6si+3+SIJcfTZp3U2x6LIgHov9Dh3Zang4FTTLjGX0M
+vElTXhZI7BCb8Is+AXIXimR9I5nUEcQyT6EBrXZkyArmMykzX7V7zXYDknSIY6DoXNpYJIVRJVBU
+DL1GO2yOQ8RaHBxwWyB4eFTumpuKzjNVb5eWgg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHuTCCBaGgAwIBAgIQbbdgSXF2/wWLvmqAvaWx3zANBgkqhkiG9w0BAQsFADBxMQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRUwEwYDVQQDEwxBQyBCUiBSRkIgRzQwHhcNMTkwNTA4
+MTIzODQzWhcNMjAwNTA3MTIzODQzWjCB2zELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFz
+aWwxCzAJBgNVBAgMAk1HMQ8wDQYDVQQHDAZQcmFkb3MxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEg
+UmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECwwNUkZCIGUtQ05QSiBBMTEX
+MBUGA1UECwwOMDIzNDg3OTcwMDAxNDgxMDAuBgNVBAMMJ0FCQVRFRE9VUk8gUFJBREVOU0UgTFRE
+QTo3MDk4NjMwMjAwMDE2NjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKtjI6dL7k42
+Pnaj3GRyfzZGBWSCmMAzawIgGoF/dodMZ5JEUCZeCBfR+Ij5q2kqyoGUOXKeswmS6OpAmVNg9m8H
+l17z9PQ5h8dNF9tfSkoGiNmCYR5TNyqxiQjhpssBSDDhhQwNSVDAf2xwFvsg2lwsrYWxxcmJyadg
+BX12A4naLFxDjnPFnns3P3U5F2EAd9CjtL2HshkMApIWxmIOmsQeg2e/oH6UvjxJicm+rhcUyn7f
+sMysS1vZfjgafnh6gtq3AOkuC8/OTpRZgVd8UqnUJl/XusS/Nuj7bQbF7LNzQm9OWrVoolMDFNNm
+trklASIwktFHgbSuSn/BGPvJxgkCAwEAAaOCAuAwggLcMIHIBgNVHREEgcAwgb2gOAYFYEwBAwSg
+LwQtMDcwMzE5Njk1OTMzOTUyNzYxNTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwoCUGBWBMAQMC
+oBwEGk1BUkNFTE8gQU5UT05JTyBEQVMgQ0hBR0FToBkGBWBMAQMDoBAEDjcwOTg2MzAyMDAwMTY2
+oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEmbWFyY2Vsby5mdWxsaW5AYXRhbGFpYWFsaW1lbnRv
+cy5pbmQuYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBR1vyCKBKu00Xnkve8mEaBBNtj0vTBsBgNV
+HSAEZTBjMGEGBmBMAQIBGzBXMFUGCCsGAQUFBwIBFklodHRwOi8vaWNwLWJyYXNpbC5hY2JyLmNv
+bS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQlJfUkZCL0RQQ19BQ19CUl9SRkIucGRmMIGpBgNVHR8E
+gaEwgZ4wS6BJoEeGRWh0dHA6Ly9pY3AtYnJhc2lsLmFjYnIub3JnLmJyL3JlcG9zaXRvcmlvL2xj
+ci9BQ0JSUkZCRzQvTGF0ZXN0Q1JMLmNybDBPoE2gS4ZJaHR0cDovL2ljcC1icmFzaWwub3V0cmFs
+Y3IuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0JSUkZCRzQvTGF0ZXN0Q1JMLmNybDAOBgNVHQ8B
+Af8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGZBggrBgEFBQcBAQSBjDCB
+iTBTBggrBgEFBQcwAoZHaHR0cDovL2ljcC1icmFzaWwuYWNici5vcmcuYnIvcmVwb3NpdG9yaW8v
+Y2VydGlmaWNhZG9zL0FDX0JSX1JGQl9HNC5wN2MwMgYIKwYBBQUHMAGGJmh0dHA6Ly9vY3NwLWFj
+LWJyLXJmYi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQBQ7hMJ4+U2fDQvxTGg
+3I+ZGV2LenobdME7aJ7i/Tz7nqdyMQgcl9MQKRjtPPMRcNQ0qbWQk6+V0qqrCiiQ+z/kEJdVYR5z
+xHugFiSkXYDO5n9RsI+ytYsZHtS+7pVUwSaYKJdxqVKfyJMO85EvYMuxL5hAPkY1pA6PWNioYCrk
+d3te1Zl3X90vufTqQzwmBR1659LoAmzuNztBm/7DhUSWHWc+fOkUC27WdEI0+kttaY9DMlFt8xYl
+kuGwd3gyyPdOWG1dT3xuSJAxRc183fXNiPCcsryqqfU9Y6ISFAIMytzAwx7+J9xp5iopkEWxM9Zy
+noIwi6UHQ6LUvehIUBIMZcJSJD9i0+D1wf70Wi4Knji2bWZ2+/SUZ/jcqoln+wG6zrwP2goxonKY
+FDNJ6YStrdJby6CCQxZJlXcmr67tBGndF8ftgUOIUj8KnD3RDatyXXFYgqxlODyl8tNaqm4BmR3+
+R5R8n3su9EcwEJOxnDu4Rb0DxWUjK196f2xN7Q1LnEJLjQKNUm2bzigloFoSn1u/XZ/AnqsVrMRQ
+2Fa59/RWWTtG2HHVb70/bWgrCIwI2rMXen2VSlk5SH2Ow58Edbnj74z6lKA1a+H1N1xD/alUI27P
+7qfBvdYdsykhJcslfRPlSRJzYJ0j5pVTMWPFjuylJxr1UThN60grgobp8w==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193463454788">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.2</verAplic>
+  <chNFe>31191070986302000166550010008983501888038009</chNFe>
+  <dhRecbto>2019-10-25T02:15:35-03:00</dhRecbto>
+  <nProt>131193463454788</nProt>
+  <digVal>HiocztbFjt+yhA3ZSdHZtrCgx7A=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

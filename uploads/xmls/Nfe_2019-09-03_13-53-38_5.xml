@@ -1,0 +1,46 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190821256870000287550010000356021353553570" versao="4.00"><ide><cUF>31</cUF><cNF>35355357</cNF><natOp>Remessa Mercad.ou Bem P/Cons.ou Reparo</natOp><mod>55</mod><serie>1</serie><nNF>35602</nNF><dhEmi>2019-08-28T08:43:00-03:00</dhEmi><dhSaiEnt>2019-08-28T08:43:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3146107</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>4.0</verProc></ide><emit><CNPJ>21256870000287</CNPJ><xNome>FERRO + MINERACAO S.A</xNome><xFant>FERRO + MINERACAO - OURO PRETO</xFant><enderEmit><xLgr>Fazenda do Pires</xLgr><nro>S/N</nro><xCpl>KM 595 da BR 040</xCpl><xBairro>Distrito Miguel Burnier</xBairro><cMun>3146107</cMun><xMun>Ouro Preto</xMun><UF>MG</UF><CEP>35414000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3732499000</fone></enderEmit><IE>0010033550042</IE><IM>1080756</IM><CNAE>0710301</CNAE><CRT>3</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVS- MOTORS LTDA</xNome><enderDest><xLgr>RUA CEFISA VIANNA</xLgr><nro>251</nro><xCpl>LOJA  01</xCpl><xBairro>MUSEU</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400190</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137632143</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE><email>avsmotorsltda@gmail.com</email></dest><autXML><CNPJ>21256870000287</CNPJ></autXML><det nItem="1"><prod><cProd>IMOB00908</cProd><cEAN>SEM GTIN</cEAN><xProd>TOYOTA HILUX CD 4X4 AC 2015/2015 COR PRATA METALICO CHASSI 8AJFY22G8F8025844</xProd><NCM>87042190</NCM><CFOP>5915</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>100580.0000000000</vUnCom><vProd>100580.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>100580.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>0</vTotTrib><ICMS><ICMS40><orig>0</orig><CST>50</CST></ICMS40></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0</vBC><pPIS>0</pPIS><vPIS>0</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0</vBC><pCOFINS>0</pCOFINS><vCOFINS>0</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>100580.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>100580.00</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete></transp><pag><detPag><tPag>90</tPag><vPag>0.00</vPag></detPag></pag><infAdic><infCpl>Sem valor comercial, mercadoria enviada para conserto e posterior retorno,ICMS suspenso conf. Art.19 item 1 do Anexo III, Decreto 43080/2002 do RICMS.    CC 2106 - NF SOLICITADA POR EDUARDO  AQUINO- ALMOXSOL. 54049.Placa:  - UF:</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190821256870000287550010000356021353553570"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3trD7M92UK9QODsvmTIC1rYz6+g=</DigestValue></Reference></SignedInfo><SignatureValue>CM8UJKOzRq/09JfPF8gStLGHTN9D3yS0Jzkt5FPo6hHRBV9KGRSJazv7IP5Vp9qvwKZvj459Mv95
+fhavwDdvVbTHA1hK4pKLb9WMdg1IjtsFUReZEeic/RM1K4v7fsBC9Lx7k+OXY/L+Bfgb8PnVz+dK
+f7bgRzT5cb037FEZI6gqlywl/uYRuu7t2uo0eNaiYcA4uKhJnppnYA96TocuEksyVfYa7QBMHtxm
+EDWvuVUU2JS/1VNCzJ4UctsPIDLbVY+38YFyz+suf/3W10Oq4xXSxeEgupb3BTeMi4sW1SXmp+pu
+cX6nRR/Cv4NgF9yST99tHIZGuu5SGM/NymdixA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHPzCCBSegAwIBAgIEAQkKsTANBgkqhkiG9w0BAQsFADCBiTELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRv
+IEJyYXNpbCAtIFJGQjEtMCsGA1UEAwwkQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFNFUlBST1JG
+QnY1MB4XDTE5MDQyMzE5NDQ0M1oXDTIwMDQyMjE5NDQ0M1owgesxCzAJBgNVBAYTAkJSMQswCQYD
+VQQIDAJNRzEPMA0GA1UEBwwGSVRBVU5BMRMwEQYDVQQKDApJQ1AtQnJhc2lsMRcwFQYDVQQLDA4z
+NDAyODMxNjAwMDEwMzE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8g
+QnJhc2lsIC0gUkZCMRMwEQYDVQQLDApBUkNPUlJFSU9TMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEEx
+MSswKQYDVQQDDCJGRVJSTyBNSU5FUkFDQU8gUyBBOjIxMjU2ODcwMDAwMTA0MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsi8MsYXsYNeArVfnURUVuOcz3gNxudqPLWLdp3nBeLJu2hOJ
+GyUU8coUEmP/7gktezhp6NZnKH8Wl0tyu1xsQdxsDHLyGpxDn1vGIzVxBY22jbNJuoJiNp5kiJ/G
+wN2T8SyJMsAILdp1j+nEjVbZbP29WSrWLCrJ5FYVxURqHdCgfdTNK9cS3LKCPdf8VcLV/O46+q8v
+vBIhHXGtHbUxM6Fwxbfz9Lw0ypOVKjBg/ZaZmJpthr5w1Z6oWPNsx6A37LJj3Ga9afVy9XVTEA7P
+SjwrWnOXTlDDmaIlG7iJALsWCDmWMoBLu6RPVyrXHe+Xsf5vpXbgUVlKMSNU538DCwIDAQABo4IC
+STCCAkUwHwYDVR0jBBgwFoAUFIAtnX6aRcDxWz8Z1UCwby9l4OkwWwYDVR0gBFQwUjBQBgZgTAEC
+AQowRjBEBggrBgEFBQcCARY4aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvZG9jcy9k
+cGNhY3NlcnByb3JmYi5wZGYwgYgGA1UdHwSBgDB+MDygOqA4hjZodHRwOi8vcmVwb3NpdG9yaW8u
+c2VycHJvLmdvdi5ici9sY3IvYWNzZXJwcm9yZmJ2NS5jcmwwPqA8oDqGOGh0dHA6Ly9jZXJ0aWZp
+Y2Fkb3MyLnNlcnByby5nb3YuYnIvbGNyL2Fjc2VycHJvcmZidjUuY3JsMFYGCCsGAQUFBwEBBEow
+SDBGBggrBgEFBQcwAoY6aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvY2FkZWlhcy9h
+Y3NlcnByb3JmYnY1LnA3YjCBsgYDVR0RBIGqMIGnoDoGBWBMAQMEoDEELzIyMTIxOTU3MzY0MTQ1
+NDk2NDkwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwME1HoCAGBWBMAQMCoBcEFVJPTVVMTyBESU5J
+WiBOT0dVRUlSQaAZBgVgTAEDA6AQBA4yMTI1Njg3MDAwMDEwNKAXBgVgTAEDB6AOBAwwMDAwMDAw
+MDAwMDCBE3JhbmdlbEBkYnN5cy5jb20uYnIwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMEBggrBgEFBQcDAjANBgkqhkiG9w0BAQsFAAOCAgEAfIBPOk6Y/TTw3Ge0nr8dFOplfFEh
+6A2nntcoowH/IaX+BLBKaDUBfCSL5C9L4AuPUTJAWjxE2IckM6od084MMNI4fCIyKOfPDuKeEoed
+8CFYkMLQhS9DcBYoCexwBeU8vOegbo/1IFBQSw+fnS3d/OGrlsHziHH6gpW289t/iFd26dG10PQz
+TxVdVcx2eCwfYf6KCTyCFDhwVMIMjynQXou+4oGdTAiJ7dSp3bShsRo90gTA5Lris6mvt36fp/LK
+DbSI2WfUw8+ngK3ann8INtUfq8/jncgvFXaLVv77pf9cn/IGyDYQ+9gWKUnzKIJy3+YXW3DcmLsO
+kLxw+FPpHqp8YL7b2ApSw/aFYh7/svSKjfJjXQEAZl7r9BMWKRy8CDkojIM9hm1z9NlRZWLq7s+n
+1g1nQftEoKAvs4aR5st+xNhZ8jGMPve3lkCLjqFcHtjJBSHxJBVkW8XBELWQDOUNtciNDuxcZs0y
+Hj8oppD9P8SREBxp7KhTuCmkiK9Y1+1Dcg8mlR4c9WySmlSn8siMNo/kNcpJAa4h9hIijN76iX7v
+4dGjhBcOXWBIwicsr5z8NYQWRPbn1fT8bjT027dRNOLXczaCIk+i8NqUGgs4A2ybapkYcTp0tgc8
+DOlOmY2oy8pwzMI8t4TLYzIkEzekeYsXImEvYLi+x7BDSFE=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193399988068">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190821256870000287550010000356021353553570</chNFe>
+  <dhRecbto>2019-08-28T08:51:41-03:00</dhRecbto>
+  <nProt>131193399988068</nProt>
+  <digVal>3trD7M92UK9QODsvmTIC1rYz6+g=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

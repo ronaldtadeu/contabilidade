@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190804487083000146550030001662111111030082" versao="4.00"><ide><cUF>31</cUF><cNF>11103008</cNF><natOp>BONIFICACAO, DOACAO OU BRINDE</natOp><mod>55</mod><serie>3</serie><nNF>166211</nNF><dhEmi>2019-08-30T17:43:00-03:00</dhEmi><dhSaiEnt>2019-08-30T17:43:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.114</verProc></ide><emit><CNPJ>04487083000146</CNPJ><xNome>PIONEIRA COMERCIO PET LTDA</xNome><enderEmit><xLgr>RUA JOSE SIMPLICIO MOREIRA</xLgr><nro>791</nro><xBairro>TREVO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>31370505</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3134196300</fone></enderEmit><IE>0621336130058</IE><CRT>3</CRT></emit><dest><CNPJ>42853549000179</CNPJ><xNome>COMERCIAL SANTA MATILDE LTDA ME</xNome><enderDest><xLgr>AV. SANTA MATILDE</xLgr><nro>910</nro><xCpl>-</xCpl><xBairro>SANTA MATILDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623660</fone></enderDest><indIEDest>1</indIEDest><IE>1838080270069</IE><email>casadaracaosm@hotmail.com</email></dest><entrega><CNPJ>42853549000179</CNPJ><xLgr>AV. SANTA MATILDE</xLgr><nro>910</nro><xCpl>-</xCpl><xBairro>SANTA MATILDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><autXML><CNPJ>10695432000118</CNPJ></autXML><det nItem="1"><prod><cProd>1011</cProd><cEAN>7898315810116</cEAN><xProd>DUOTRILL 50MG C/120 COMP</xProd><NCM>30049067</NCM><CFOP>5910</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>252.7300000000</vUnCom><vProd>252.73</vProd><cEANTrib>7898315810116</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>252.7300000000</vUnTrib><vDesc>75.82</vDesc><indTot>1</indTot><xPed>87003267</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>176.91</vBC><pICMS>18.0000</pICMS><vICMS>31.84</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>1013</cProd><cEAN>7898315810611</cEAN><xProd>DUOTRILL 150MG C/60 COMP</xProd><NCM>30049067</NCM><CFOP>5910</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>268.3600000000</vUnCom><vProd>268.36</vProd><cEANTrib>7898315810611</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>268.3600000000</vUnTrib><vDesc>80.51</vDesc><indTot>1</indTot><xPed>87003267</xPed><nItemPed>2</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>187.85</vBC><pICMS>18.0000</pICMS><vICMS>33.81</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>364.76</vBC><vICMS>65.65</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>521.09</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>156.33</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>364.76</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>04597279000193</CNPJ><xNome>RAD TRANSPORTES</xNome><xEnder>AV ALTAMIRO AVELINO SOARES, 1091 - CASTELO</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>0.100</pesoL><pesoB>0.100</pesoB></vol></transp><pag><detPag><indPag>0</indPag><tPag>90</tPag><vPag>0.00</vPag></detPag></pag><infAdic><infCpl>OBS.:ARISTIDES JOSE CRMV: 7120//AAS - CLIENTE:</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190804487083000146550030001662111111030082"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>htqCMzGxKcSAB+ierCNqnQry7zg=</DigestValue></Reference></SignedInfo><SignatureValue>3H2ZYwG/0Vkjlahbm6R01yv8rmFSVZxET/P6GtT4aCNH2F0fjj02UlNb85/B10pubMLG6zxrHzac
+J4W49bQAepmPjA7IhqyRu0dvJ8YukSVOlJ+uZYJ/9foM+xKbVm/i8TfhCWB5iuI5RTXMbnTbeDtp
+huEgOXuemhrmVdbH3wHxIXhTuCOHjPco5l4eiGFQ26VKXzcZIeJg0oak17bhgk6duSccUe6cFeKB
+n8QnAtOw4cH6gctZ7984zyBuYJ/2pai/9w/MQbmj0NM41C91wEjt+u+Dzzl2GUfpAjF2pRRVcV/o
+G7vtbDMfUP7QLFRqaZ/2J0oCUhztDVC0WIKKig==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHvjCCBaagAwIBAgIIWGsZARFITZAwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0xOTAxMTYxMzMxNDlaFw0yMDAxMTQxOTM1MDBaMIHaMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMTMwMQYDVQQDEypQSU9ORUlSQSBD
+T01FUkNJTyBQRVQgTFREQS46MDQ0ODcwODMwMDAxNDYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDip+DZ4ZrA4bo1CwpL+kY//TaQJWhBFS5YzFmpPj05bbgHXok2oZvj3YcPNNqdWi+e
+lUzybEITn+pQTx8YlWGW8uFYPjXsVmyZ1rqZQmSYUvFn0OOhbOgh9tB8cv76PNr0DY6N2KycooWW
+vgn0pR+4S9t+OPs2M6TRZSJPJM6eHGhZteTHNooE2Zk/vhnPuQKV7wn0csl4hbWyw8iZoIJVP9ao
+DbL0zueTs7BKqNNWt/CXAZKa9NNAabcYTaUI2h3lOU5oj7fBnF04TsR9V3uQxZvitj7/Ax6O2b/D
+YMxC/WjPMT+VDIqFccONWt9hj7ibr7AHA9PBoF9UAIo1CSLRAgMBAAGjggLVMIIC0TBUBggrBgEF
+BQcBAQRIMEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1z
+b2x1dGktbXVsdGlwbGEtdjEucDdiMB0GA1UdDgQWBBR/J4+swoZ8QRLCiHF588c6NYghEDAJBgNV
+HRMEAjAAMB8GA1UdIwQYMBaAFDWuMRT2XtJ6T1j+NKgaZ5cKxJsHMF4GA1UdIARXMFUwUwYGYEwB
+AgEmMEkwRwYIKwYBBQUHAgEWO2h0dHBzOi8vY2NkLmFjc29sdXRpLmNvbS5ici9kb2NzL2RwYy1h
+Yy1zb2x1dGktbXVsdGlwbGEucGRmMIHeBgNVHR8EgdYwgdMwPqA8oDqGOGh0dHA6Ly9jY2QuYWNz
+b2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjEuY3JsMD+gPaA7hjlodHRwOi8v
+Y2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwUKBOoEyG
+Smh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292LmJyL2xjci9BQ1NPTFVUSS9hYy1zb2x1
+dGktbXVsdGlwbGEtdjEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYI
+KwYBBQUHAwQwgb0GA1UdEQSBtTCBsoEbYW5hY2Fyb2xpbmFAcGlvdmV0c3MuY29tLmJyoCUGBWBM
+AQMCoBwTGkFOQSBDQVJPTElOQSBBUkFVSk8gWEFWSUVSoBkGBWBMAQMDoBATDjA0NDg3MDgzMDAw
+MTQ2oDgGBWBMAQMEoC8TLTI3MDYxOTc0OTY4MDkwNzg2NDkwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAGBMZzHBGHxh
+TV+HctGAvJhgq3G1Ojx2MAGXdft547WHdouORpCEt7RzKZJltQg9m+NCjfm9vecM9+ByEDpEiRmt
+DnG5vPa4MQNwpdjQ6GYS2Rtc5LOAriBeZTb0SngRhWVD189cvQ8hKPef//NOkxey5fdrpM/SXSJz
+5wyAss0XF2ZScHPELTer6AHoyBDWDABtsPC2U6HII23i+4vx6lWUuCkf1CUBRdmK3A6xDWaOVIBZ
+q9sO2KJF/bp6Xz/jrP8n+6OBlM60llYaDEmafeXndlQsKcQT8jqjwYXuLn2S+phEf0nZQdJfjFot
+p0y0dz5OcnBomL3ppxD+3PhULDbCeT5DxTZscflaPFDQ6tUDsmRnyRVW+3cxrtE/EN3+JPlgKFb7
+3a/x5bMuo57FYwE7kP6XpWtLkImCuVgassKaN4W5PJdWKX25Ec2E5HoBzIKLqYEqm8waM3Taj7k1
+Xf2KFS6uvglmuV3co4i7okh+MUPJ+TVw2xtiJ7N3HddM56BG8DRLvYpZ312+w3ckITPMHKwI1SWE
+b7/RMwZpMQOJrfVOTDiReZR0KttLBkA+b162S7vaO3sLQu+68HqSPUJvUm4aSzXdR0Z41j20M8WY
+TnCeryw234BBrUVX6MVJ6W1C+spGO3zFoRy/9vc5sGwzq/iPNmEomKG36UzwWxvT</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193403744045">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190804487083000146550030001662111111030082</chNFe>
+  <dhRecbto>2019-08-30T17:43:18-03:00</dhRecbto>
+  <nProt>131193403744045</nProt>
+  <digVal>htqCMzGxKcSAB+ierCNqnQry7zg=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

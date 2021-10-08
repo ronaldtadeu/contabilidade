@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190507766339000142550020000024871000024872" versao="4.00"><ide><cUF>31</cUF><cNF>00002487</cNF><natOp>DENTRO ESTADO</natOp><mod>55</mod><serie>2</serie><nNF>2487</nNF><dhEmi>2019-05-30T16:07:05-02:00</dhEmi><dhSaiEnt>2019-05-30T16:07:05-02:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118304</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>8.7</verProc></ide><emit><CNPJ>07766339000142</CNPJ><xNome>ROCHA PECAS</xNome><xFant>COM.PEC.AC ROCHAPECAS</xFant><enderEmit><xLgr>AV. TELESFORO CANDIDO DE REZENDE</xLgr><nro>514</nro><xCpl>LJ02</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137211331</fone></enderEmit><IE>1834360680000</IE><CRT>1</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>82 AVS MOTORS</xNome><enderDest><xLgr>RUA PADRE LOBO</xLgr><nro>100</nro><xBairro>CHAPADA</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137632143</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE></dest><det nItem="1"><prod><cProd>23620</cProd><cEAN /><xProd>BATENTE AMORTECEDOR TRASEIRO STRADA</xProd><NCM>87088000</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>2.0000</qCom><vUnCom>60.0000</vUnCom><vProd>120.00</vProd><cEANTrib /><uTrib>UN</uTrib><qTrib>2.0000</qTrib><vUnTrib>60.0000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>18.44</vTotTrib><ICMS><ICMSSN500><orig>0</orig><CSOSN>500</CSOSN><vBCSTRet>0.00</vBCSTRet><pST>0.00</pST><vICMSSTRet>0.00</vICMSSTRet></ICMSSN500></ICMS><PIS><PISAliq><CST>01</CST><vBC>0.00</vBC><pPIS>0.00</pPIS><vPIS>0.00</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>0.00</vBC><pCOFINS>0.00</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="2"><prod><cProd>4081</cProd><cEAN /><xProd>CABO FREIO DE MAO BRASILIA EFRARI</xProd><NCM>87083090</NCM><CFOP>5403</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>22.0000</vUnCom><vProd>22.00</vProd><cEANTrib /><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>22.0000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>3.38</vTotTrib><ICMS><ICMSSN500><orig>0</orig><CSOSN>500</CSOSN><vBCSTRet>0.00</vBCSTRet><pST>0.00</pST><vICMSSTRet>0.00</vICMSSTRet></ICMSSN500></ICMS><PIS><PISAliq><CST>01</CST><vBC>0.00</vBC><pPIS>0.00</pPIS><vPIS>0.00</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>0.00</vBC><pCOFINS>0.00</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>142.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>142.00</vNF><vTotTrib>21.82</vTotTrib></ICMSTot></total><transp><modFrete>1</modFrete></transp><cobr><fat><nFat>00002487</nFat><vOrig>142.00</vOrig><vDesc>0.00</vDesc><vLiq>142.00</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-05-30</dVenc><vDup>142.00</vDup></dup></cobr><pag><detPag><tPag>90</tPag><vPag>142.00</vPag></detPag></pag><infAdic><infCpl>DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL. NAO GERA DIREITO A CREDITO DE ISS E IPI</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190507766339000142550020000024871000024872"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1cg/X2BXBZc762sC340A4USKpSA=</DigestValue></Reference></SignedInfo><SignatureValue>M0BmDG+yWkr4t3KFTJH8W4tS0PDyHmnEIafCpzzuDjUBAWTbQCSHK7AK/yOgWNYZ9T2CrIkKUCXF
+/ewPb500Cvylls1MsxG/Bhfb+dPyq7FBbsP6Gr9tKmzD5s21+GEJk6SF5njxc5iOW3J+6VqICygd
+RMicxTAgt4nKQtNwrqPe+kxv0rDwDPiLMSBrkqOV4y6e4ZD1g0JYZd8qiugsZWDNYzL+wWzXyYlA
+vkQn0Bw75SHVdbVYqGWHQkuPkloeBk7zUOTfZN1t9nFwzGEkRUPIx63uKAReq0393S44aKz1NgEu
+HtlGb0w7revTAscId1WA+7oSTyxdZe4g2t1YEg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIKDCCBhCgAwIBAgIITY4trXXNHwEwDQYJKoZIhvcNAQELBQAwdDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEYMBYGA1UEAxMPQUMgRE9DQ0xPVUQgUkZCMB4XDTE4MDgzMDIxMTQw
+NloXDTE5MDgzMDIxMTQwNlowgfwxCzAJBgNVBAYTAkJSMQswCQYDVQQIEwJNRzEdMBsGA1UEBxMU
+Q09OU0VMSEVJUk8gTEFGQUlFVEUxEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3Jl
+dGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZCIGUt
+Q05QSiBBMTEUMBIGA1UECxMLQVIgRE9DQ0xPVUQxRjBEBgNVBAMTPUNPTUVSQ0lPIERFIFBFQ0FT
+IEUgQUNFU1NPUklPUyBST0NIQVBFQ0FTIExUREE6MDc3NjYzMzkwMDAxNDIwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCkDIxhkxGQiCU+v8PyIjhxwdTru8BfvXnytaFkT5MzP9md1zFa
+89hE5SP7nS4QzbTAhY81VInWQ5udSEH6/8vqlZqfMcxrb2rhyjwfr4TwT3wjnPpV7mqM2EN6RxgE
+SsoZ44cxue9mcx19IxcYiOsSrHy/aQpCZVV2PMePVhCpDuD5Ubm9PcytukO8eUa35P80bt/vX6lN
+bKMkKbtntWoVqaRkvPSuaRlsauKp+p5ry3teriDgPm/JizCjBd/7gzCgXG67HlAKrkAdrUuLDlxE
+Twd8/ZkjTwk9eWYa9WhpdMM8YX82BcNC2tDBgBU2w1goLE8xF2J6/cz6BLVRaB/NAgMBAAGjggMz
+MIIDLzAfBgNVHSMEGDAWgBQ1SCgKRqplE0yVjx1SYZW95xPjjDAOBgNVHQ8BAf8EBAMCBeAwcAYD
+VR0gBGkwZzBlBgZgTAECATowWzBZBggrBgEFBQcCARZNaHR0cDovL3JlcG9zaXRvcmlvLmFjZG9j
+Y2xvdWQuY29tLmJyL2FjLWRvY2Nsb3VkcmZiL2FjLWRvY2Nsb3VkLXJmYi1wYy1hMS5wZGYwggEF
+BgNVHR8Egf0wgfowUqBQoE6GTGh0dHA6Ly9yZXBvc2l0b3Jpby5hY2RvY2Nsb3VkLmNvbS5ici9h
+Yy1kb2NjbG91ZHJmYi9sY3ItYWMtZG9jY2xvdWRyZmJ2Mi5jcmwwU6BRoE+GTWh0dHA6Ly9yZXBv
+c2l0b3JpbzIuYWNkb2NjbG91ZC5jb20uYnIvYWMtZG9jY2xvdWRyZmIvbGNyLWFjLWRvY2Nsb3Vk
+cmZidjIuY3JsME+gTaBLhklodHRwOi8vcmVwb3NpdG9yaW8uaWNwYnJhc2lsLmdvdi5ici9sY3Iv
+ZG9jY2xvdWQvbGNyLWFjLWRvY2Nsb3VkcmZidjIuY3JsMIGRBggrBgEFBQcBAQSBhDCBgTBUBggr
+BgEFBQcwAoZIaHR0cDovL3JlcG9zaXRvcmlvLmFjZG9jY2xvdWQuY29tLmJyL2FjLWRvY2Nsb3Vk
+cmZiL2FjLWRvY2Nsb3VkcmZidjIucDdiMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5hY2RvY2Ns
+b3VkLmNvbS5icjCBwgYDVR0RBIG6MIG3gSJDT05UQUJJTElEQURFRkFSSUEyMDExQEhPVE1BSUwu
+Q09NoCMGBWBMAQMCoBoTGEFSSUxTT04gTUFSUVVFUyBEQSBST0NIQaAZBgVgTAEDA6AQEw4wNzc2
+NjMzOTAwMDE0MqA4BgVgTAEDBKAvEy0wODAyMTk3MTc0MDgxMjkyNjA0MDAwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMB0GA1UdJQQWMBQGCCsGAQUFBwMC
+BggrBgEFBQcDBDAJBgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4ICAQBNDY7AAwGEt8CfOEqfCIOe
+ZCZg4WrkJ5ZZb1qiIyq9x4MfqFMFf+jkx7nAIaO8OGib8XS4HAGszXrjMWnSeViYN5i1h3Pe8mwq
+lphBuoSYAGGZEKz8sBRrPqAKVgO76aMgTSqZL0A3AzeML3vHR1JGzlNTy4CAMnY6/eyydIgBQy3j
+qcy3EEBkdgNzH645Op2UYHowXbFslrzBm10+ADSgMLK3PPEe4CI2R4a/3w0Z7hctBfWG63ul8m5C
+aw+Csr9QEkruH4v9uVz95qmX/qWbufERs/JCKPbY0ftUcNPXCaJ/MpGMOmm8gco6Q1+NZJ45y3Vn
+pYGszddWhT9svEF6MUFsP1fcGb/IMRSshuscrqjv4W45sNg7/tWsiIU3lYsLtISnIDfSjNlPoanl
+oJF7CI4b5CTwRezqPCHfJr5gHml99xQQmzAjVEDXd+uaX3ROiqQuloAcq9/+IQdiFe5I+Q5/4BME
+4yBoT17VwdUZETfv2xUp2kqm4jdktMRlZBJOISqDt7+FxF6ZVwh85LZd2ChUJrDT0vtPkCOrfE2F
+nbBvvd348tKX41PRWFJGOWSCuiJdRRziWIrF+MgyeAvQ9vAUP19NAfQBequQolET1aHwVevJA1Op
+ugmq6gUK7F8ieG6hEDLWPQUVApOAbN7pBVnguRqZWRNsvepHQWO0Tg==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193307901111">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.7</verAplic>
+  <chNFe>31190507766339000142550020000024871000024872</chNFe>
+  <dhRecbto>2019-05-30T16:07:19-03:00</dhRecbto>
+  <nProt>131193307901111</nProt>
+  <digVal>1cg/X2BXBZc762sC340A4USKpSA=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

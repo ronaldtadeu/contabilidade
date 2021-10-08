@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31210860409075020340550010011958661938006317" versao="4.00"><ide><cUF>31</cUF><cNF>93800631</cNF><natOp>VD.MERC.SUJEITA AO REG.DE ST</natOp><mod>55</mod><serie>1</serie><nNF>1195866</nNF><dhEmi>2021-08-30T11:15:30-03:00</dhEmi><dhSaiEnt>2021-08-30T11:20:30-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3105608</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><indIntermed>0</indIntermed><procEmi>0</procEmi><verProc>SAP GRC NFE 4.00</verProc></ide><emit><CNPJ>60409075020340</CNPJ><xNome>Nestle Brasil Ltda</xNome><xFant>BR DC Broker Barbacena</xFant><enderEmit><xLgr>Av Helena Aguiar de Figueiredo</xLgr><nro>407</nro><xCpl>GP B SL1</xCpl><xBairro>Ipanema</xBairro><cMun>3105608</cMun><xMun>Barbacena</xMun><UF>MG</UF><CEP>36205507</CEP><xPais>Brasil</xPais><fone>08000304321</fone></enderEmit><IE>0017611430149</IE><IM>109203</IM><CRT>3</CRT></emit><dest><CNPJ>01095630000150</CNPJ><xNome>Lanchonete L F S Ltda</xNome><enderDest><xLgr>R Deputado Ant F Ribeiro</xLgr><nro>22</nro><xCpl>Lj 28</xCpl><xBairro>Centro</xBairro><cMun>3118304</cMun><xMun>Conselheiro Lafaiete</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137213900</fone></enderDest><indIEDest>1</indIEDest><IE>1839636000010</IE></dest><autXML><CNPJ>19417473000117</CNPJ></autXML><det nItem="1"><prod><cProd>000000000012272482</cProd><cEAN>7891000107843</cEAN><xProd>SUFLAIR Chocolate Leite 12(20x50g) BR</xProd><NCM>18063210</NCM><CEST>1700300</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>EXB</uCom><qCom>1.0000</qCom><vUnCom>50.6600000000</vUnCom><vProd>50.66</vProd><cEANTrib>7891000107836</cEANTrib><uTrib>UNI</uTrib><qTrib>20.0000</qTrib><vUnTrib>2.5330000000</vUnTrib><indTot>1</indTot><xPed>2521503</xPed><nItemPed>000010</nItemPed><nFCI>9AC7D43E-000F-4F85-8F35-5B7273B10281</nFCI></prod><imposto><ICMS><ICMS60><orig>5</orig><CST>60</CST><vBCSTRet>34.39</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>2.62</vICMSSubstituto><vICMSSTRet>3.57</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>50.66</vBC><pPIS>1.6500</pPIS><vPIS>0.84</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>50.66</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>3.85</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>Resolucao do Senado Federal no 13/12,No da FCI 9AC7D43E-000F-4F85-8F35-5B7273B10281Valor da BC do ICMS ST retido: 34,39 , Valor do ICMS ST retido: 3,57</infAdProd></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>50.66</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.84</vPIS><vCOFINS>3.85</vCOFINS><vOutro>0.00</vOutro><vNF>50.66</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>14635653000151</CNPJ><xNome>Brocker Atos Distribuicao Ltda</xNome><IE>0018741160061</IE><xEnder>Av Helena Aguiar de 407 Gp B Sl 02</xEnder><xMun>Barbacena</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>EXB</esp><pesoL>1.000</pesoL><pesoB>1.080</pesoB></vol></transp><cobr><fat><nFat>9643644314</nFat><vOrig>50.66</vOrig><vDesc>0.00</vDesc><vLiq>50.66</vLiq></fat><dup><nDup>001</nDup><dVenc>2021-09-20</dVenc><vDup>50.66</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>50.66</vPag></detPag></pag><infAdic><infAdFisco>Valor da BC do ICMS ST retido: 34,39 , Valor do ICMS ST retido: 3,57</infAdFisco><infCpl>Docnum: 0176256115 Cli: 0000619422 FFt: 6617 Emp: BR10 Org. Vendas: BRL1 / 06 / 00 Fvd: Remessa: 8387454263 Doct.Fat: 9643644314 N. Carga: 8025907162 Parceiro 10509535 Pedido: 5395615841 *Boleto Anexo* TaxPerm 72.0000000 PedCli: 2521503Vol(M3): 0.003Valor L quido: 50,66Total da BC do ICMS ST retido: 34,39 Total do ICMS ST retido: 3,57ICMS j pagovia Sub.Trib.</infCpl><obsCont xCampo="FATURA"><xTexto>CondPagto Vencto 21 dias apos dtfat Venc 200921</xTexto></obsCont></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210860409075020340550010011958661938006317"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>uutpV/WZd959gVl/mS9TTUv9TUs=</DigestValue></Reference></SignedInfo><SignatureValue>lPUpv6ZEdK0U5KBcbOeStaxAVcAzsSAv+hmMbfjTjcOMCRQnCqhQFgZNtBnLpwkGjmKsFkNjpw8J
+SrkS/P+0VwHkLNeG8LhliHAGMRyvqIA4mn+TPiEjC7sc5e7L3NIr3iWmRkifR69kSAA/1ZImAch7
+f1DzHWq5aJQKp/Ir5P0LcgH2gMqM+8AKqW06ybmaYJ1nxsnJoPhZF5maV/R4IyoeYxh9b2zldVTw
+yPeNIS54QVMwbZFNfAA3swqME0gQXZkhJLkg2USTt1EfixBpFTKPjXjJlf197UuVfn558bHk6pxm
+UpjTEl/ZVlVgzjb6eJmvV0GCg3+CzGRCSbA/dA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH/jCCBeagAwIBAgIQXgA/qyCO6HZlBCuS8Mc93jANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTIxMDYyNTIwMjQyMloXDTIyMDYyNTIwMjQyMlowge0xCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJTUDESMBAGA1UEBwwJU2FvIFBhdWxvMRMwEQYDVQQLDApQcmVz
+ZW5jaWFsMRcwFQYDVQQLDA4wMjE3Mjk4MTAwMDE4MDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBS
+ZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMSow
+KAYDVQQDDCFORVNUTEUgQlJBU0lMIExUREE6NjA0MDkwNzUwMDAxNTIwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQClZhAhP1zOsmSKoAyoco3l+SLWMOxTEyiQnL+koqsrchIOJYEFLBny
+tDNtdcwWM4GfxsyZujVmQD+MkxDjzXRO9FwkD79pUXsR2z2mNJcZnaxSfyF2x6bPLmOtYRaQ6gth
+vRuahOtABglm2Miw1H1AskktxGyR8sh7DNj14aqEKmbmaGb5z0Ir2W6RHCsJMPgrJ0kLOj4YNYZ9
+dl9JptEqIU9MBbQssKMHPUvtTpKw16AJdvQ/wo2EDgYkb2fpc80H/IQsO01kaqEfXDuDScGXsaer
+jYtcJ8qUAqUecmhWogsf/fsky8EdHY2wY3ERcFLFoT+xDScOZUNuANNCqbmZAgMBAAGjggMMMIID
+CDCBuwYDVR0RBIGzMIGwoDgGBWBMAQMEoC8ELTE2MDkxOTc4NzE2NTM0MDAxNzAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMKAhBgVgTAEDAqAYBBZSVUkgUEVEUk8gVkFSRUxBIFJBTU9ToBkGBWBM
+AQMDoBAEDjYwNDA5MDc1MDAwMTUyoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEdRkVSTkFOREEu
+U0lMVkEyQEJSLk5FU1RMRS5DT00wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTfX+dvtFh0CC62p/j
+iacTc1jNQjB/BgNVHSAEeDB2MHQGBmBMAQIBDDBqMGgGCCsGAQUFBwIBFlxodHRwOi8vaWNwLWJy
+YXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fUkZCL0RQ
+Q19BQ19DZXJ0aXNpZ25fUkZCLnBkZjCBvAYDVR0fBIG0MIGxMFegVaBThlFodHRwOi8vaWNwLWJy
+YXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xh
+dGVzdENSTC5jcmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBv
+c2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMA4GA1UdDwEB/wQEAwIF
+4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgawGCCsGAQUFBwEBBIGfMIGcMF8GCCsG
+AQUFBzAChlNodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2Nl
+cnRpZmljYWRvcy9BQ19DZXJ0aXNpZ25fUkZCX0c1LnA3YzA5BggrBgEFBQcwAYYtaHR0cDovL29j
+c3AtYWMtY2VydGlzaWduLXJmYi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQBC
+oXlZuagpS84zeWX10TcUrq8uBBWM0QmMXC2fH7J2ks2jCY0XNGZIgc5Dh1XqtNx5QmuspILm8Jds
+0ECipCtR/hHiEVUyk0GdzPfSOBfxMzEBT4G6xi2fPpjkNbE2qjA0raEjCT4hjh+zwL6py/1+Jkcc
+ABqqEJ925T6dLmGdMR6d54XjpKZR5AOF25ObC7kmX6pMC0+MVwsJzBqzS6avs/0hjUh0BI4tRxJg
+pVaOZfNQSIHVt4XA9yEUNFNqulA9yEReUHvsU8bjuNnTg15IgfkWzfOxCokZRq9t/fIlYCihXDyO
+pIuDHAllvjH6D8b8Om3EkM7e+L7iA1VPDs9XJHDdCFRelnxWNbnFhhoPR2CRvbnpxhfiyxevCevC
+YDnx7RZXSUKDBDizXcGVSR3Ji2+japX7JoXGcBqqtm/VDsAR0dKLek6kJvy2VNS29yxryLA8+SrC
+Fd1uIGfnLMuGVISqSltpZBoBeGYvqhjlWYZkyqndssqmJ2sYqEDMXHN13trSa+Utst/K3MtVbJve
+C0Wa0bKScwSniUytpXGAJQVYLhC3HkrfG1ckHTN5swjdrRZScls6EosU5ja93Zw7dlSFSnzuiFx9
+ZZScjJuWhDdDma5Q+CQ6oLHEAHzsWSPzgu6+8P8qaVxvOvtswiYd5aDIlrfyh5rsnBwe6KIIlA==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214316828771">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.26-NI1</verAplic>
+  <chNFe>31210860409075020340550010011958661938006317</chNFe>
+  <dhRecbto>2021-08-30T11:17:27-03:00</dhRecbto>
+  <nProt>131214316828771</nProt>
+  <digVal>uutpV/WZd959gVl/mS9TTUv9TUs=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

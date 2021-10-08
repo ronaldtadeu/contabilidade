@@ -1,0 +1,47 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31210534516088000200550210000825841600288050"><ide><cUF>31</cUF><cNF>60028805</cNF><natOp>Outra saída merc. prest. serv. não especificado</natOp><mod>55</mod><serie>21</serie><nNF>82584</nNF><dhEmi>2021-05-20T09:57:01-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP NFE 10</verProc></ide><emit><CNPJ>34516088000200</CNPJ><xNome>SECULUS DA AMAZÔNIA INDÚSTRIA E COMÉRCIO S/A</xNome><xFant>SECULUS AMAZONIA ADM BHTE</xFant><enderEmit><xLgr>AVENIDA AFONSO PENA</xLgr><nro>3577</nro><xBairro>FUNCIONÁRIOS</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>30130008</CEP><xPais>Brasil</xPais><fone>3135167600</fone></enderEmit><IE>0626654320068</IE><IM>0377.972/001-0</IM><CNAE>8211300</CNAE><CRT>3</CRT></emit><dest><CNPJ>00149895000120</CNPJ><xNome>IRINEIA COMERCIAL LTDA ME</xNome><enderDest><xLgr>R MELO VIANA</xLgr><nro>113</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400070</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137633716</fone></enderDest><indIEDest>1</indIEDest><IE>1838926970038</IE></dest><det nItem="1"><prod><cProd>000000001500006020</cProd><cEAN>SEM GTIN</cEAN><xProd>PDV GERAL-CAIXA C CHOCOLATE PERSONALIZ</xProd><NCM>18069000</NCM><CFOP>5949</CFOP><uCom>UN</uCom><qCom>24.0000</qCom><vUnCom>1.2195833333</vUnCom><vProd>29.27</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>24.0000</qTrib><vUnTrib>1.2195833333</vUnTrib><indTot>1</indTot><xPed>0001</xPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>29.27</vBC><pICMS>18.0000</pICMS><vICMS>5.27</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><det nItem="2"><prod><cProd>000000001500003194</cProd><cEAN>SEM GTIN</cEAN><xProd>MATERIAL PDV GERAL - DISPLAY</xProd><NCM>49119900</NCM><CFOP>5949</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>1.2200000000</vUnCom><vProd>1.22</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>1.2200000000</vUnTrib><indTot>1</indTot><xPed>0001</xPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>1.22</vBC><pICMS>18.0000</pICMS><vICMS>0.22</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>30.49</vBC><vICMS>5.49</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>30.49</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>30.49</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>34028316001509</CNPJ><xNome>EMPRESA BRASILEIRA DE CORREIOS E TE FOS</xNome><IE>0620144620013</IE><xEnder>AV AFONSO PENA 1270</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><pesoL>0.025</pesoL><pesoB>0.025</pesoB></vol></transp><cobr><fat><nFat>0000082584</nFat><vOrig>30.49</vOrig><vDesc>0.00</vDesc><vLiq>30.49</vLiq></fat></cobr><pag><detPag><tPag>14</tPag><vPag>30.49</vPag></detPag></pag><infAdic><infCpl>Ordem(s) de Venda: 1174698 - Doc. Faturamento: 0091397025 Quantidade de peças: 25,000 Valor de impostos incidentes conf. lei 12741/12: 5,49</infCpl></infAdic><infRespTec><CNPJ>74544297000192</CNPJ><xContato>SAP BRASIL LTDA</xContato><email>TI@SECULUS.COM.BR</email><fone>3135167600</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210534516088000200550210000825841600288050"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RwDutrNj7jfVmMm9xP/gMZjQ+Zg=</DigestValue></Reference></SignedInfo><SignatureValue>fWwXPXQ9MfqtdYJEL4j3vn2DHK0+s0aFy++0XXxalNAZYPZ7ZR2V1LTJ4oYoYqVSQOm5ypt0ay8w
+e1CGNBIYbWuQtzgVy/S7vuCrBpMVSjSaVUVN9Tpp+mGiyK6Tu1SxzJViso7SwZ0eobZRoSRXkq5o
+sA5vp+2FJ+aOqcybF4lGQOCEzDoDGvAal7JjcKdEfKdcPT2MevOlQgkkUD5wWZ2tgaC0eF2nujvC
+ytKNOyVyYG1fbWur8qnUABX0kCsBpD6TE4HVf7aG4FTnIMAa2fqBK1BUiDgUJzTlqty1j9KkSH81
+Z7wE251BbNEkgjURY+YP/S8/ECS8QD9SAFsiBg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHVzCCBT+gAwIBAgIIWGshARllTs4wDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTIxMDIwNDIxNTcwMFoXDTIyMDIwNDIxNTcwMFowgfAxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJBTTEPMA0GA1UEBxMGTWFuYXVz
+MR4wHAYDVQQLExVBQyBTT0xVVEkgTXVsdGlwbGEgdjUxFzAVBgNVBAsTDjI0NzgzMzI5MDAwMTM0
+MRMwEQYDVQQLEwpQcmVzZW5jaWFsMRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQSiBBMTFEMEIGA1UE
+AxM7U0VDVUxVUyBEQSBBTUFaT05JQSBJTkRVU1RSSUEgRSBDT01FUkNJTyBTLkE6MzQ1MTYwODgw
+MDAxMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCz3JqRUw2yFjyj19ijjK3JsJMQ
+ePQgDLUkioOjxEJ+Vp86YDt/n8WKSMhM3PD6NZIGOIn8/scd53r+3MYELyahX5IUaxHPJ64riIdr
+bazfVqNhA7gO766cw5gh84NvW39f2t2yptF+ZyxQbWFKXA/WWp0Zii9TVAo0CkBGFSKJWnhbCTD6
+o3VJtaVoJgfOcW3b736Z0q7PQtEi+MIc7jBpVXiX+9SmIzpP1yYbPXedNqcXSHpTKjoUlRMmmRRp
+k5yCvp5j+kiJ1Q7p1aJAh8hwGIx49wAn1sjC7UTiE8JNdcbmincLib/m8d5RoPVO3Q8EGACRMlFg
+Hj0E5KWL4M2JAgMBAAGjggKJMIIChTAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFMVS7SWACd+cgsif
+R8bdtF8x3bmxMFQGCCsGAQUFBwEBBEgwRjBEBggrBgEFBQcwAoY4aHR0cDovL2NjZC5hY3NvbHV0
+aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5wN2IwgcQGA1UdEQSBvDCBuYEgYWxl
+eGFuZHJlLmF6ZXZlZG9Ac2VjdWx1cy5jb20uYnKgJwYFYEwBAwKgHhMcQUxFWEFORFJFIExVSVog
+U0lMVkEgQVpFVkVET6AZBgVgTAEDA6AQEw4zNDUxNjA4ODAwMDExMKA4BgVgTAEDBKAvEy0xMTEy
+MTk3MTg4MzY0NTM0NjUzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAw
+MDAwMDAwMDAwMF0GA1UdIARWMFQwUgYGYEwBAgEmMEgwRgYIKwYBBQUHAgEWOmh0dHA6Ly9jY2Qu
+YWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGMBgNVHR8EgYQwgYEwPqA8oDqGOGh0dHA6Ly9jY2QuYWNz
+b2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjUuY3JsMD+gPaA7hjlodHRwOi8v
+Y2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwHQYDVR0O
+BBYEFOq6n/CQmG60W0ie8GVUw4yXXUkeMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOC
+AgEAlLdDcXKjyMGMWVykpJ2OZ6Smoo/+WNJq5dgpSdCYrhNxjGuvJPAFcEAflyBF7BvfE4YagUcA
+ZN4CalxDkbaZVPir2lDQPAtVS18gBhlxaBp59BvTVQkE9gs4S2A0pXiq/NeB9Dl/IOMdJ24FTqBd
+vrwgVYqqaPC0SGVCwK6Zn6AEIgG1n13ZYDGD2EwOBs5vsHS5usR0vzkXOfaXhgiOz6f18E4LBkMo
+Gb3BxnJJfLULkdfdBtS6ia3km0KWApV9bb/jMTsbVfltJrNh8bhS/Q6RWMuaHpLt/Tk1IAaNk/O4
+PHzo3AZ7spiwWpxIN0rKVe3asdqjwFTZtvvjqB3A7rg7+qjS1sEtE00WGoCOcMHX30K11Gj0+yjO
+AlQf8VJp4G+zzcHyuO0Ige2luXYmZmYhVe25k/KAj+FkNTF16hHpcknjmF8ynCJ/UJK3jUzCXck7
+uh+LX2vcb8ni5yPV0mbCXvJhs8dXiwS4mJIRm6gsxkpP3n0UqJEGZDknac3HjGi45jdcinwkPpPg
+1OvHcffzhurGbjn/E86qCk+FTz5UI3A92UvIq5vtDRI/y0AAyaVCLnUfZAnfrYN7KJgA1QBLa1I+
+wNqUQcGoXN0TndlumL548juErkDxg9ze+7bEP1r+kbAXT4pidKnuLfoS3EpXWkNSAnmRiCiofBZ7
+LL4=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214166607655">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.26-SE4</verAplic>
+  <chNFe>31210534516088000200550210000825841600288050</chNFe>
+  <dhRecbto>2021-05-20T09:57:34-03:00</dhRecbto>
+  <nProt>131214166607655</nProt>
+  <digVal>RwDutrNj7jfVmMm9xP/gMZjQ+Zg=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

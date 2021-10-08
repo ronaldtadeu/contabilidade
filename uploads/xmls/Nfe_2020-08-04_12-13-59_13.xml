@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200705017780000287550030107459821942059218" versao="4.00"><ide><cUF>31</cUF><cNF>94205921</cNF><natOp>Vnd prod.est.opr.c/pr.suj.reg.sub.trib.cnd.sub.tri</natOp><mod>55</mod><serie>3</serie><nNF>10745982</nNF><dhEmi>2020-07-16T03:18:34-03:00</dhEmi><dhSaiEnt>2020-07-16T03:45:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3172004</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP ECC 6.0</verProc></ide><emit><CNPJ>05017780000287</CNPJ><xNome>RIO BRANCO ALIMENTOS S/A</xNome><xFant>PIF PAF ALIMENTOS</xFant><enderEmit><xLgr>ROD. MG 22, KM 105 SN</xLgr><nro>s/n</nro><xBairro>BARRA DOS COUTOS</xBairro><cMun>3172004</cMun><xMun>VISCONDE DO RIO BRANCO</xMun><UF>MG</UF><CEP>36520000</CEP><xPais>Brasil</xPais><fone>3235591300</fone></enderEmit><IE>7201767450076</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA - ME</xNome><enderDest><xLgr>RUA SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><det nItem="1"><prod><cProd>000000000000013970</cProd><cEAN>17896581355192</cEAN><xProd>FILE DE PEITO FRANGO IQF 700G CX11,2KG</xProd><NCM>02071400</NCM><CEST>1708700</CEST><CFOP>5401</CFOP><uCom>CX</uCom><qCom>1.0000</qCom><vUnCom>97.6600000000</vUnCom><vProd>97.66</vProd><cEANTrib>7896581355195</cEANTrib><uTrib>KG</uTrib><qTrib>11.2000</qTrib><vUnTrib>8.7200000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS70><orig>0</orig><CST>70</CST><modBC>3</modBC><pRedBC>61.1100</pRedBC><vBC>37.98</vBC><pICMS>18.0000</pICMS><vICMS>6.84</vICMS><modBCST>4</modBCST><pMVAST>15.0000</pMVAST><pRedBCST>61.1100</pRedBCST><vBCST>43.68</vBCST><pICMSST>18.0000</pICMSST><vICMSST>1.03</vICMSST></ICMS70></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>37.98</vBC><vICMS>6.84</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>43.68</vBCST><vST>1.03</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>97.66</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>98.69</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>86442720000122</CNPJ><xNome>COOP RIOBRANQ DE TRANSP LTDA</xNome><IE>7208816380001</IE><xEnder>RUA MELO BARRETO 2467 G</xEnder><xMun>VISCONDE DO RIO BRANCO</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>CX</esp><marca>PIFPAF</marca><pesoL>11.200</pesoL><pesoB>11.816</pesoB></vol></transp><cobr><fat><nFat>10745982</nFat><vOrig>98.69</vOrig><vDesc>0.00</vDesc><vLiq>98.69</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-07-23</dVenc><vDup>98.69</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>98.69</vPag></detPag></pag><infAdic><infCpl>-BC red. An IV item 19 alin a.1 item 62 pte 6 RICMS/MG - ST-IPI tributado com aliquota zero-PREST.SERV TRANSP.CONF. R. E AF VRB SRF I-45.000000658-20 INDETERMINADO.-SERV TRANSP INTERNO MG ISENTO ICMS CONF ITEM 144, ANEXO I RICMS MG</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200705017780000287550030107459821942059218"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iEIqQ5I7JcLrm9PGdOTpt5Na1aM=</DigestValue></Reference></SignedInfo><SignatureValue>b71wvWQXFEICt93jhrNlTVrnB7LOcYsTMximxMhfsb6NlLG4Wj2FLxr5+CmPyEYjUjwWkG/sv1XE
+Vn7Gp7zZErL/2kcLVD9itTGPy+LWQJHv0d8+y6DoysYIPrKhddKObmR3rAIEI1ek0METwwIKmNku
+WFkhZpC1fu/W+sQ8QljS3kMabvu/Zt3uRoz7uOTVD64nLZG7h8hqFp/pE55wNpr2DnlYVrVWOQPB
+jIY355PLrjKBvmSeWzdothiWTYrh0uxIPf1crci1mucDWF0/4uxEmjmZPNQIcM8oZ5ccG+pDEnhi
+GpAZFzknGtU9gYfhFpob4Cfxhsxmedbi08dEiw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHrTCCBZWgAwIBAgIIVcbC4OFO1v0wDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg
+djUwHhcNMjAwMjE0MTg1NzAwWhcNMjEwMjEzMTg1NzAwWjCB+TELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDk0
+NDc4NjkxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEoMCYGA1UE
+CwwfU0VSQVNBIENlcnRpZmljYWRvcmEgRGlnaXRhbCB2NTEXMBUGA1UECwwONjIxNzM2MjAwMDAx
+ODAxFDASBgNVBAsMCyhFTSBCUkFOQ08pMSAwHgYDVQQDDBdSSU8gQlJBTkNPIEFMSU1FTlRPUyBT
+QTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOEBLmIQvz7IArigZFQbqneiMium5vQr
+AGGwchhC0SoqVOf9fctNooToR4dctoskeacpAPkbxEQj9zsZi9YgN2mhyGiHyvHJF+7PFL0N57zG
+R6+td5iBTcIGCvZEeJp4BR1oDaUiBsLKVmo1mh1NWSPYrtBpeVNxBJALwmmvwZC1Rn+1Jj+k7L8E
+HNiuiXlw3QvPWr5sGJjFLL1L6BuPfj1fJCSYQ0HyBFjkA41eILubNl8whWRTJ5Enwal+1pwI++lc
+N+ZR01Xs9KSIzG90kJFEwdwvfez44xopxQ3doU60V+5aRayP4yL8QvDOOemEPYh1zDOk9XTWssxo
+rVliV40CAwEAAaOCAuMwggLfMB8GA1UdIwQYMBaAFFZ1r0pzstgIxH37bCgcEdX3wajMMIGXBggr
+BgEFBQcBAQSBijCBhzBHBggrBgEFBQcwAoY7aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwu
+Y29tLmJyL2NhZGVpYXMvc2VyYXNhY2R2NS5wN2IwPAYIKwYBBQUHMAGGMGh0dHA6Ly9vY3NwLmNl
+cnRpZmljYWRvZGlnaXRhbC5jb20uYnIvc2VyYXNhY2R2NTCBwgYDVR0RBIG6MIG3gRhWQU5EQUxV
+Q0lBQFBJRlBBRi5DT00uQlKgPgYFYEwBAwSgNRMzMDYwMzE5ODMzMTc2NzkzODgwMjAwMDAwMDAw
+MDAwMDAwMDBNRzIxMTUyNzIzUEMgTUcwoCcGBWBMAQMCoB4THFZBTkRBIExVQ0lBIEJFQ0FSSSBG
+RUxJQ0lBTkmgGQYFYEwBAwOgEBMOMDUwMTc3ODAwMDAxMDSgFwYFYEwBAwegDhMMMDAwMDAwMDAw
+MDAwMHEGA1UdIARqMGgwZgYGYEwBAgEGMFwwWgYIKwYBBQUHAgEWTmh0dHA6Ly9wdWJsaWNhY2Fv
+LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL2RlY2xhcmFjYW8tc2Nk
+LnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgZsGA1UdHwSBkzCBkDBJoEegRYZD
+aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9zZXJh
+c2FjZHY1LmNybDBDoEGgP4Y9aHR0cDovL2xjci5jZXJ0aWZpY2Fkb3MuY29tLmJyL3JlcG9zaXRv
+cmlvL2xjci9zZXJhc2FjZHY1LmNybDAdBgNVHQ4EFgQUKJsskI+rgnxJ2WO+L4juUn9X4qswDgYD
+VR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQANKbHLS28oGJaqPLAWkDF4DgaEJCtGXXBh
+QJKDcmimvLvMYZSRehMAn1dK5r3J4ZRCjNCJOiMMG+0Hsrq27Xt82yZgVbCBppV7UHAbDOoiQOsB
+0MUJWqVbgAEn18/QssY4Urpz3oKDNk3vBh/36e/C2xROz+AEIFgIN6bSgxxLLZWGBoIhL4W+J1D0
+S4voky1ZckFomVCrqc+4Ml1jHKNBPw0l57kTlsP6wEMY1y4gvtMduWSWQPZjN5aJnjimIAh+XiyT
+YyhFL7TdKVDomaenVVJoQ1/9DA6jqxm5WzSL497aWXA4+pNi7Q4KGaTkMlEA5UE0dx3EFezVaZwr
+sH0AJpV8zVmXM0Vf1MIQsNiSuW0BbDq5p3BmYbez9VUTeWH555VNN8BkUlR8tucpKqydLh9zvTLZ
+NqUKWbzG7DNSw/sALacQdcTLyaqu2WzDUTAMXk6Sic3VOhPk5YKbDQcrMamD80qxeCqZHmPIrDbO
+2IEARVcriO9Sq+U0F0aQObBplYl3FftBjy+eqRU0yzqNZobXL2Bw85U8X576njcJ/OyXMHSrxVp3
+qtJ+O9RMGu1cP0ddTIpmFiP6WwuMJpj9qCEnwGU1fmXiinlOExpBmUArEZJhTDN1Vazn1fWSJqnT
+DLp9SGoPvDik3Djoomp5BpHCQ80jDb0syK+7psPbmA==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203747584827">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.15-NI1</verAplic>
+  <chNFe>31200705017780000287550030107459821942059218</chNFe>
+  <dhRecbto>2020-07-16T03:20:01-03:00</dhRecbto>
+  <nProt>131203747584827</nProt>
+  <digVal>iEIqQ5I7JcLrm9PGdOTpt5Na1aM=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

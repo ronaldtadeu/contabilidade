@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200704487083000146550030002043861111712139" versao="4.00"><ide><cUF>31</cUF><cNF>11171213</cNF><natOp>VENDA DE MERCADORIAS SUJEITA AO REGIME DE S.T. - SUBSTITUIDO</natOp><mod>55</mod><serie>3</serie><nNF>204386</nNF><dhEmi>2020-07-13T17:06:00-03:00</dhEmi><dhSaiEnt>2020-07-13T17:06:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>9</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.146</verProc></ide><emit><CNPJ>04487083000146</CNPJ><xNome>PIOVETSS COMERCIO PET LTDA</xNome><enderEmit><xLgr>RUA JOSE SIMPLICIO MOREIRA</xLgr><nro>791</nro><xBairro>TREVO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>31370505</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3134196300</fone></enderEmit><IE>0621336130058</IE><CRT>3</CRT></emit><dest><CNPJ>16583239000171</CNPJ><xNome>COMERCIAL AGRICOLA BRASIL LTDA</xNome><enderDest><xLgr>RUA MARECHAL FLORIANO PEIXOTO</xLgr><nro>69</nro><xCpl>-</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137611986</fone></enderDest><indIEDest>1</indIEDest><IE>1833112410036</IE><email>naotem@gmail.com</email></dest><entrega><CNPJ>16583239000171</CNPJ><xLgr>RUA MARECHAL FLORIANO PEIXOTO</xLgr><nro>69</nro><xCpl>-</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><autXML><CNPJ>10695432000118</CNPJ></autXML><det nItem="1"><prod><cProd>72009</cProd><cEAN>052742998305</cEAN><xProd>CAN ADT MANUT SAUD PDC PEQ 7,5KG 9983</xProd><NCM>23091000</NCM><CEST>2200100</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>SC</uCom><qCom>1.0000</qCom><vUnCom>145.3300000000</vUnCom><vProd>145.33</vProd><cEANTrib>052742998305</cEANTrib><uTrib>SC</uTrib><qTrib>1.0000</qTrib><vUnTrib>145.3300000000</vUnTrib><indTot>1</indTot><xPed>119003696</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>267.83</vBCSTRet><pST>20.0000</pST><vICMSSubstituto>6.27</vICMSSubstituto><vICMSSTRet>41.94</vICMSSTRet><vBCFCPSTRet>267.83</vBCFCPSTRet><pFCPSTRet>2.0000</pFCPSTRet><vFCPSTRet>5.36</vFCPSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>09</CST></PISNT></PIS><COFINS><COFINSNT><CST>09</CST></COFINSNT></COFINS></imposto><infAdProd>VBCFCPSTRET: 267.83 PFCPSTRET: 2.00 VFCPSTERT: 5.36</infAdProd></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>5.36</vFCPSTRet><vProd>145.33</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>145.33</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>04597279000193</CNPJ><xNome>RAD TRANSPORTES</xNome><xEnder>AV ALTAMIRO AVELINO SOARES, 1091 - CASTELO</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>7.500</pesoL><pesoB>7.500</pesoB></vol></transp><cobr><fat><nFat>204386</nFat><vOrig>145.33</vOrig><vDesc>0</vDesc><vLiq>145.33</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-08-10</dVenc><vDup>145.33</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>145.33</vPag></detPag></pag><infAdic><infCpl>OBS ENTREGA: . . .//AAS - CLIENTE://060 - ICMS ST REC.ANTERIORMENTE POR SUBST.TRIB.CONF.ARTIGOS 12 E 14 DA PARTE I DO ANEXO XV DO RICMS</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200704487083000146550030002043861111712139"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sueQI4nZQo5rsjaiMBK6IXBMKZg=</DigestValue></Reference></SignedInfo><SignatureValue>hUM6WRngJVSWj1kLEAIKOyOR62y9zo6t3qLNE/iUpzMGR+kQ1SlhJlsZlS98DXgcWx66QWjMoxIh
++qupZ8IsaDIKSNok/c6Jxho6i1gRSIGb2FnS7NoXjV8EeG/taUS1uj8CdzRbqhrqHE3hgHF6BIAk
+ckDv3rsjw+6xLfGk4ghZeOLh5iupTwnnOtemekg4O0tZ5xDcV/Ku7zw7E8iSAEkP4GrddlbkQbIK
+PgJlApnD+DuxoMWw4BmxzGhMhGn+6aic57yPjwc/+YNwav4EovTMv2H1cHTwDyVNtzulG39RQi75
+DuMN/YQKevwXmX8SlGunsKH1PIjSfPq8IUdSXg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH1jCCBb6gAwIBAgIINF4gAQg6Y94wDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0yMDAxMDkxNDE5MDBaFw0yMTAxMDgxMzE0MDBaMIHyMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExFzAVBgNVBAsTDjIwODI4NTE5MDAwMTcwMRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQ
+SiBBMTEyMDAGA1UEAxMpUElPVkVUU1MgQ09NRVJDSU8gUEVUIExUREE6MDQ0ODcwODMwMDAxNDYw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmG3JaEabnfSp5W1uiDkJrrt0tdmHe8eKs
+iBdIFDm7yArWjrohtcYkBO73lguUhBhDm+FcD4aD6cuA2KnpEE0Pm3lzs3+CaQmThZCkOUXoYEFV
+kTRVUE3VI3FSAKCMoQLnF/m69/6UZ0TXkut7vfYqvO4Mp4yt0XJ5nZOF3ZmwgFBxWVDmd02z8tFc
+LrGSpqovO/Bg5uqcHlAerGdqRfI+nrsu5l+QnIB+LJjxbvK2al6zFzD6zerrZ55CpNbfg0S60TlF
+O3M3hXl84LfzQ6RGbXS8EVWubBWgLSDw3xbD8jW+zCcZGNhfD2fvXB6IdwRCXsRJWzO57F5ZudT+
+C/bJAgMBAAGjggLVMIIC0TBUBggrBgEFBQcBAQRIMEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jY2Qu
+YWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjEucDdiMB0GA1UdDgQWBBT1
+TuYWRYUk2GZ5moIdvuiERJzSejAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFDWuMRT2XtJ6T1j+NKga
+Z5cKxJsHMF4GA1UdIARXMFUwUwYGYEwBAgEmMEkwRwYIKwYBBQUHAgEWO2h0dHBzOi8vY2NkLmFj
+c29sdXRpLmNvbS5ici9kb2NzL2RwYy1hYy1zb2x1dGktbXVsdGlwbGEucGRmMIHeBgNVHR8EgdYw
+gdMwPqA8oDqGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlw
+bGEtdjEuY3JsMD+gPaA7hjlodHRwOi8vY2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0
+aS1tdWx0aXBsYS12MS5jcmwwUKBOoEyGSmh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292
+LmJyL2xjci9BQ1NPTFVUSS9hYy1zb2x1dGktbXVsdGlwbGEtdjEuY3JsMA4GA1UdDwEB/wQEAwIF
+4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgb0GA1UdEQSBtTCBsoEWYXRvc2xlZ2Fp
+c0BvbW5vLmNvbS5icqAlBgVgTAEDAqAcExpBTkEgQ0FST0xJTkEgQVJBVUpPIFhBVklFUqAZBgVg
+TAEDA6AQEw4wNDQ4NzA4MzAwMDE0NqA9BgVgTAEDBKA0EzIyNzA2MTk3NDk2ODA5MDc4NjQ5MDAw
+MDAwMDAwMDAwMDAwMDBNRzU1Nzg5MTZTU1BNR6AXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJ
+KoZIhvcNAQELBQADggIBAGSuWEX7qkSQXkXE6Ciy85ipMmjE0cOirRcvGR3QTVS18iT7R+qcdX7T
+GuYqSPWp1DYmgA2jXoOvq7rHzMkTiown/eKwj6xfPXa6ymJcxABekJDKzOxuQrfWh+UP3G3uA3va
+abLY+6eQIN7Sy133yR5kwgeiJZbWDwrWbOFnpVxywf6ZFOZhzjRM2zVmY0mD5nFV1gmTs9zqDQU9
+LvTVXI+AHZvzIKQv4kHR/y3GdYFQ9UWm5gz7Wp/RcPjL0Cvmm8yQMRmY+LzAWNctuNu6WT8YhMf2
+h6PSgC70pZKIzG/4WRnTcKwmPdsBOT8cgU8sh1TXo3QHX1TphyDFFfl8g615Z/gKDh8uuP0/sAT2
+30xLARzXZCGGBZJJLlTPDOjXPLuvw3y/YbVJ3CTReLqxIXcxt4Z27uztcsEsSAo1DJ9xtPNE2ke1
+DVAOe7YFXqZDQAwSODP3HSZUWC7Repp+Po07tkPehz0kY6TfcJIHoBUKj5hfitClu7p0Fmv0kBr4
+exQsBzMAy1Zg5UHvO+lPxrF31n0dv6RkOqFc89le1XiKjYMuol4u82zI7RxaYGwyTNjAjjhl3zsG
+ORQ+iT2JSievL3vQPNmdEL3lnZZHcD/YG+602Gi0Cdg4zCv0/9KMIHa4xLIqV3cU+UbN+fFHFve8
+wgTMZxWgjQuaJCar/YCo</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203743675746">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.15-MA1</verAplic>
+  <chNFe>31200704487083000146550030002043861111712139</chNFe>
+  <dhRecbto>2020-07-13T17:06:20-03:00</dhRecbto>
+  <nProt>131203743675746</nProt>
+  <digVal>sueQI4nZQo5rsjaiMBK6IXBMKZg=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

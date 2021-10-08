@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31190907489678000129550010001389361865589611"><ide><cUF>31</cUF><cNF>86558961</cNF><natOp>REMESSA BONIFIC/DOACAO/BRINDE /</natOp><mod>55</mod><serie>1</serie><nNF>138936</nNF><dhEmi>2019-09-11T07:50:12-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>1</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC 10.0</verProc></ide><emit><CNPJ>07489678000129</CNPJ><xNome>Sul Mineira Alimentos Ltda.</xNome><enderEmit><xLgr>Av Helena de Vasconcelos Costa</xLgr><nro>1365</nro><xBairro>Cincao</xBairro><cMun>3118601</cMun><xMun>Contagem</xMun><UF>MG</UF><CEP>32371685</CEP><xPais>Brasil</xPais><fone>3130363672</fone></enderEmit><IE>6933700340033</IE><CRT>3</CRT></emit><dest><CNPJ>16583239000171</CNPJ><xNome>COMERCIAL AGRICOLA BRASIL LTDA</xNome><enderDest><xLgr>RUA MAL. FLORIANO PEIXOTO -</xLgr><nro>69</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>317611986</fone></enderDest><indIEDest>1</indIEDest><IE>1833112410036</IE></dest><det nItem="1"><prod><cProd>E00010258</cProd><cEAN>7896588940820</cEAN><xProd>NATURALIS FRANGO &amp; PERU ADULTO 15KG</xProd><NCM>23099010</NCM><CEST>2200100</CEST><EXTIPI>01</EXTIPI><CFOP>5910</CFOP><uCom>SC</uCom><qCom>1.0000</qCom><vUnCom>92.1500000000</vUnCom><vProd>92.15</vProd><cEANTrib>07896588940820</cEANTrib><uTrib>SC</uTrib><qTrib>1.0000</qTrib><vUnTrib>92.1500000000</vUnTrib><indTot>1</indTot><xPed>10568893</xPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>99.18</vBCSTRet><pST>20.0000</pST><vICMSSubstituto>12.23</vICMSSubstituto><vICMSSTRet>5.62</vICMSSTRet><vBCFCPSTRet>99.18</vBCFCPSTRet><pFCPSTRet>2.0000</pFCPSTRet><vFCPSTRet>1.98</vFCPSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto><infAdProd>ICMS Tributado por Substituicao Tributaria. IPI Tributado com Aliquota Zero.</infAdProd></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>1.98</vFCPSTRet><vProd>92.15</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>92.15</vNF></ICMSTot></total><transp><modFrete>1</modFrete><transporta><CPF>91732328668</CPF><xNome>MIQUEIAS ARIFA OLIVEIRA MIQUEIAS ARIFA OLIVEIRA</xNome><xEnder>RUA SALVADOR GONCALVES DINIZ 596</xEnder><xMun>BETIM</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>SC</esp><pesoL>15.000</pesoL><pesoB>15.154</pesoB></vol></transp><pag><detPag><tPag>01</tPag><vPag>92.15</vPag></detPag></pag><infAdic><infAdFisco>IMPOSTO RETIDO POR SUBST. TRIB. NOS TERMOS DO PROT. 26/2004 DE 25/06/04 - ICMS S.T. RETIDO: BC R$ 99,18 VALOR ICMS R$ 5,62. PRAZO DE VALIDADE DE 07 DIAS IMPRORROGAVEL. REGIME ESPECIAL PTA 16.000225179-22 - DF/BETIM. SERVICO DE TRANSPORTES ISENTO DE ICMS DE ACORDO COM ART. 6o PARTE 1 ANEXO I, ITEM 144 RICMS/MG.</infAdFisco><infCpl>Representante: 507033. Pedido: 10568893. FUNDO DE ERRADICACAO DA MISERIA RECOLHIDO PELO FABRICANTE. Valor FCP:R$0,00; VALOR FCP ST: R$1,98</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190907489678000129550010001389361865589611"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CueRwGdZ76cJ8HCcvPhkF4KlSUQ=</DigestValue></Reference></SignedInfo><SignatureValue>LCm0eKCY7JB+ndq9lVNcmZ1h9oaYuOy/Nqrsgp+dKIHsjyn8iKcT5hui3I8WEfoP9/B02X+JhE73
++5ejfIMysoyNQTgCeNLziuGcorXWX6nQSc27Oh8/o36KL4zhdVgKeTF+rHw5DM8zzWs9U/qNlLsH
+8fBy22lU4Jh+NmOedGEB3Wz6UytmJj6tURfMsQfgbkHOj4VLMX1oYzpgiaxo/wq3QY5f6o6DOVC7
+sj1Z1X9Q4s/yBIi+r4r5PmiixDWwNPtk0CxOiDzMk4Hx79gKlA+cHNx9vaMhGjfk1VSPViCNWLFK
+kciWGShYxuQtnSMuc8ihtGYmdgL/HYlchVQvDw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHqTCCBZGgAwIBAgIICBe7fSJ8WZ8wDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg
+djUwHhcNMTkwNTEwMTk1MTAwWhcNMjAwNTA5MTk1MTAwWjCB/DELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDkw
+MjIzMjAxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEoMCYGA1UE
+CwwfU0VSQVNBIENlcnRpZmljYWRvcmEgRGlnaXRhbCB2NTEXMBUGA1UECwwONjIxNzM2MjAwMDg2
+NzkxFDASBgNVBAsMCyhFTSBCUkFOQ08pMSMwIQYDVQQDDBpTVUwgTUlORUlSQSBBTElNRU5UT1Mg
+TFREQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJywn0M4itQmrc5X335xqqAinX9L
+HG4LtFJ+cTpRUX+DvmMO+frKPVIzUllEWBrcJuucditrdRsFnGWcSVP8ZTPQqNxsSGusSqDrgOqb
+NJmq/GyRzut2LxNSKtxkmhGzjlTY7ycNvjES11s2f4Y99tqeJfij3BvJcjnjCoS285IC4KbtBqq2
+4wVEHjGTu5E7jrcmjklY4kc+TiO/XuIMsiErj3EjOJ3KyX6oT1KRvnHue+oOwx155mMASbsNbOPq
+4X2lP2wJqVj5gBeLbSIvoupZiqTtFf0mz3Ry4CJ3kLtqJJism3waVyEWGCLzzQhPT/ImUPPufoXM
+XKDstmkJYzUCAwEAAaOCAtwwggLYMB8GA1UdIwQYMBaAFFZ1r0pzstgIxH37bCgcEdX3wajMMIGX
+BggrBgEFBQcBAQSBijCBhzBHBggrBgEFBQcwAoY7aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0
+YWwuY29tLmJyL2NhZGVpYXMvc2VyYXNhY2R2NS5wN2IwPAYIKwYBBQUHMAGGMGh0dHA6Ly9vY3Nw
+LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvc2VyYXNhY2R2NTCBuwYDVR0RBIGzMIGwgRlQQVJB
+U09DSUVUQVJJT0NTQUBBRE0uQ09NoD4GBWBMAQMEoDUTMzA0MDMxOTc2MjYwNjUwNjU4ODkwMDAw
+MDAwMDAwMDAwMDAwMDI1NjQyNzk2M1NTUCBTUKAfBgVgTAEDAqAWExRNQVJDRUxPIEtFTkpJIEFP
+WUFHSaAZBgVgTAEDA6AQEw4wNzQ4OTY3ODAwMDEyOaAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAw
+cQYDVR0gBGowaDBmBgZgTAECAQYwXDBaBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2Vy
+dGlmaWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1zY2QucGRm
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBmwYDVR0fBIGTMIGQMEmgR6BFhkNodHRw
+Oi8vd3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNk
+djUuY3JsMEOgQaA/hj1odHRwOi8vbGNyLmNlcnRpZmljYWRvcy5jb20uYnIvcmVwb3NpdG9yaW8v
+bGNyL3NlcmFzYWNkdjUuY3JsMB0GA1UdDgQWBBQLF7p64CIfPa/xre+grN4XgJfczTAOBgNVHQ8B
+Af8EBAMCBeAwDQYJKoZIhvcNAQELBQADggIBACE6mLkbC4Zf9NdI5hjPCIjnfImyPsfQyemFY5ZS
+1osTVRr5tZxlFTtQxRvRy5ttZpGzH+mgC3djkPlj0s8HeahVzKQPC+QvSEZ7xF+vCbqygozao6QD
+Il3iUdbXGVKCbG2TW9fQxSZSXDykYWYbd0UvklaCGVBsMNQx1wq2NxpCeVuyGoqPmtKpva58GQ9T
+/+6r+36yp3H0xBH0f78QEkVClsDzSu4LLcHE/bJNpECnqz/xWWQusrxKtwk7iih/NQooK4fruUjF
++iGoJMPRF87dcU1wdYxivrSWdL+JIDgusWSa9+CfLsFm05194oep0O23Cws0JBSd4seVsvHJ9j+9
+xtmKrwlXhDWvJqRFlRqCO99QIfRwlnCClKwa/cDWftSQhBpxZNF5GtVf09dn7uxFjnOstqXXzZea
+ePeLBOmib/ZvjuNVGONOnTXSaciDF4XNtTKGgcjbdo84WLykWSEiqasQ5K5ctf8IhYCGjkp0XlL6
+u34qWLIawhuQ5MmVd9R7EodtgvGPqVwH65BUjwdw4es2zVOz2744o03X4Ld7F0KTms0lgUUNWV0v
+MG+XZGZDUCOna7NVdLaXs+mi3TKA3M2Qo8c7KMjJYPk7KGRAN6li+Cq1SVTGCqrpgKzvyqZW5oUr
+CrIiLEGG1D8ol5G3J92vLc09UsjgIPL5CH14</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193415190484">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.2</verAplic>
+  <chNFe>31190907489678000129550010001389361865589611</chNFe>
+  <dhRecbto>2019-09-11T07:51:48-03:00</dhRecbto>
+  <nProt>131193415190484</nProt>
+  <digVal>CueRwGdZ76cJ8HCcvPhkF4KlSUQ=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

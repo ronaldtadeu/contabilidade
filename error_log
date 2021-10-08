@@ -1,0 +1,259 @@
+[14-Nov-2016 13:22:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/restlili/public_html/core/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/restlili/public_html/core/database/DB.php on line 141
+[14-Nov-2016 13:22:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/restlili/public_html/core/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/restlili/public_html/core/database/DB.php on line 141
+[10-Apr-2017 12:25:51 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:26:01 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:26:17 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:26:47 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:26:49 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:27:37 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:29:09 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:29:21 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:30:16 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:31:56 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:32:01 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:32:08 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:32:08 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:32:51 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:32:56 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:33:46 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:37:10 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:41:28 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:41:56 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:43:22 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:43:30 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:43:47 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:43:53 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131596288 bytes) in /home/armarioscriarcom/public_html/app/views/index.php on line 227
+[10-Apr-2017 12:55:44 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 12:59:46 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 12:59:46 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:00:27 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:32 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:33 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:34 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:36 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:40 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:42 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:43 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[10-Apr-2017 13:02:49 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072000 bytes) in /home/armarioscriarcom/public_html/core/core/Exceptions.php on line 186
+[09-Apr-2019 02:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 02:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 02:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 04:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 04:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 06:00:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 11:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 11:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 11:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[09-Apr-2019 11:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/index.php(202): require_once('/home/portalrwc...')
+#9 {main}
+  thrown in /home/portalrwcom/public_html/core/database/drivers/mysql/mysql_driver.php on line 92
+[14-May-2019 18:49:15 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:49:38 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:50:06 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:50:14 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:50:46 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:52:22 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:53:30 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:53:43 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:53:47 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:55:12 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:55:33 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[14-May-2019 18:56:15 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 12:51:29 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 13:22:47 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 13:23:33 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 13:24:06 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 13:25:41 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 13:26:06 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 17:24:34 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[21-May-2019 17:25:01 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 343
+[06-Jun-2019 13:33:00 UTC] PHP Fatal error:  Call to a member function attributes() on null in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[26-Jun-2019 21:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92
+[26-Jun-2019 21:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92
+[03-Jul-2019 13:01:07 UTC] PHP Fatal error:  Call to a member function attributes() on a non-object in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[03-Jul-2019 13:02:38 UTC] PHP Fatal error:  Call to a member function attributes() on a non-object in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[03-Jul-2019 13:07:08 UTC] PHP Fatal error:  Call to a member function attributes() on a non-object in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[03-Jul-2019 13:11:51 UTC] PHP Fatal error:  Call to a member function attributes() on a non-object in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[03-Jul-2019 13:14:23 UTC] PHP Fatal error:  Call to a member function attributes() on a non-object in /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php on line 398
+[01-Oct-2019 12:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92
+[01-Oct-2019 12:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92
+[01-Oct-2019 12:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92
+[01-Oct-2019 12:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home/portalrwcom/public_html/livros/core/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home/portalrwcom/public_html/livros/core/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home/portalrwcom/public_html/livros/core/core/Loader.php(347): DB(Array, NULL)
+#3 /home/portalrwcom/public_html/livros/core/core/Loader.php(1172): CI_Loader->database()
+#4 /home/portalrwcom/public_html/livros/core/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/portalrwcom/public_html/livros/core/core/Controller.php(52): CI_Loader->initialize()
+#6 /home/portalrwcom/public_html/livros/app/controllers/livros_controle.php(6): CI_Controller->__construct()
+#7 /home/portalrwcom/public_html/livros/core/core/CodeIgniter.php(309): livros_controle->__construct()
+#8 /home/portalrwcom/public_html/livros/index.php(202): require_once('/home/portalrwc.. in /home/portalrwcom/public_html/livros/core/database/drivers/mysql/mysql_driver.php on line 92

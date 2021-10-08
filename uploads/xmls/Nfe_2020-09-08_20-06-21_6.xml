@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200801992041000174550010008161741672229120" versao="4.00"><ide><cUF>31</cUF><cNF>67222912</cNF><natOp>BONIFICACAO, DOACAO OU BRINDE</natOp><mod>55</mod><serie>1</serie><nNF>816174</nNF><dhEmi>2020-08-22T18:42:00-03:00</dhEmi><dhSaiEnt>2020-08-22T18:42:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3127701</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.160</verProc></ide><emit><CNPJ>01992041000174</CNPJ><xNome>HAF DISTRIBUIDOR EIRELI</xNome><xFant>HAF DISTRIBUIDOR</xFant><enderEmit><xLgr>RUA HELIO DINIZ</xLgr><nro>151</nro><xCpl>GALPAO B1</xCpl><xBairro>DISTRITO INDUSTRIAL</xBairro><cMun>3127701</cMun><xMun>GOVERNADOR VALADARES</xMun><UF>MG</UF><CEP>35001970</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3332798090</fone></enderEmit><IE>2776965790085</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA</xNome><enderDest><xLgr>RUA SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><det nItem="1"><prod><cProd>122521</cProd><cEAN>7893249325002</cEAN><xProd>S HAV FANTASIA ALTO ASTRAL BG PLH 35/36</xProd><NCM>64022000</NCM><CFOP>5910</CFOP><uCom>PA</uCom><qCom>2.0000</qCom><vUnCom>10.7700000000</vUnCom><vProd>21.54</vProd><cEANTrib>7893249325002</cEANTrib><uTrib>PA</uTrib><qTrib>2.0000</qTrib><vUnTrib>10.7700000000</vUnTrib><indTot>1</indTot><xPed>806008552</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>21.54</vBC><pICMS>18.0000</pICMS><vICMS>3.88</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><det nItem="2"><prod><cProd>122522</cProd><cEAN>7893249325019</cEAN><xProd>S HAV FANTASIA ALTO ASTRAL BG PLH 37/38</xProd><NCM>64022000</NCM><CFOP>5910</CFOP><uCom>PA</uCom><qCom>2.0000</qCom><vUnCom>10.7700000000</vUnCom><vProd>21.54</vProd><cEANTrib>7893249325019</cEANTrib><uTrib>PA</uTrib><qTrib>2.0000</qTrib><vUnTrib>10.7700000000</vUnTrib><indTot>1</indTot><xPed>806008552</xPed><nItemPed>2</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>21.54</vBC><pICMS>18.0000</pICMS><vICMS>3.88</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>43.08</vBC><vICMS>7.76</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>43.08</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>43.08</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>06915041000194</CNPJ><xNome>COOPERATIVA OTIMIZAR LOGISTICA LTDA</xNome><xEnder>AVENIDA CORONEL JOVE SOARES NOGUEIRA, 535 - INCONFIDENTES</xEnder><xMun>CONTAGEM</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>2.000</pesoL><pesoB>2.000</pesoB></vol></transp><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>43.08</vPag></detPag></pag><infAdic><infCpl>FEM DE ACORDO COM DECRETO N 46.927, DE DEZEMBRO/2015, ART 2, VALOR R$: 0.//PEDIDO: 806008552.</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200801992041000174550010008161741672229120"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iXquxQ1WiDss0/bUqmLqpB3Z0gA=</DigestValue></Reference></SignedInfo><SignatureValue>KH9WKp7zstATG/Ncp8wr4pEHGnFaMn1FBkxxnVu73nNRaasI4Ma9SLWmSFoz2V2Vsz4HxnIH847y
+xoEiAYwdtUWGRXCkmv0XoY4V2jBmrSx6AF5OLWblEHj1AVrXbFPhhkJQ7iPeOPw99ALTBSAAjm1C
+qWIO8ryD5GXNTyiCNLJlkKs+zVZ/UvM4SYIR5Pf99Rw2ioS115jqJhErrIDY8vUgxIJw2AqtrFL9
+jb5stdg5tUOg+e7fMGfF7c9sIiYsjYgPtinW5N+2PUPkUwhP27gD5vm04Uu3m9D/dh36nMobTh8A
+jCHdnf1C2eEYq+XCmLw6AgrIWjUsecz/1f7W0g==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIBTCCBe2gAwIBAgIIf5zC7xZyaGYwDQYJKoZIhvcNAQELBQAwdTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAxMQQUMgT05MSU5FIFJGQiB2NTAeFw0yMDA0MjgyMDMx
+MzlaFw0yMTA0MjgyMDMxMzlaMIIBEzELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMR0wGwYDVQQH
+ExRHT1ZFUk5BRE9SIFZBTEFEQVJFUzETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2Vj
+cmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLEw1SRkIg
+ZS1DTlBKIEExMSkwJwYDVQQLEyBBUiBFLVVUSUwgVEVDTk9MT0dJQSBFIFNFR1VSQU5DQTEXMBUG
+A1UECxMOMTU0OTA5MTcwMDAxOTkxLzAtBgNVBAMTJkhBRiBESVNUUklCVUlET1IgRUlSRUxJOjAx
+OTkyMDQxMDAwMTc0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1NepDGFtOfY3nSDS
+wSBI1zCycq608T6lBJYPkstLrO17MNY28xuT5ufzsma2pW0z94H944S6kTdL6TgWmP1TA+GMKKPG
+I9/F17uBPu72J2+WeJXJGil5jn26sKbGszcg36pUVB7RIDYKLyrpaFUH3J+r6cLVCjpUGCQO3qHN
+RQXVJ1mpoANhn5I90a68zwt9QPih0bVYbcysrexL8miUNqHotYgSaa18XNxZJd7rZsdgaqP07rZd
+CfYt/T5bt7bt3Ew7uLdb61jLQDwU5/f6CVGWKDvs8wS7T/2uXja0LX1yInOxEpu5dI+o+ACXBNau
+CPoIWTfahzHpUDR24lzPWwIDAQABo4IC9zCCAvMwgaMGCCsGAQUFBwEBBIGWMIGTMFwGCCsGAQUF
+BzAChlBodHRwOi8vaWNwLWJyYXNpbC52cGtpLnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMt
+b25saW5lcmZiL2FjLW9ubGluZXJmYnY1LnA3YjAzBggrBgEFBQcwAYYnaHR0cDovL29jc3B2NS52
+YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU7MnMq7Io1aG8
+d0Cu35Bvw+1/vOkwdwYDVR0gBHAwbjBsBgZgTAECATcwYjBgBggrBgEFBQcCARZUaHR0cDovL2lj
+cC1icmFzaWwudnBraS52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLW9ubGluZXJmYi9kcGMt
+YWMtb25saW5lcmZidjUucGRmMIG6BgNVHR8EgbIwga8wVaBToFGGT2h0dHA6Ly9pY3AtYnJhc2ls
+LnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtb25saW5lcmZiL2xjci1hYy1vbmxpbmVyZmJ2
+NS5jcmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsMi52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJy
+L2FjLW9ubGluZXJmYi9sY3ItYWMtb25saW5lcmZidjUuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNV
+HSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgbkGA1UdEQSBsTCBroEZbWFybG9uQGNvZWxob2Rp
+bml6LmNvbS5icqA4BgVgTAEDBKAvBC0wODAzMTk3MzgzNjk3MDcxNjUzMTEyNzI1OTc3MTEwMDAw
+MDAwMDAwMDAwMDCgIwYFYEwBAwKgGgQYQUxFWCBTQU5EUk8gQ09FTEhPIERJTklaoBkGBWBMAQMD
+oBAEDjAxOTkyMDQxMDAwMTc0oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMDANBgkqhkiG9w0BAQsF
+AAOCAgEABmugJBhAo4dARpeKlObkq8d+2phzYacMlb1TeFuQ1XPnZnqbYHlPfHbt2RwFPifXOCHw
+KED1axo7x1vwYyUbo/O77M9EaY8DmGSSFXvqOCd9r9OQWOuBDol9BfJyQlgTIjhVzWUlP1iHwphN
+QKjHOF1q/vPMsHlG3q3iECCD2XYo8g1USIHQlI7y2D9vwTlVvP+e0PGUJ99/QNWH5fX9cZbzbBTT
+rqdc4CZOeJG7s23152fMaLYvsIrPWQol+QPU5yi272+Qe9dEn8RkrU7SqFArhzwOoSPbjT8bFIdK
+XPQ6RqA9oRd+cCEBm3/wf8lAYVLFKGoH2DtcosRn4UhZkWM0s4YXH6HoEpIoGR6RbiErcNykfeMd
+rdUqEdT6bLB0FSMA/X19F2zNdK+VdHS1uhwE2n5M6PywXPnPfDKS8aXNiIrmVvgA1ObtWwVdGc4H
+kAYkARb4Icn8UZXvcPz+qjVpLQQFLTdD0cEDP0rMJp/IJ7ixvdAUZBU0PCVyaEs+BZPBrOiuzJq0
+Js25Q4IBYyS8NZ0MdtgCCqKQrkgOuepKX+fC9w3ZCXm3BWPRIQMp6WUa+Wf5baZ6dnV0K0ZvnGX5
+0KWtK95EOwLUV8Pc1ZU9nqpRNI9yH1Yc++bEiqAUMeHcSnnEA3t5fPzMQdFd9zXnD5Z12634nlj8
+NGryLBo=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203792531723">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.19-MA1</verAplic>
+  <chNFe>31200801992041000174550010008161741672229120</chNFe>
+  <dhRecbto>2020-08-22T18:47:12-03:00</dhRecbto>
+  <nProt>131203792531723</nProt>
+  <digVal>iXquxQ1WiDss0/bUqmLqpB3Z0gA=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

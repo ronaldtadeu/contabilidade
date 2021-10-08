@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190417882752000126550030001180981111003040" versao="4.00"><ide><cUF>31</cUF><cNF>11100304</cNF><natOp>VENDA DE MERC. ADQUIRIDA OU RECEBIDA DE TERCEIROS</natOp><mod>55</mod><serie>3</serie><nNF>118098</nNF><dhEmi>2019-04-03T13:08:00-03:00</dhEmi><dhSaiEnt>2019-04-03T13:08:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.95</verProc></ide><emit><CNPJ>17882752000126</CNPJ><xNome>VETSS COMERCIO PET LTDA ME</xNome><enderEmit><xLgr>RUA CASTELO DE SINTRA</xLgr><nro>980</nro><xBairro>CASTELO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>31330200</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3134691000</fone></enderEmit><IE>0021272020088</IE><CRT>3</CRT></emit><dest><CNPJ>03524801000144</CNPJ><xNome>CASA DA RACAO BRASIL LTDA.</xNome><enderDest><xLgr>AV.PROF. MANOEL MARTINS</xLgr><nro>30</nro><xCpl>LOJA 01</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137632554</fone></enderDest><indIEDest>1</indIEDest><IE>1830656080011</IE><email>casadaracaobrasil@gmail.com</email></dest><entrega><CNPJ>03524801000144</CNPJ><xLgr>AV.PROF. MANOEL MARTINS</xLgr><nro>30</nro><xCpl>LOJA 01</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><autXML><CNPJ>10695432000118</CNPJ></autXML><det nItem="1"><prod><cProd>6034</cProd><cEAN>7896185983350</cEAN><xProd>TRIATOX 40ML</xProd><NCM>38089991</NCM><CEST>2804300</CEST><indEscala>S</indEscala><CFOP>5102</CFOP><uCom>FR</uCom><qCom>24.0000</qCom><vUnCom>15.4200000000</vUnCom><vProd>370.08</vProd><cEANTrib>7896185983350</cEANTrib><uTrib>FR</uTrib><qTrib>24.0000</qTrib><vUnTrib>15.4200000000</vUnTrib><vFrete>30.46</vFrete><vDesc>2.88</vDesc><indTot>1</indTot><xPed>53009602</xPed><nItemPed>2</nItemPed><rastro><nLote>006/19</nLote><qLote>24.000</qLote><dFab>2019-01-28</dFab><dVal>2021-01-01</dVal></rastro></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>397.66</vBC><pICMS>18.0000</pICMS><vICMS>71.58</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>N LT. 006/19 DATA FAB.: 28/01/2019 DATA VAL.: 01/01/2021PERC.PARC.FCI: 0 - N. FCI: 5BA36062-0F1D-43B0-800C-1FC2CFA33407</infAdProd></det><total><ICMSTot><vBC>397.66</vBC><vICMS>71.58</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>370.08</vProd><vFrete>30.46</vFrete><vSeg>0.00</vSeg><vDesc>2.88</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>397.66</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>22650978000131</CNPJ><xNome>LIEGE ALINE NOGUEIRA DA ROCHA DE MORAIS</xNome><xEnder>RUA DETETIVE MOACIR ALVES GARCIA, 27 - SANTA BRANCA</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>0.960</pesoL><pesoB>0.960</pesoB></vol></transp><cobr><fat><nFat>118098</nFat><vOrig>397.66</vOrig><vDesc>0</vDesc><vLiq>397.66</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-05-01</dVenc><vDup>397.66</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>397.66</vPag></detPag></pag></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190417882752000126550030001180981111003040"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>8TUBCPUBsGbT8O+qio2e/dC74vA=</DigestValue></Reference></SignedInfo><SignatureValue>OHerCPUZDeA/WM4nSh1KO/4OxkRn05vsD/6V4+0zi08qVt8TJz9WkeFNRFtiLqq+vHX9agcAC2Bw
+oEXK2HrEQORW/5f7sxzVxVfm2gZVc1TjdH5j3xpQG9ALFa/LcQjqMGCr0kutNXDlnz2AXwsYdwMU
+KS+f95C9MbG2bs2brbSPoDE3ZYeLr2M03lZ9Iu6dWdJ88XPTqni+8ccQvpAriwZQvB/3XycCiR12
+UzHWplcCUaP9p6PPNBK+tX0kvRbHHHKPIrkiEIYRCyX8N/2mLk3qNy9IkELhwT3226NCNk8fvKHV
+8ZPAwL3OGiZh/+wv32ZYFdWL1XcUBH5UTccHSA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHtTCCBZ2gAwIBAgIIWGsZARFLQmwwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0xOTAxMTYxMzMwMzBaFw0yMDAxMTQxOTQ0MDBaMIHWMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMS8wLQYDVQQDEyZWRVRTUyBDT01F
+UkNJTyBQRVQgTFREQToxNzg4Mjc1MjAwMDEyNjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAIJlTDFjbbzk52p7zhMLKDklfI1vQc7OmH2y4/2/VpDPzJ91JjShyypbBUJEbLoKP1LiPh5r
+EwUMM1pAszUnwMupETevx8VnF0SVITVvONVRRL5VK7fSFOxpxVfpn5U+FicxGLf+X68jM7GXES2C
+eF5EMCzO53J4ykKpi+fF7/fkTg1H2TKn9FxqsprUkMX8VYpZ2M2hYsRU98055LLO0mMbvWvbQ3Bh
+QbbNHNKgwNW+Oe+LNcCJVLK4G5UxjNGWzslNreKDBYZlkUCVtzx7xXiPD35j+TScnCVFrGK3nsae
+ft2mHsZ08lyY1hlHM2UCI4MeazyVkatacimkDoBfJHkCAwEAAaOCAtAwggLMMFQGCCsGAQUFBwEB
+BEgwRjBEBggrBgEFBQcwAoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0
+aS1tdWx0aXBsYS12MS5wN2IwHQYDVR0OBBYEFIUXpTaoRuT+M3Ub96Q+tO+CAck3MAkGA1UdEwQC
+MAAwHwYDVR0jBBgwFoAUNa4xFPZe0npPWP40qBpnlwrEmwcwXgYDVR0gBFcwVTBTBgZgTAECASYw
+STBHBggrBgEFBQcCARY7aHR0cHM6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNv
+bHV0aS1tdWx0aXBsYS5wZGYwgd4GA1UdHwSB1jCB0zA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0
+aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2Qy
+LmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXYxLmNybDBQoE6gTIZKaHR0
+cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0FDU09MVVRJL2FjLXNvbHV0aS1t
+dWx0aXBsYS12MS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEF
+BQcDBDCBuAYDVR0RBIGwMIGtgRthbmFjYXJvbGluYUBwaW92ZXRzcy5jb20uYnKgIAYFYEwBAwKg
+FxMVSUFOTkVSIFJPQ0hBIERFIFBBVUxBoBkGBWBMAQMDoBATDjE3ODgyNzUyMDAwMTI2oDgGBWBM
+AQMEoC8TLTA2MDMxOTgyMDU0ODY4MjI2NzcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVg
+TAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAB46jxQp5CW9cOFN1CGUuY1P
+A2OVYbndqHgVqyVeMZTSFC578dx/O+gjzPCA3qEJJ8DcdCJmMhweOo4rWXVLlAyFg6A1QH6c58zC
+8VMgGFq+1+PPYp3jkCXYFgKK9QFa9EtqqNUhxhZnaGuQA7WFLfpbm5T2FpfZBecC30ekM1OtODTf
+HebxFZma1e28ZvjwdzwNXPuFzYA5GPw2s65WgbLuYIVRIwoaSXqyWmapB17/8Hne/GHO89IwnLVP
+pj0MfzJQTO+wUSYnRz1Ra/+IFgw/J691maioG7/V3N2oNRB+vYDrBD2wGlC6yLHsVFx8KnVojjni
+PqStW1dOUQvVg3PUj48Z9pohcQy/Trknl9FMHaCXQvbRqmmfRG+qzJBPc7W6slIm3W0HCOLP+pVA
+Wm5IPv1IgKg6oH6aCpcMvvNg5JIqK4+yPFpu7PMBMsrZC/uZLHWChIUnrhbwrVIPQziAwXyH21IB
+HpJflvZD1Ksam11Y3IbydTf+nki3c+Mu/+4mM8rrvDDF8dfa86jGsIW+bu1RR06SSZvJHhLZuwM1
+BC0TSimhSVzDQz+0dMK39b1Fc/qkCDB8HY7B48jcHcJQgnfpWqCfPYD6nNGOLOQqNiuMXQpwBLE9
+7IwpecIuz7Z76P4FpGpYKx2dw8qjaSncEB0Zb3R7dWRXtmIkkWvc</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193249900402">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.2.26</verAplic>
+  <chNFe>31190417882752000126550030001180981111003040</chNFe>
+  <dhRecbto>2019-04-03T13:09:10-03:00</dhRecbto>
+  <nProt>131193249900402</nProt>
+  <digVal>8TUBCPUBsGbT8O+qio2e/dC74vA=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

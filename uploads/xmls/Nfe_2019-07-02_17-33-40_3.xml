@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190601550850000126550020000103121000103120" versao="4.00"><ide><cUF>31</cUF><cNF>00010312</cNF><natOp>VENDA DE PROD DENTRO ESTADO</natOp><mod>55</mod><serie>2</serie><nNF>10312</nNF><dhEmi>2019-06-26T09:53:33-03:00</dhEmi><dhSaiEnt>2019-06-26T09:53:33-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118304</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>19.01.02</verProc></ide><emit><CNPJ>01550850000126</CNPJ><xNome>AVENIDA CAR VIDROS E A. LTDA</xNome><xFant>AVENIDA CAR</xFant><enderEmit><xLgr>AV. PREF. T. CANDIDO DE REZENDE</xLgr><nro>450</nro><xCpl>NAO TEM</xCpl><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137633045</fone></enderEmit><IE>1833231380076</IE><IM>ISENTO</IM><CNAE>4530703</CNAE><CRT>1</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVS MOTORS LTDA</xNome><enderDest><xLgr>RUA CEFISA VIANNA</xLgr><nro>251</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE></dest><det nItem="1"><prod><cProd>17018</cProd><cEAN>SEM GTIN</cEAN><xProd>VIGIA STRADA VIGIA INTEIRICO 14-</xProd><NCM>70071100</NCM><CFOP>5403</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>360.00</vUnCom><vProd>360.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>360.00</vUnTrib><indTot>1</indTot><nItemPed>0</nItemPed></prod><imposto><ICMS><ICMSSN500><orig>0</orig><CSOSN>500</CSOSN><vBCSTRet>0.00</vBCSTRet><pST>0.0000</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet></ICMSSN500></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.00</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>0.00</vBC><pPIS>0.00</pPIS><vPIS>0.00</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>0.00</vBC><pCOFINS>0.00</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>360.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>360.00</vNF></ICMSTot></total><transp><modFrete>9</modFrete><vol><qVol>0</qVol><pesoL>0.000</pesoL><pesoB>0.000</pesoB></vol></transp><pag><detPag><tPag>90</tPag><vPag>360.00</vPag></detPag></pag><infAdic><infCpl>MD-5:A0F36A9791EF85CF0C03C9F9B8715C3B VEICULO STRADA PLACA PXB-4056</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190601550850000126550020000103121000103120"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DHKu3gOXxeCv/EocLqwmcAokr4A=</DigestValue></Reference></SignedInfo><SignatureValue>Tpgfp/vt1U/DuT9qU+i6SZccyYy9+yyDunLBTAJUxQHHLsoO1m8PpO4uzdHwj7iY3TnGVtCqKL4n
+9ObfWsdx6sit5lXJtIwQ8XIBV4Aiw0n+RKaP6nsiDvUNRguBX3ITwO5Mrr4k2cPkJGeKb29vVoYZ
+NdIkSKExlqla0DskZOhO1IlNszKbOj750j/xKh+C1Q/CCfPCzJHfG3EGupb3heOlkMA7yZ0w9lmG
+uf4UvT8AyS1d6ixsZ1AjkNpLZFS+RYUOIKX3vrsWPt8j7ZpnSnZsbvi8T898SbSsOZZwNeAnoaZp
+8bqpMyVCepOCD7mZQlfcPLhbm1Ie+UWscgholg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH+DCCBeCgAwIBAgIIQLsvCrInN6MwDQYJKoZIhvcNAQELBQAwcDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEUMBIGA1UEAxMLQUMgQ05ETCBSRkIwHhcNMTcxMjI4MTIyNDI5WhcN
+MjAxMjI4MTIyNDI5WjCB8TELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMR0wGwYDVQQHExRDT05T
+RUxIRUlSTyBMQUZBSUVURTETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJp
+YSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLEw1SRkIgZS1DTlBK
+IEEzMRAwDgYDVQQLEwdBUiBDTkRMMT8wPQYDVQQDEzZBVkVOSURBIENBUiBWSURST1MgRSBBQ0VT
+U09SSU9TIExUREEgTUU6MDE1NTA4NTAwMDAxMjYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCEYeXzLd1vNtm/F8IzUJPEChZBwwttunvwvoDmzM+ULdPsw+mVVO1dcZKbmcHjEO6LfnH7
+kyId9VKDl27KPjE7oqnVzd/F1uymYGbRU/3mjO3C0UsBHqAwS7MqF7nZlFnSt9dAZfUF+6Mgs3Pj
+xwS5Gd619C6F7xwzQmhwOwmLcNzU18waJUDhwUvMGNTVnLH2z3K8btVq/mwLLK9Jw4Vk3P5KfsP9
+u+eApjgyfvfTnIeeCCFOupwtdFaGakQTxjwC6i3Z6fBC2IJmRE3MZG+s0WZLxV3Iot1pnNMuqlWB
+rDrywWcZwk46I3s5kWaHKgZDiAYacZG+q736L9a/n0iHAgMBAAGjggMSMIIDDjAfBgNVHSMEGDAW
+gBROzqJ+EHzKjj3VEWYLsbcvaueEczAOBgNVHQ8BAf8EBAMCBeAwaQYDVR0gBGIwYDBeBgZgTAEC
+AzEwVDBSBggrBgEFBQcCARZGaHR0cDovL3JlcG9zaXRvcmlvLmFjc3BjYnJhc2lsLm9yZy5ici9h
+Yy1jbmRscmZiL2FjLWNuZGwtcmZiLXBjLWEzLnBkZjCB7wYDVR0fBIHnMIHkMEugSaBHhkVodHRw
+Oi8vcmVwb3NpdG9yaW8uYWNzcGNicmFzaWwub3JnLmJyL2FjLWNuZGxyZmIvbGNyLWFjLWNuZGxy
+ZmJ2Mi5jcmwwTKBKoEiGRmh0dHA6Ly9yZXBvc2l0b3JpbzIuYWNzcGNicmFzaWwub3JnLmJyL2Fj
+LWNuZGxyZmIvbGNyLWFjLWNuZGxyZmJ2Mi5jcmwwR6BFoEOGQWh0dHA6Ly9yZXBvc2l0b3Jpby5p
+Y3BicmFzaWwuZ292LmJyL2xjci9jbmRsL2xjci1hYy1jbmRscmZidjIuY3JsMIGJBggrBgEFBQcB
+AQR9MHswTQYIKwYBBQUHMAKGQWh0dHA6Ly9yZXBvc2l0b3Jpby5hY3NwY2JyYXNpbC5vcmcuYnIv
+YWMtY25kbHJmYi9hYy1jbmRscmZidjIucDdiMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5hY3Nw
+Y2JyYXNpbC5vcmcuYnIwgccGA1UdEQSBvzCBvIEfRklOQU5DRUlSTy5BVkVOSURBQ0FSQEdNQUlM
+LkNPTaArBgVgTAEDAqAiEyBPTElOREEgUk9TQSBGUkFOQ08gQ09VUkEgTElNRVJFU6AZBgVgTAED
+A6AQEw4wMTU1MDg1MDAwMDEyNqA4BgVgTAEDBKAvEy0yMzA2MTk2OTY5NzMzODQ4NjIwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDAJBgNVHRMEAjAAMA0GCSqGSIb3DQEBCwUAA4ICAQCg41r/P5vc
+bK6VmPd698NtXfsMKeg7UqAM8mIcrpsBCwSHF8ywZPQRt3jahz4ZuVtf4UaeqAdxDUndYPzCNAlT
+fR38vLKZnHpkY32Oc60k863jP9rb/4pLdq/+4XOHbWYjT7xkd9nMyxO8wpCoZjf0Pb7uJOWkEJPV
+jn8IXjwK5ddV/2a+Bd//iziaZsBl5/qLmc3Y6k4PvL3UL0xeYm9gC0WZmhUTlicFPBZ8+d5HeSNj
+xXC9C3i+y49EOAAZHkXIvgMgt7DFze8tL8wqcdWxEaeRYmLQPZySOj+T4HgMxRSnFtzS1ogxF9Wv
+pZvGlEx/bm2N84NAhGXlg0v4/H0QByXisZefVquiOU//9xB6Vr6+8V/onz28WCCkd3PJAGnyTL8b
+WQAbc42uEOX6hNadE7YqWiAp+ciF467t/KNcYZPV4FA5GhNZY9cefbs30CrZmzPpQCAMI9m33asJ
+hwCgk3NnSKWkwADd/lwlmbjpEvQWfy5PCodRy/xAcqAul68FMMgOi18hPHTmtX+yqwn00ctndhcR
+1EaIlf/77vo8Df/eFCFG//bo+IyJdDi7L/Pbz+NT/kewoyBH4SHs98DWgPsq1tqlM0wWFWJSvKwr
+bPP21n/X1CJ4HffnSd90Pnn4fPuI1TxnSI2ePAPMgZ0bUqM/xrQtpx6oTZ+SKp/etw==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193333976034">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.7</verAplic>
+  <chNFe>31190601550850000126550020000103121000103120</chNFe>
+  <dhRecbto>2019-06-26T09:57:28-03:00</dhRecbto>
+  <nProt>131193333976034</nProt>
+  <digVal>DHKu3gOXxeCv/EocLqwmcAokr4A=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

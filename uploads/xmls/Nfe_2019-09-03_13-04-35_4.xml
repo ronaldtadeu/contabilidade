@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190860409075020340550010008597781239788238" versao="4.00"><ide><cUF>31</cUF><cNF>23978823</cNF><natOp>VDA.MERC.ADQ.REC.DE TERCEIROS</natOp><mod>55</mod><serie>1</serie><nNF>859778</nNF><dhEmi>2019-08-06T13:09:54-03:00</dhEmi><dhSaiEnt>2019-08-06T13:14:54-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3105608</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC NFE 4.00</verProc></ide><emit><CNPJ>60409075020340</CNPJ><xNome>Nestle Brasil Ltda</xNome><xFant>BR DC Broker Barbacena</xFant><enderEmit><xLgr>Av Helena Aguiar de Figueiredo</xLgr><nro>407</nro><xCpl>GP B SL1</xCpl><xBairro>Ipanema</xBairro><cMun>3105608</cMun><xMun>Barbacena</xMun><UF>MG</UF><CEP>36205507</CEP><xPais>Brasil</xPais><fone>08000304321</fone></enderEmit><IE>0017611430149</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>Mercearia Serfons Ltda</xNome><enderDest><xLgr>R Santa Apodonia</xLgr><nro>116</nro><xBairro>Fonte Grande</xBairro><cMun>3118304</cMun><xMun>Conselheiro Lafaiete</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><det nItem="1"><prod><cProd>000000000012246308</cProd><cEAN>7891000102640</cEAN><xProd>NESTLE Aveia Flocos 28x170g BR</xProd><NCM>11041200</NCM><CFOP>5102</CFOP><uCom>UNI</uCom><qCom>7.0000</qCom><vUnCom>2.7557142857</vUnCom><vProd>19.29</vProd><cEANTrib>7891000102640</cEANTrib><uTrib>UNI</uTrib><qTrib>7.0000</qTrib><vUnTrib>2.7557142857</vUnTrib><indTot>1</indTot><xPed>1749134</xPed><nItemPed>000040</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>19.29</vBC><pICMS>18.0000</pICMS><vICMS>3.47</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>19.29</vBC><pPIS>1.6500</pPIS><vPIS>0.32</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>19.29</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>1.47</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>19.29</vBC><vICMS>3.47</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>19.29</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.32</vPIS><vCOFINS>1.47</vCOFINS><vOutro>0.00</vOutro><vNF>19.29</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>14635653000151</CNPJ><xNome>Brocker Atos Distribuicao Ltda</xNome><IE>0018741160061</IE><xEnder>Av Helena Aguiar de 407 Gp B Sl 02</xEnder><xMun>Barbacena</xMun><UF>MG</UF></transporta><vol><qVol>7</qVol><esp>UNI</esp><pesoL>1.190</pesoL><pesoB>1.400</pesoB></vol></transp><cobr><fat><nFat>9575785861</nFat><vOrig>19.29</vOrig><vDesc>0.00</vDesc><vLiq>19.29</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-08-27</dVenc><vDup>19.29</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>19.29</vPag></detPag></pag><infAdic><infCpl>Docnum: 0125272548 Cli: 0002970557 FFt: 6617 Emp: BR10 Org. Vendas: BRL1 / 06 / 00 Fvd: Remessa: 8323159296 Doct.Fat: 9575785861 N. Carga: 8022391698 Parceiro 01102486 Pedido: 5336640936 *Boleto Anexo* Tax Perm 72.0000000 PedCli: 1749134Vol(M3): 0.007Valor Liquido: 19,29 Placa Veiculo:APM9761 UF:MG Reboque: UF:</infCpl><obsCont xCampo="FATURA"><xTexto>CondPagto Vencto 21 dias apos dtfat Venc 270819</xTexto></obsCont></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190860409075020340550010008597781239788238"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Lp/796otiAPydVYvM+MaVGn9L/c=</DigestValue></Reference></SignedInfo><SignatureValue>b11Vl5uHLbhS0fUkxxeeK1JqJONh3ZzPSiM4UoSyxC1n7SRPT3lcUo9lfynYyojvxakDU4z8G2dM
+xCWpInRCTuprdZyUDjqaG0xSQ4KGDSiKwbO3BaFmLebJjXF6hp+8zOkWrtRz/Rib6EnVd8l4U0z+
+i0uT7ic6SoUnu/2Oj4aOe5bnrRjLoLfIwUx9RLfa5xymVeUlXYuK10JuTwo27mqzISXUhEo2wBt5
+FBop2UGVULM694Iq8QeAuxGMLpXa08AALs49lvTVlQ6bI7i2oCLn3j0+KMBjPnWQpPm63HIeoYBG
+9gFizWuxPpnNqyZ4HMUGyrcFWq5T7t57uUlpww==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH+jCCBeKgAwIBAgIQL0/izBQySNjdArdm34B5tDANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTE5MDIxMjEzMTgxNFoXDTIwMDIxMjEzMTgxNFowgd8xCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJTUDESMBAGA1UEBwwJU2FvIFBhdWxvMTYwNAYDVQQLDC1TZWNy
+ZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBl
+LUNOUEogQTExHjAcBgNVBAsMFUF1dGVudGljYWRvIHBvciBBUiBNMjEqMCgGA1UEAwwhTkVTVExF
+IEJSQVNJTCBMVERBOjYwNDA5MDc1MDAwMTUyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEApkchdB3A+OmT7so7CMBlxJGNI4RVsdCnd7ubk7YJQRi1p49nl71WHftj5Zm/1v9G1icRZMn6
+NA4KBKiDUiT/020B2oY9Pzs85zC68riCCXGdHGWqTuMHUxMZJbIJFhxwNfym3KNPoEXdH/cwzXgT
+mhbhgagIu7YT93B23KA3zvoRfzotXBJlgj7RMJW9JelCnnPBxHDLwtlaUPqXegsTf1dvtVun9PJW
+ojWzf/xeO+i8KO7plvXq3tKJnZ11VTdUgc7si7Iq6FUOzHyRZB7D7TmxznlW/WIay2YYtuNOnM2x
+tqJjETDzShtOZQzoAhoCExXrXvLbzqFSRq+2slEOxQIDAQABo4IDFjCCAxIwgcUGA1UdEQSBvTCB
+uqA9BgVgTAEDBKA0BDIyMTA4MTk2MTA0MjI4NjI3ODk3MDAwMDAwMDAwMDAwMDAwMDAwMDgzMzEy
+NDhTU1BTUKAnBgVgTAEDAqAeBBxKT1NFIEZMQVZJTyBBUk9VQ0hFIERFIFNPVVpBoBkGBWBMAQMD
+oBAEDjYwNDA5MDc1MDAwMTUyoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEcZ2VvcmdpYS5tZW5k
+ZXNAYnIubmVzdGxlLmNvbTAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFFN9f52+0WHQILran+OJpxNz
+WM1CMH8GA1UdIAR4MHYwdAYGYEwBAgEMMGowaAYIKwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2ls
+LmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FD
+X0NlcnRpc2lnbl9SRkIucGRmMIG8BgNVHR8EgbQwgbEwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2ls
+LmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzUvTGF0ZXN0
+Q1JMLmNybDBWoFSgUoZQaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRv
+cmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBrAYIKwYBBQUHAQEEgZ8wgZwwXwYIKwYBBQUH
+MAKGU2h0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlm
+aWNhZG9zL0FDX0NlcnRpc2lnbl9SRkJfRzUucDdjMDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC1h
+Yy1jZXJ0aXNpZ24tcmZiLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBAHwGbmlm
+75f/XTcKGPUnokKKkQbaiteTMaMtENB0VV6UuS3xw/gzkqCkr7+VF7/SI4sOYVioxAMFM5g+Fu4T
+asFmaXXBdB1BNsqn47hAEfkxY8jfmVVoYL+1exvGMcn/eXqTq+CLvX67/1VPTD0YDPCEWKMRUAYX
+tfSeh86A+PXkVGMcsvVJJu3mAAkZmHj3OLV9KXG3qgThRlfzs/z5g4xXvMQGYhjCvGFvfsyBeW79
+rF+cU5PagOQVuEKraDWw6y/D753oDsk4XnYiwK4UGIw8Cw+8NTD/eViLpVzsHPbVLOgyBET8sMnb
+dfIXHe4LnupGc1jo5xK1JI8PF5rivocp6Ri8F3fTKVLz4DXiLuLCvt5l4Lc63/ztFmmhmBSBLYh3
+hqIdvf0PVYXMbj0rEd+CM+8VHaX+eO1dBMPdeEVL32XHPc2G4bUPmJ6muOB0PI0XY4pyTV1jZmo7
+3mE9w0/ePK057hkizhLM8/tfY8XN+pwHyXWnIL+LqFn3TvpadKFNyW7ai0snrqcrSxIIE7NTNQGd
+Ve365eVVY6VeXMODBUGwzstJyVwbjePc12kEJgc75DhTviU9TJBQtas0N7iASkzC5KO3xfEFmLvw
+5BArvN+rE4IDENdYyvOwnaJihl2fMnxvE5OZ+UnuUYipHrs/XIFoe0hzPfFUKRBNel1Y</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193376564554">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190860409075020340550010008597781239788238</chNFe>
+  <dhRecbto>2019-08-06T13:15:19-03:00</dhRecbto>
+  <nProt>131193376564554</nProt>
+  <digVal>Lp/796otiAPydVYvM+MaVGn9L/c=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

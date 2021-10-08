@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31201007489678000129550010001491471871621874"><ide><cUF>31</cUF><cNF>87162187</cNF><natOp>VENDA MERC ADQ SUJ ST /</natOp><mod>55</mod><serie>1</serie><nNF>149147</nNF><dhEmi>2020-10-15T16:11:12-02:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>4</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC 10.0</verProc></ide><emit><CNPJ>07489678000129</CNPJ><xNome>Sul Mineira Alimentos Ltda.</xNome><enderEmit><xLgr>Av Helena de Vasconcelos Costa</xLgr><nro>1365</nro><xBairro>Cincao</xBairro><cMun>3118601</cMun><xMun>Contagem</xMun><UF>MG</UF><CEP>32371685</CEP><xPais>Brasil</xPais><fone>3130363672</fone></enderEmit><IE>6933700340033</IE><IM>72097378-0</IM><CRT>3</CRT></emit><dest><CNPJ>16583239000171</CNPJ><xNome>COMERCIAL AGRICOLA BRASIL LTDA</xNome><enderDest><xLgr>RUA MAL. FLORIANO PEIXOTO -</xLgr><nro>69</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>317611986</fone></enderDest><indIEDest>1</indIEDest><IE>1833112410036</IE></dest><det nItem="1"><prod><cProd>E00035412</cProd><cEAN>7896588952014</cEAN><xProd>MAX CAT P. LINE CASTRADOS FRANGO 20KG</xProd><NCM>23099010</NCM><CEST>2200100</CEST><EXTIPI>01</EXTIPI><CFOP>5405</CFOP><uCom>SC</uCom><qCom>6.0000</qCom><vUnCom>184.8500000000</vUnCom><vProd>1109.10</vProd><cEANTrib>7896588952014</cEANTrib><uTrib>SC</uTrib><qTrib>6.0000</qTrib><vUnTrib>184.8500000000</vUnTrib><indTot>1</indTot><xPed>3282403</xPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>1003.90</vBCSTRet><pST>20.0000</pST><vICMSSubstituto>123.77</vICMSSubstituto><vICMSSTRet>56.93</vICMSSTRet><vBCFCPSTRet>1003.90</vBCFCPSTRet><pFCPSTRet>2.0000</pFCPSTRet><vFCPSTRet>20.08</vFCPSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>1109.10</vBC><pPIS>1.6500</pPIS><vPIS>18.30</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>1109.10</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>84.29</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>ICMS ST Recolhido antecipadamente pelo Fabricante.</infAdProd></det><det nItem="2"><prod><cProd>E00027420</cProd><cEAN>7896588952588</cEAN><xProd>MAX CAT SABORES AD 20KG</xProd><NCM>23099010</NCM><CEST>2200100</CEST><EXTIPI>01</EXTIPI><CFOP>5405</CFOP><uCom>SC</uCom><qCom>4.0000</qCom><vUnCom>169.7800000000</vUnCom><vProd>679.12</vProd><cEANTrib>7896588952588</cEANTrib><uTrib>SC</uTrib><qTrib>4.0000</qTrib><vUnTrib>169.7800000000</vUnTrib><indTot>1</indTot><xPed>3282403</xPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>646.10</vBCSTRet><pST>20.0000</pST><vICMSSubstituto>79.66</vICMSSubstituto><vICMSSTRet>36.64</vICMSSTRet><vBCFCPSTRet>646.10</vBCFCPSTRet><pFCPSTRet>2.0000</pFCPSTRet><vFCPSTRet>12.92</vFCPSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>679.12</vBC><pPIS>1.6500</pPIS><vPIS>11.21</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>679.12</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>51.61</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>ICMS ST Recolhido antecipadamente pelo Fabricante.</infAdProd></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>33.00</vFCPSTRet><vProd>1788.22</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>29.51</vPIS><vCOFINS>135.90</vCOFINS><vOutro>0.00</vOutro><vNF>1788.22</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CPF>00118128698</CPF><xNome>ADEVALDO PEREIRA DE OLIVEIRA</xNome><xEnder>RUA QUARENTA E UM 206</xEnder><xMun>CONTAGEM</xMun><UF>MG</UF></transporta><vol><qVol>10</qVol><esp>SC</esp><pesoL>200.000</pesoL><pesoB>202.340</pesoB></vol></transp><cobr><fat><nFat>0095485152</nFat><vOrig>1788.22</vOrig><vDesc>0.00</vDesc><vLiq>1788.22</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-11-05</dVenc><vDup>357.64</vDup></dup><dup><nDup>002</nDup><dVenc>2020-11-12</dVenc><vDup>357.64</vDup></dup><dup><nDup>003</nDup><dVenc>2020-11-19</dVenc><vDup>357.64</vDup></dup><dup><nDup>004</nDup><dVenc>2020-11-26</dVenc><vDup>357.64</vDup></dup><dup><nDup>005</nDup><dVenc>2020-12-03</dVenc><vDup>357.66</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>1788.22</vPag></detPag></pag><infAdic><infAdFisco>IMPOSTO RETIDO POR SUBST. TRIB. NOS TERMOS DO PROT. 26/2004 DE 25/06/04 - ICMS S.T. RETIDO: BC R$ 1.650,00 VALOR ICMS R$ 93,58. PRAZO DE VALIDADE DE 07 DIAS IMPRORROGAVEL. REGIME ESPECIAL PTA 16.000225179-22 - DF/BETIM. SERVICO DE TRANSPORTES ISENTO DE ICMS DE ACORDO COM ART. 6o PARTE 1 ANEXO I, ITEM 144 RICMS/MG.</infAdFisco><infCpl>Representante: 507287. Pedido: 3282403. FUNDO DE ERRADICACAO DA MISERIA RECOLHIDO PELO FABRICANTE. Valor FCP:R$0,00; VALOR FCP ST: R$33,00</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31201007489678000129550010001491471871621874"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/AOVUeJbGkJk7bH6c7gn2m9xzss=</DigestValue></Reference></SignedInfo><SignatureValue>ALhAfZ4aa4LR3pRxyO6NcN3p2+g61/OwxobYOqh4g2YEuW4Uf+D9wa/6fl0kdc5S8T+ZXEuxvriI
+caSIs8ZIJYqXDhyMacdGOhTvnbu8LAoRLOLCvpB0jKi8f2vj6Kqo/fXreww+BwFLdLGMNX9rikKd
+wS6k82o5eNIHebd1hLOjc/Ojxhl8+E7Eoh0qa7y97TF/uoyJFmW2GhFaV9VEzpLHNZB7i9CTa4FK
+c63xC3EYsS/pOyELK7O98BZ0XPQe1ZKCsSnyAZbJtbJhqeH1PKRCjhJ+RsEGEJhIZ1F4D2HDzRjV
+P1t9uRu+z9esTs3ro1aSHUmkdKOFNvPNDndfVA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHqTCCBZGgAwIBAgIIWnu2db4uXu4wDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg
+djUwHhcNMjAwMzMwMTM0MjAwWhcNMjEwMzMwMTM0MjAwWjCB/DELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDk1
+NTc0MDYxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEoMCYGA1UE
+CwwfU0VSQVNBIENlcnRpZmljYWRvcmEgRGlnaXRhbCB2NTEXMBUGA1UECwwONjIxNzM2MjAwMDAx
+ODAxFDASBgNVBAsMCyhFTSBCUkFOQ08pMSMwIQYDVQQDDBpTVUwgTUlORUlSQSBBTElNRU5UT1Mg
+TFREQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMQlGKiVRT9VgUmTA6DWiHVsWcA0
+RRm9TkiSx2hxGbtQ2LZEwtC67Ode+11Ko/+6Asah3pJopr+FKoPeuwx2BtVqURx1OBppQ89cwT1t
+e9sp0Y+FZGYPN15yda+wKnV7BIlTnTInhPOcBUhSnHwrU0RbobbqBfsh2hDSszU5psR1LsD0BYhw
+AaC6qZXXLavJBr/F/FskOdYX7iAEuzPGwZfgJvGO4h50p8PpR5jgDt0OXI79xlWGwjWPonxaKB9Y
+0cI4EuR6itOpEHZYpzSzZ53ukpaWuG80Q/oW0wAVdkMzhDSrQDN+Qcwsv+IHyvsvTPYCeajpWASt
+VlUic6iovAUCAwEAAaOCAtwwggLYMB8GA1UdIwQYMBaAFFZ1r0pzstgIxH37bCgcEdX3wajMMIGX
+BggrBgEFBQcBAQSBijCBhzBHBggrBgEFBQcwAoY7aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0
+YWwuY29tLmJyL2NhZGVpYXMvc2VyYXNhY2R2NS5wN2IwPAYIKwYBBQUHMAGGMGh0dHA6Ly9vY3Nw
+LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvc2VyYXNhY2R2NTCBuwYDVR0RBIGzMIGwgRlQQVJB
+U09DSUVUQVJJT0NTQUBBRE0uQ09NoD4GBWBMAQMEoDUTMzA0MDMxOTc2MjYwNjUwNjU4ODkwMDAw
+MDAwMDAwMDAwMDAwMDI1NjQyNzk2M1NTUCBTUKAfBgVgTAEDAqAWExRNQVJDRUxPIEtFTkpJIEFP
+WUFHSaAZBgVgTAEDA6AQEw4wNzQ4OTY3ODAwMDEyOaAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAw
+cQYDVR0gBGowaDBmBgZgTAECAQYwXDBaBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2Vy
+dGlmaWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1zY2QucGRm
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBmwYDVR0fBIGTMIGQMEmgR6BFhkNodHRw
+Oi8vd3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNk
+djUuY3JsMEOgQaA/hj1odHRwOi8vbGNyLmNlcnRpZmljYWRvcy5jb20uYnIvcmVwb3NpdG9yaW8v
+bGNyL3NlcmFzYWNkdjUuY3JsMB0GA1UdDgQWBBS7AQemCdETydDjRi6f0oaOwr3pzTAOBgNVHQ8B
+Af8EBAMCBeAwDQYJKoZIhvcNAQELBQADggIBABKNfx8/CAEYYqZSYmIjJBmFPuWL+XLt3i6bZeDs
+KC2mhjxI64efTjAdBgi0SUltHZAr4J6I/Mp/k3sI/RVfMN7EgzvwK56vN7o5F8SjjrIDP7lRnJRH
+/tAPKUMTR8DJ8NihQHjCP7jiOH8z5Vue+guesHahpoLqy7wVGA4g/YqmiOBQ/yWGmKb+lvClsocZ
+nUMfPvC9P8+WpbtO19jRlwjXXzqphLfs1lfkLdWs2+PKz/QL27vEEmkOI66MmLhW8LfxifXz+emj
+6hAFVegbBqEY3v+9cIdJW0VRI7YzCNf73ICo+n7okiBNy3JnkkT62jmiOOuiUiTHHFp72VDmiEkv
+/2VtdZVmvlZpSaj8I+wK7sxx0Nfgt8aqG0wSuYcTNpAa+Zu1Raqu1pp+SJTXp8HdNIFRCBVAeacu
+QLKMQcwy35eJJ8jeswEiUmmqoNrHY4MMTo9LQbtB5uYduIzqVqhUk7qwG+S7oiIbuo/j3r3DAwA7
+GCTBbmT3Mtiv26za27u3DikG/xTO0ifZSC20ihwpUnLWJBKfc1pwoFKtQNkWZf0sq7lmn41Z/lnF
+ooFUIOorHtVuxOpEMIcEtffKxxsdZBgwU/NWT63OjWSA2d+zxAxMmMhML2X4LZtuLy7heHL8fdex
+1N0cDLwnrNCxscqAFJwVdpqT7ZGDwajDaQ9d</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203864063473">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.21-HA1</verAplic>
+  <chNFe>31201007489678000129550010001491471871621874</chNFe>
+  <dhRecbto>2020-10-15T15:14:19-03:00</dhRecbto>
+  <nProt>131203864063473</nProt>
+  <digVal>/AOVUeJbGkJk7bH6c7gn2m9xzss=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

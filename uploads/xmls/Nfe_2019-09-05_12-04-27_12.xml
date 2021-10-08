@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190816705931000125550020008273771111026082" versao="4.00"><ide><cUF>31</cUF><cNF>11102608</cNF><natOp>Venda de mercadoria</natOp><mod>55</mod><serie>2</serie><nNF>827377</nNF><dhEmi>2019-08-26T19:32:00-03:00</dhEmi><dhSaiEnt>2019-08-27T19:32:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3136702</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.105</verProc></ide><emit><CNPJ>16705931000125</CNPJ><xNome>DISPROPAN LTDA</xNome><xFant>DISPROPAN</xFant><enderEmit><xLgr>R.MONSENHOR FRANC.PAULA SALGADO,150</xLgr><nro>0</nro><xBairro>SAO JUDAS TADEU</xBairro><cMun>3136702</cMun><xMun>JUIZ DE FORA</xMun><UF>MG</UF><CEP>36087560</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3232261200</fone></enderEmit><IE>3671417600064</IE><IM>003439003</IM><CRT>3</CRT></emit><dest><CNPJ>64193618000106</CNPJ><xNome>PANIFICADORA E LANCHONETE W 3 LTDA</xNome><enderDest><xLgr>RUA LOPES FRANCO, 12</xLgr><nro>12</nro><xBairro>CARIJOS</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137618544</fone></enderDest><indIEDest>1</indIEDest><IE>1837009170072</IE><email>assis.gloria13@gmail.com</email></dest><entrega><CNPJ>64193618000106</CNPJ><xLgr>RUA LOPES FRANCO, 12</xLgr><nro>12</nro><xBairro>CARIJOS</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>49855</cProd><cEAN>7896225901405</cEAN><xProd>FARINHA TRIGO ALVEAR SC 25 KG (*)</xProd><NCM>11010010</NCM><CEST>1704403</CEST><indEscala>S</indEscala><CFOP>5102</CFOP><uCom>SC</uCom><qCom>5.0000</qCom><vUnCom>63.0000000000</vUnCom><vProd>315.00</vProd><cEANTrib>7896225901405</cEANTrib><uTrib>SC</uTrib><qTrib>5.0000</qTrib><vUnTrib>63.0000000000</vUnTrib><indTot>1</indTot><xPed>8039736</xPed><nItemPed>1</nItemPed></prod><imposto><vTotTrib>63.35</vTotTrib><ICMS><ICMS20><orig>8</orig><CST>20</CST><modBC>3</modBC><pRedBC>61.1100</pRedBC><vBC>122.50</vBC><pICMS>18.0000</pICMS><vICMS>22.05</vICMS></ICMS20></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>VL.APROX.TRIB. FEDERAL: 63.35</infAdProd></det><det nItem="2"><prod><cProd>11142</cProd><cEAN>7896417201245</cEAN><xProd>FARINHA INTEGRAL VILMA 25 KG (*)</xProd><NCM>11010010</NCM><CEST>1704400</CEST><indEscala>S</indEscala><CFOP>5102</CFOP><uCom>SC</uCom><qCom>1.0000</qCom><vUnCom>68.9000000000</vUnCom><vProd>68.90</vProd><cEANTrib>7896417201245</cEANTrib><uTrib>SC</uTrib><qTrib>1.0000</qTrib><vUnTrib>68.9000000000</vUnTrib><indTot>1</indTot><xPed>8039736</xPed><nItemPed>2</nItemPed></prod><imposto><vTotTrib>13.86</vTotTrib><ICMS><ICMS20><orig>0</orig><CST>20</CST><modBC>3</modBC><pRedBC>61.1100</pRedBC><vBC>26.80</vBC><pICMS>18.0000</pICMS><vICMS>4.82</vICMS></ICMS20></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>VL.APROX.TRIB. FEDERAL: 13.86</infAdProd></det><total><ICMSTot><vBC>149.30</vBC><vICMS>26.87</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>383.90</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>383.90</vNF><vTotTrib>77.21</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>05418460000158</CNPJ><xNome>FOCO TRANSPORTES LTDA</xNome><IE>3672123360091</IE><xEnder>AV DOUTOR SIMEAO DE FARIA,630, 630 - NOVA ERA</xEnder><xMun>JUIZ DE FORA</xMun><UF>MG</UF></transporta><vol><qVol>6</qVol><nVol>6</nVol><pesoL>150.540</pesoL><pesoB>150.540</pesoB></vol></transp><cobr><fat><nFat>827377</nFat><vOrig>383.90</vOrig><vDesc>0</vDesc><vLiq>383.90</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-09-24</dVenc><vDup>383.90</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>383.90</vPag></detPag></pag><infAdic><infCpl>PLANO PAGTO: 28 DIAS//COBRANCA: BANCO ITAU//VENDEDOR: 8 - JULIENY//PRESTACAO DE SERVICO DE TRANSPORTE SUJEITA A EMISSAO DE CTE GLOBAL NOS TERMOS DO ART.8 DA PARTE 1 DO ANEXO IX DO RICMS-MG//RED. BASE DE CALCULO A 61,11 ART. 43 E ALINEA A1, ITEM 19 DO ANEXO IV, DEC. 43080/02.//PROD. C/ (*) - ALIQUOTA 0 PIS COFINS CF.INCISO XXIV, ART.1o.,LEI 10.925/04, INCLUIDA PELA MP 609/13</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190816705931000125550020008273771111026082"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XHStPepdzNBZ0sb0zCxzdVAaHR8=</DigestValue></Reference></SignedInfo><SignatureValue>SB65YLuRJ0cFUz+GCmFSBREf5lBZbPIMcxPfwdFWTM/7QYCKPyt3UkmjhElWn/2YMGgjqyWdiPhp
+Mg6IGKC0srEn1chzmpL+XjaXR148GB/3UGSQQ7PqSSGZqfhxELM/EL6wSOBM9UgDlJg+9WSsYJkt
+gj1nnhdBrBg34DoyTRmrUECc1uZRiZkF4orHGj5/ICzJW+Dh4946ZgGRhU2aoaLbhhVCAex2kp2M
+5QZRgtrQ/Xn5ZzGa0j6bseSxOjgk05mtFhlmmFyhAy/ipGxqWSAYveCm+J/OTN12UF/1s9YP+b/T
+Xs/YTftPt6wxOSSPdZwlP1uHMwp/ZDklZEQk3Q==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHmzCCBYOgAwIBAgIISBzr68FruGkwDQYJKoZIhvcNAQELBQAwczELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEXMBUGA1UEAxMOQUMgTElOSyBSRkIgdjIwHhcNMTkwMjI2MTgwOTM1
+WhcNMjAwMjI2MTgwOTM1WjCBzzELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMRUwEwYDVQQHEwxK
+VUlaIERFIEZPUkExEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEg
+UmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZCIGUtQ05QSiBBMTEP
+MA0GA1UECxMGQVIgV0VCMSYwJAYDVQQDEx1ESVNQUk9QQU4gTFREQToxNjcwNTkzMTAwMDEyNTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIC3BOU+VJUQ4zGVIC0CQGDjelnOZ4QI8T7C
+pyN+YkDfi6ZzTL3XMem4EMhqrcgPba14pEfl4J+TSi8/GudUxx5xvhYcK5fnkMsNgF9mdfEsE7Aj
+ZRdTF+kuYoRElnUPrOKKrFeMXyqqh1V+vJmsG3UGC5BJQEJAVXk/8/APRhAUN6pnRr3fmf/Ier77
+G6KPADHDCY9HVdCS5lvfoRvetTRkfSPfSHQBnSt/OA1vmpm5c65T4NRgQSifuBo0eUmods9fDoh2
+jiX9CzVtlyzDm2ZMTTEjeqrn5ThNEv0J0ErjwiZW7Z2ry+jf8TtqpKgZANA/KBMAf1faqOIwIvst
+WHsCAwEAAaOCAtQwggLQMB8GA1UdIwQYMBaAFA3f1kf0E07lIlgyLGam5y7kV7wCMA4GA1UdDwEB
+/wQEAwIF4DBuBgNVHSAEZzBlMGMGBmBMAQIBOzBZMFcGCCsGAQUFBwIBFktodHRwOi8vcmVwb3Np
+dG9yaW8ubGlua2NlcnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9hYy1saW5rLXJmYi1wYy1h
+MS5wZGYwgbAGA1UdHwSBqDCBpTBQoE6gTIZKaHR0cDovL3JlcG9zaXRvcmlvLmxpbmtjZXJ0aWZp
+Y2FjYW8uY29tLmJyL2FjLWxpbmtyZmIvbGNyLWFjLWxpbmtyZmJ2NS5jcmwwUaBPoE2GS2h0dHA6
+Ly9yZXBvc2l0b3JpbzIubGlua2NlcnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9sY3ItYWMt
+bGlua3JmYnY1LmNybDCBlQYIKwYBBQUHAQEEgYgwgYUwUgYIKwYBBQUHMAKGRmh0dHA6Ly9yZXBv
+c2l0b3Jpby5saW5rY2VydGlmaWNhY2FvLmNvbS5ici9hYy1saW5rcmZiL2FjLWxpbmtyZmJ2NS5w
+N2IwLwYIKwYBBQUHMAGGI2h0dHA6Ly9vY3NwLmxpbmtjZXJ0aWZpY2FjYW8uY29tLmJyMIG3BgNV
+HREEga8wgayBFUpPU0VARElTUFJPUEFOLkNPTS5CUqAlBgVgTAEDAqAcExpKT1NFIEZSQU5DSVND
+TyBERSBPTElWRUlSQaAZBgVgTAEDA6AQEw4xNjcwNTkzMTAwMDEyNaA4BgVgTAEDBKAvEy0xMTA3
+MTk1MTE1NjA1MTgzNjcyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAw
+MDAwMDAwMDAwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDAJBgNVHRMEAjAAMA0GCSqG
+SIb3DQEBCwUAA4ICAQAEma+cXTw6FmCt8WcXrMp8Ur480M7CLWhb+1AjhAYUQ+nr/zazxrMaSJQg
+SelwdMsTh5tD5Obw7ZD+YeEYfCJV2Cuq9JIsMN4TKTcM5dkSAcqixIyf5NkdrP/qVziBvCdab4Zv
+MySg0qF1qaS+1Ep5T/sCDsGgX4lqqz2ngxqYAxbTGdoePauEI8EB5q7hRNlGaFAvYucO2uAS9pen
+LdiWJ+8N6UjqdTnA5j366/ZF0lSYxRP7zcHr1cw2TJAZUs4RS7UjKU1xl8s3qylL783C6XsovVlT
+nAJPHQJCZoLepF2aspEZehyKEAhP8WoUhKGLGjiYjmgO4SGuxM6eXke7Xm1Pnj+IaeDBHd2wTchF
+O5xPVEJhIuz4v81ZwK4u2HiT8BQ/Pp4eVchrqqq8kqaAcZOOnw9ojd9Iil+h5yOB5T+bgu2RJ9bS
+4Vdnq4McCzjoO8ipEz3Lu3zZQVGWTIf1kZCLVqOmMXGlWTr3YYrCJDBItF7QS+s5TvDeMBTTzNGl
+E9EEiHvYISlgOKO+CR0PNI/oZWVi8kcoOVYKnWzyD0f254p+QpYHck2p82nSTKzDK5bWSNl6di7S
+rklj5Xo33Wrw8bsHnhVjV9GvU/3XBLjN1PUmsMXE3eR7qWfmUrcf+GLcll4HYDNE6gkIcw+t9yZW
+3RWiQ1ytZrp6T11dKQ==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193398199631">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190816705931000125550020008273771111026082</chNFe>
+  <dhRecbto>2019-08-26T19:34:52-03:00</dhRecbto>
+  <nProt>131193398199631</nProt>
+  <digVal>XHStPepdzNBZ0sb0zCxzdVAaHR8=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

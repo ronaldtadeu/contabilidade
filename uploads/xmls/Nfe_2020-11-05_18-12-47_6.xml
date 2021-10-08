@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31201034516088000200550210000806771732283247"><ide><cUF>31</cUF><cNF>73228324</cNF><natOp>Outra saída merc. prest. serv. não especificado</natOp><mod>55</mod><serie>21</serie><nNF>80677</nNF><dhEmi>2020-10-27T13:05:59-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP NFE 10</verProc></ide><emit><CNPJ>34516088000200</CNPJ><xNome>SECULUS DA AMAZÔNIA INDÚSTRIA E COMÉRCIO S/A</xNome><xFant>SECULUS AMAZONIA ADM BHTE</xFant><enderEmit><xLgr>AVENIDA AFONSO PENA</xLgr><nro>3577</nro><xBairro>FUNCIONÁRIOS</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>30130008</CEP><xPais>Brasil</xPais><fone>3135167600</fone></enderEmit><IE>0626654320068</IE><IM>0377.972/001-0</IM><CNAE>8211300</CNAE><CRT>3</CRT></emit><dest><CNPJ>00149895000120</CNPJ><xNome>IRINEIA COMERCIAL LTDA ME</xNome><enderDest><xLgr>R MELO VIANA</xLgr><nro>113</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400070</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137633716</fone></enderDest><indIEDest>1</indIEDest><IE>1838926970038</IE></dest><det nItem="1"><prod><cProd>000000001500003274</cProd><cEAN>SEM GTIN</cEAN><xProd>PDV GERAL - KIT DE SABONETE EM BARRA</xProd><NCM>34011190</NCM><CFOP>5949</CFOP><uCom>UN</uCom><qCom>10.0000</qCom><vUnCom>11.5850000000</vUnCom><vProd>115.85</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>10.0000</qTrib><vUnTrib>11.5850000000</vUnTrib><indTot>1</indTot><xPed>NATURA</xPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>115.85</vBC><pICMS>18.0000</pICMS><vICMS>20.85</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>115.85</vBC><vICMS>20.85</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>115.85</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>115.85</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>34028316001509</CNPJ><xNome>EMPRESA BRASILEIRA DE CORREIOS E TE FOS</xNome><IE>0620144620013</IE><xEnder>AV AFONSO PENA 1270</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><pesoL>0.010</pesoL><pesoB>0.010</pesoB></vol></transp><cobr><fat><nFat>0000080677</nFat><vOrig>115.85</vOrig><vDesc>0.00</vDesc><vLiq>115.85</vLiq></fat></cobr><pag><detPag><tPag>14</tPag><vPag>115.85</vPag></detPag></pag><infAdic><infCpl>Ordem(s) de Venda: 1142541 - Doc. Faturamento: 0091348662 Quantidade de peças: 10,000 Valor de impostos incidentes conf. lei 12741/12: 20,85</infCpl></infAdic><infRespTec><CNPJ>74544297000192</CNPJ><xContato>SAP BRASIL LTDA</xContato><email>TI@SECULUS.COM.BR</email><fone>3135167600</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31201034516088000200550210000806771732283247"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RkNbMZo14+DvYTph4yOZRXDI6ZY=</DigestValue></Reference></SignedInfo><SignatureValue>iJdmMDk8AXjak1LHQKrwPmabM9iZeNB0vO5+tHMRFzQPoTh3Aq2dgqHCcONclsvIBuvbwh6cU733
+QWh2aAAvZXIgBHPJuHq8kMTBp5Mzrp29VvZeUTwl3VEDB+EfRlsMW8ayhsKZqBUpJeRTIznt1MNh
+4chJnLkIgSFweB7rOqU+5FzYcOExGZPiv0FrL2C2KbxdzS1nmILkseJ/l9xI9WBhyTS2cEMTcIP4
+7L+gedyKl+cPSjS3zXkOetcnbmo6hENarJ/++jk2RgdiAa8h5He9WhHePPGTn5xJESAKem0FvoC1
+tYGVfUwMebtUPn1M2k3ujRTqLCV3Itlsg1zOyA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHwzCCBaugAwIBAgIIW0AhcMM3rSkwDQYJKoZIhvcNAQELBQAwczELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEXMBUGA1UEAxMOQUMgTElOSyBSRkIgdjIwHhcNMjAwMjEzMTc0ODI2
+WhcNMjEwMjEzMTc0ODI2WjCB7zELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAkFNMQ8wDQYDVQQHEwZN
+QU5BVVMxEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0
+YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZCIGUtQ05QSiBBMTEXMBUGA1UE
+CxMOMTE1MDgyMjIwMDAxMzYxRDBCBgNVBAMTO1NFQ1VMVVMgREEgQU1BWk9OSUEgSU5EVVNUUklB
+IEUgQ09NRVJDSU8gUyBBOjM0NTE2MDg4MDAwMTEwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAxNZjRXfxspICYDTRHoUCrHWQCu85naBN5Oi0w3oeI6+0kJ+jef/UKIrTqQTlWDMVuPt8
+XjOy6IZt3By6Wp8Veq2U36rHPcXLqlB55C/pYsQw1Ko+ax6OMz/1BJjvD9/cPdM83w5dbBM05kHT
+BKCVKc0QXeHB+HC3KpsumZl/7n46lSc4gaCmiaIV4W3LwkNLALzTZC4/6S3VSc0Q4Z8lb43h9Rnq
+Jy018tIrvlWmDoaS4/54XxN4HFHie+BYPlmDKuLDP2WuYOKKgXgrX44UhHThCmKKJkLwMDuOcVce
+Tz1nq84aKZLmgxyOQ6OCqtvGT7puwxoNvIk6y6FKTJNoqQIDAQABo4IC3DCCAtgwHwYDVR0jBBgw
+FoAUDd/WR/QTTuUiWDIsZqbnLuRXvAIwDgYDVR0PAQH/BAQDAgXgMG4GA1UdIARnMGUwYwYGYEwB
+AgE7MFkwVwYIKwYBBQUHAgEWS2h0dHA6Ly9yZXBvc2l0b3Jpby5saW5rY2VydGlmaWNhY2FvLmNv
+bS5ici9hYy1saW5rcmZiL2FjLWxpbmstcmZiLXBjLWExLnBkZjCBsAYDVR0fBIGoMIGlMFCgTqBM
+hkpodHRwOi8vcmVwb3NpdG9yaW8ubGlua2NlcnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9s
+Y3ItYWMtbGlua3JmYnY1LmNybDBRoE+gTYZLaHR0cDovL3JlcG9zaXRvcmlvMi5saW5rY2VydGlm
+aWNhY2FvLmNvbS5ici9hYy1saW5rcmZiL2xjci1hYy1saW5rcmZidjUuY3JsMIGVBggrBgEFBQcB
+AQSBiDCBhTBSBggrBgEFBQcwAoZGaHR0cDovL3JlcG9zaXRvcmlvLmxpbmtjZXJ0aWZpY2FjYW8u
+Y29tLmJyL2FjLWxpbmtyZmIvYWMtbGlua3JmYnY1LnA3YjAvBggrBgEFBQcwAYYjaHR0cDovL29j
+c3AubGlua2NlcnRpZmljYWNhby5jb20uYnIwgb8GA1UdEQSBtzCBtIEbU0VSR0lPLkFSVFVSQFNF
+Q1VMVVMuQ09NLkJSoCcGBWBMAQMCoB4THEFMRVhBTkRSRSBMVUlaIFNJTFZBIEFaRVZFRE+gGQYF
+YEwBAwOgEBMOMzQ1MTYwODgwMDAxMTCgOAYFYEwBAwSgLxMtMTExMjE5NzE4ODM2NDUzNDY1MzAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwoBcGBWBMAQMHoA4TDDAwMDAwMDAwMDAwMDAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAgEAb7Vs
+uCMB7hHsNLJk2kQP85gLQDEHviQfo76eZuoKGTNu/T2dtAbXduAzVtyRkjCBadOoPxNei0vhOzMx
+cTRb/LkSnmWxdUjrj81KgH2fvQZ8cPoC8aUJn/Yf8Qw5eAoWAvDVwxCJRDqkWIjBwnDJz2dOVU0i
+AyhoUwSsOrhuB1X4eUEPHjOy+PBq7dk+J+n0l9P0u+Sv4ROIOFn2IJxb7NHoeZLs4tlIr39hjNKp
+RwOcSp1riLcTBWNfAsKIAcPZlEvgQCJKpW5XEXg/1FgtnN1jUIrrM0yMGmeUXQ/188iWVVVfiw2I
+VyjR0XWQNusrxXJMNcqPJpC7hsoOGmLU4jlX0zMUShklKDgiUxr1a4etJQzn1U2TYcDnMhRA/NGW
+C5wgCZR4ANCGzN4w9k7m6MQRYUc12KuP+14HkjRGoj092VVetX4EX+twAHb4W/L2sEiFGTI+CWTQ
+mevRitHqRZKEu+e3TgzQISGqCQhtnKWA/5x8kvjdckX8XWbAId3MmoxXogpOnGHFv1vvbur5eFrm
+3rKI/uFhvlOacy+ImZVYab0QlXi++esmXuO2TB2CahocM2mm+KXy9Th9nEGuKS7Hm4HpLpXdfImL
+Ijb2Rk4GHK1md2hs12mJlYI5/K64iU+Koz6PW1e4L0eKFHiOhPue18XSoWpU5xgsrWNpZ3I=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203880127782">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.21-AP3</verAplic>
+  <chNFe>31201034516088000200550210000806771732283247</chNFe>
+  <dhRecbto>2020-10-27T13:06:25-03:00</dhRecbto>
+  <nProt>131203880127782</nProt>
+  <digVal>RkNbMZo14+DvYTph4yOZRXDI6ZY=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

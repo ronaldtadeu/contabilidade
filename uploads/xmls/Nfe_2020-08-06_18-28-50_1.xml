@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200705444862000127550010000331571581234690" versao="4.00"><ide><cUF>31</cUF><cNF>58123469</cNF><natOp>Venda de mercadoria adquirida ou recebida de terceiros</natOp><mod>55</mod><serie>1</serie><nNF>33157</nNF><dhEmi>2020-07-03T15:06:00-03:00</dhEmi><dhSaiEnt>2020-07-03T15:06:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118304</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>6.9.127.2020.06.08</verProc></ide><emit><CNPJ>05444862000127</CNPJ><xNome>OXIGENIO CENTRAL MINAS DE GASES INDUSTRIAIS E MED LTDA</xNome><xFant>OXIGENIO CENTRAL MINAS DE GASES INDUSTRIAIS E MED LTDA</xFant><enderEmit><xLgr>RUA NARCISO JUNIOR</xLgr><nro>75</nro><xCpl>LOJA A E B</xCpl><xBairro>CAMPO ALEGRE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400114</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137621525</fone></enderEmit><IE>1832558700076</IE><CRT>1</CRT></emit><dest><CNPJ>18739250000103</CNPJ><xNome>USINTEQ USINAGEM TECNICA QUELUZ LTDA (311)</xNome><enderDest><xLgr>RUA LOPES FRANCO</xLgr><nro>610</nro><xBairro>CARIJOS</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137612857</fone></enderDest><indIEDest>1</indIEDest><IE>1831698490065</IE><email>usinteq@viareal.com.br</email></dest><det nItem="1"><prod><cProd>000007</cProd><cEAN>SEM GTIN</cEAN><xProd>ARGONIO GAS INDUSTRIAL</xProd><NCM>28042100</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1</qCom><vUnCom>150.00</vUnCom><vProd>150.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>1</qTrib><vUnTrib>150.00</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>6.30</vTotTrib><ICMS><ICMSSN101><orig>0</orig><CSOSN>101</CSOSN><pCredSN>0.0000</pCredSN><vCredICMSSN>0.00</vCredICMSSN></ICMSSN101></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>150.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0</vII><vIPI>0.00</vIPI><vIPIDevol>0</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>150.00</vNF><vTotTrib>6.30</vTotTrib></ICMSTot><retTrib /></total><transp><modFrete>9</modFrete><vol><qVol>1</qVol><esp>CIL</esp><pesoL>150.000</pesoL><pesoB>50.000</pesoB></vol></transp><cobr><fat><nFat>033157</nFat><vOrig>150.00</vOrig><vDesc>0</vDesc><vLiq>150.00</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-08-03</dVenc><vDup>150.00</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>14</tPag><vPag>150.00</vPag></detPag></pag><infAdic><infCpl>Trib aprox R$ 6,30 Federal;Fonte: IBPT/empresometro.com.br MG   D26078;DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL. PERMITE O APROVEITAMENTO DE CREDITO DE ICMS NO VALOR CONFORME O CAMPO VALOR ICMS CORRESPONDENTE A ALIQUOTA DE 3,41% NOS TERMOS DO ARTIGO 23 DA LC 123/2006. VENCIMENTO 30 DIAS. O NAO RECEBIMENTO DO BOLETO BANCARIO, NAO DESOBRIGA O PAGAMENTO NO VENCIMENTO. RETIRE A SEGUNDA VIA EM WWW.SICOOB.COM.BR;NE:000001</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200705444862000127550010000331571581234690"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>hVtpmAZmiIXbrhI09NgxaAjsxoI=</DigestValue></Reference></SignedInfo><SignatureValue>mlG5RcxjN55iQKVQqPt3miNkRvrB/VYXzf3vW0hGl1voEInIQ1N5fcH2dy8QtzEvc8DTDRF87ig2
+r9T0ctZ9hIDEI2W5KMIFH/u3nu2775ZXwgqBM4wFWCfu+IvtRwm121nKEY8ijyPdL3zmLSOL0e+I
+mbnBKG8nFFhV75HVc6NPRyqtHJ0IEw02xvBNMVboDyiM8iwVm5NJj50wBVkeOt0SespABZRrbuhY
+HbcEV6Zw1/bz8tL8zPUr9hf0CzU7yBU85ENSPgqV9L9jvYYHyMJl9Tr4qVkVHyHCLpWfiTscRgae
+tQezEjyoveKSo63Kh7MFES+m3EQb8YExTnh7rA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIJzCCBg+gAwIBAgIQZaWvm6TC7VAvkuxgOjBvvzANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTE3MDgyNDEzMTkzNVoXDTIwMDgyMzEzMTkzNVowggERMQswCQYDVQQGEwJCUjETMBEGA1UECgwK
+SUNQLUJyYXNpbDELMAkGA1UECAwCTUcxHTAbBgNVBAcMFENPTlNFTEhFSVJPIExBRkFJRVRFMTYw
+NAYDVQQLDC1TZWNyZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAU
+BgNVBAsMDVJGQiBlLUNOUEogQTMxJjAkBgNVBAsMHUF1dGVudGljYWRvIHBvciBBUiBDRVJUWUZB
+Q0lMMUkwRwYDVQQDDEBPWElHRU5JTyBDRU5UUkFMIE1JTkFTIERFIEdBU0VTIElORFVTVFJJQUlT
+IEUgTUVEOjA1NDQ0ODYyMDAwMTI3MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0zMQ
+acvUV6sMiEAhkO+t9xEqb5vZj5f3b30dQ88hQD8068k01C2kxraxqXgQfztN72UUo7W0orXkleOo
+AuJb5xieTK0jVEja9/hqn/ojYOX6/hKxj8UDiDFJ3/U0rwXmMuC6WKfDI4aVwSdq0ibf9Px2YNNK
+fmSVK+s0fHAHa2iCkr1rUFFYyvHi9iUHxk/2Rs0odtSAT9cYzu64rfaELWEayFz7cCzm8ez0lSPM
+KcFq8Rup6WObrCV/mt5yho/78nQvrUZM5vYFEvKGj/1UiOW/6X9oQn3N+1DPgH8IWaL3LXUdMhQg
+DfwH4eiofprOFIwGhqoJOGvkWtMTCoSmEQIDAQABo4IDEDCCAwwwgb8GA1UdEQSBtzCBtKA8BgVg
+TAEDBKAzBDExNDAzMTk1NTU1NTg0NzMwNjEwMDAwMDAwMDAwMDAwMDAwMDBNRzM2MzMxNjhQQ01H
+oCsGBWBMAQMCoCIEIE1BUklBIERFIEZBVElNQSBDQVJWQUxITyBQSU1FTlRBoBkGBWBMAQMDoBAE
+DjA1NDQ0ODYyMDAwMTI3oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIETcHJpbXVzNzMxQGdtYWls
+LmNvbTAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFFN9f52+0WHQILran+OJpxNzWM1CMH8GA1UdIAR4
+MHYwdAYGYEwBAgMGMGowaAYIKwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5j
+b20uYnIvcmVwb3NpdG9yaW8vZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FDX0NlcnRpc2lnbl9S
+RkIucGRmMIG8BgNVHR8EgbQwgbEwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5j
+b20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzUvTGF0ZXN0Q1JMLmNybDBWoFSg
+UoZQaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0Nl
+cnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMCBggrBgEFBQcDBDCBrAYIKwYBBQUHAQEEgZ8wgZwwXwYIKwYBBQUHMAKGU2h0dHA6Ly9p
+Y3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0Nl
+cnRpc2lnbl9SRkJfRzUucDdjMDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC1hYy1jZXJ0aXNpZ24t
+cmZiLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBAJvoIaxYENh5PG+EJMoaMLnb
+GH3WBBosJqjK4y4eEqFkbB5IZiNx+2DzvmlFunq0TRafTM2hatVxFanXIQfbY0zmvXgb/f/lyghh
+W66xsroeJjwXl7ni+EvVD/dgI4oWR77JbKTZ3U4vVWdb5YlzQH8gLeNFV9+RNJN49T412j0yDj90
+tPljeIGd9nVFHRURagjNTvhbwlsv/A0nBsb4bkQeAWKDuijJMrC+iL1e2qaE67lY+gya3pV2DNNE
+3n5V1GzZOMUOtiWNuLf9bDFQSK2K7aFUEt8KdjnibIGBC9gTjpzS2sUBry96Qie2r+6FUf5L3LUR
+5DX0sMvBbtnmTdMuGJ6VMYcF5eBuYDtKuJOPrQq367tAeBBX/hpJ0J7bnAedwFnXI9UjcTseSVNc
+lVX/l30zDkQVNJszDXRqubZKqXgjoHY8LQHhL6i+/7d3aq06YXzv0oE1+Es9GIXl2c91rJwKPw4I
+A5CfTMlk4TprxaUc7tv9EaWI0aaOAq+Qrv0AigIk/fnAIAFof//0Rl1ojk0BDWDheby8pJUrlb/o
+r7c7UCTxA5TNzVay1EwEQLPFS0c/WTU/ZFDQALF1UxTfHGK4XDJVjouqjfSeNltealtVYmlJxHuU
+mFBfGUk7yisRV9NnKa+b3gZMf1lVDiHv29ECjZ8v7AksJyxck7PU</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203734054216">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.15-SE6</verAplic>
+  <chNFe>31200705444862000127550010000331571581234690</chNFe>
+  <dhRecbto>2020-07-03T15:53:08-03:00</dhRecbto>
+  <nProt>131203734054216</nProt>
+  <digVal>hVtpmAZmiIXbrhI09NgxaAjsxoI=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

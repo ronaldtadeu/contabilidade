@@ -1,0 +1,47 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200705169759000116550010022834821184236207" versao="4.00"><ide><cUF>31</cUF><cNF>18423620</cNF><natOp>Venda de mercadorias sujeita ao regime de S.T. - Substituido</natOp><mod>55</mod><serie>1</serie><nNF>2283482</nNF><dhEmi>2020-07-29T02:27:00-03:00</dhEmi><dhSaiEnt>2020-07-29T02:27:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3119401</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.158</verProc></ide><emit><CNPJ>05169759000116</CNPJ><xNome>TUDOBOM COMERCIAL EIRELI - MATRIZ</xNome><enderEmit><xLgr>AV. JOSE FRANCISCO DOMINGOS,359</xLgr><nro>0</nro><xBairro>DIST.INDUSTRIAL</xBairro><cMun>3119401</cMun><xMun>CORONEL FABRICIANO</xMun><UF>MG</UF><CEP>35170348</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3138419200</fone></enderEmit><IE>1941869460066</IE><CRT>3</CRT></emit><dest><CNPJ>23399397000131</CNPJ><xNome>ENIO CAMPOS</xNome><enderDest><xLgr>R PROFESSOR LIBANIA LEMOS,475 LETRA A</xLgr><nro>475</nro><xBairro>SAO GONCALO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36409600</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3199879516</fone></enderDest><indIEDest>1</indIEDest><IE>1835568870074</IE><email>eniocampos1967@outlook.com</email></dest><entrega><CNPJ>23399397000131</CNPJ><xLgr>R PROFESSOR LIBANIA LEMOS,475 LETRA A</xLgr><nro>475</nro><xBairro>SAO GONCALO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>531701</cProd><cEAN>7890005317011</cEAN><xProd>BOV CONTRA FILE BEEF CLUB RESFRIADO 1 X 25KG</xProd><NCM>02013000</NCM><CEST>1708400</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>KG</uCom><qCom>26.0420</qCom><vUnCom>24.9900000000</vUnCom><vProd>650.79</vProd><cEANTrib>7890005317011</cEANTrib><uTrib>KG</uTrib><qTrib>26.0420</qTrib><vUnTrib>24.9900000000</vUnTrib><vOutro>1.50</vOutro><indTot>1</indTot><xPed>344012747</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>2</orig><CST>60</CST><vBCSTRet>0.00</vBCSTRet><pST>0.0000</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>650.79</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>1.50</vOutro><vNF>652.29</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>03398464000196</CNPJ><xNome>FREITAS E FERREIRA PARTICIPACOES LTDA</xNome><xEnder>AV. JOSE FRANCISCO DOMINGOS, 359 B - DISTRITO INDUSTRIAL</xEnder><xMun>CORONEL FABRICI</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>26.042</pesoL><pesoB>26.355</pesoB></vol></transp><cobr><fat><nFat>2283482</nFat><vOrig>652.29</vOrig><vDesc>0</vDesc><vLiq>652.29</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-08-19</dVenc><vDup>652.29</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>652.29</vPag></detPag></pag><infAdic><infCpl>BASEST: BASE://BASE CALC. ST: - VALOR ST://Num. Carreg.:138490 Num. Trans.:3377890 Cod. Cliente.:15917 BAR E MERCEARIA CAMPOS//NR. Pedido:344012747 RCA:344 Cod. Cob.:341//Prazo:21 DIAS//ICMS OPERACAO PROPRIA R$://ANEXO XV - Capitulo 17//VENDA EFETUADA COM SUSPENSAO DO PIS E COFINS</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200705169759000116550010022834821184236207"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1AFyE+ImaznCCDozoYyPGB+zJpM=</DigestValue></Reference></SignedInfo><SignatureValue>QzvAfJV1ztZ1eBfPS/FKuV6sREXSZCbpePMKZzWFVXi2tK6ChZT/T4PZdC2TYJ35HJVitNslAfHv
+EgYN2wh0xb9ZcQ8Id5UTYoiNehocMnIs8SoQVKUOzsohG/eTLDjpD8CynoK2cNMG+INJpPaO1ZYT
+bxuzBeT3VdkvPeXZI/SHZNX7ZG2muDTrvCpw6Qmp71lYQMRgx4RoBvgcu+lSQbAzsp5D71EAZs3l
+Qfsz5nW/AW9Y54xKyz3Ggyu/JFvSmieJq2PEJvHlBGizdRwv7hEbdD5VEF1lrXMNeWlZL2HiRZoy
+vUuzSjtPa/4scui3CbjV7V0lK+pYefPFYsljkQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHZDCCBUygAwIBAgIMLaxVAFxu68Q6Z9TCMA0GCSqGSIb3DQEBCwUAMIGJMQswCQYDVQQGEwJC
+UjETMBEGA1UECgwKSUNQLUJyYXNpbDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZl
+ZGVyYWwgZG8gQnJhc2lsIC0gUkZCMS0wKwYDVQQDDCRBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEg
+U0VSUFJPUkZCdjUwHhcNMjAwNDA3MjIzNjI1WhcNMjEwNDA3MjIzNjI1WjCB/DELMAkGA1UEBhMC
+QlIxCzAJBgNVBAgMAk1HMRswGQYDVQQHDBJDT1JPTkVMIEZBQlJJQ0lBTk8xEzARBgNVBAoMCklD
+UC1CcmFzaWwxFzAVBgNVBAsMDjM0MDI4MzE2MDAwMTAzMTYwNAYDVQQLDC1TZWNyZXRhcmlhIGRh
+IFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxEzARBgNVBAsMCkFSQ09SUkVJT1MxFjAU
+BgNVBAsMDVJGQiBlLUNOUEogQTExMDAuBgNVBAMMJ1RVRE9CT00gQ09NRVJDSUFMIEVJUkVMSTow
+NTE2OTc1OTAwMDExNjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIbc+ZZrLXZB3wJ8
+OZ+/Kr/a7eZ/TYiVHiMkoxlxpsVE0jdT/DfsAbXy1ex0rYIhMMIoClDzjmuCMydDLXapA8SWmONj
+w4xHnorirrd0gM1Zp8s+XuHaOXp6lf6FvT6Id5HhKDDBGsvRo94HAKehKRqXoJrltZ1IJsjFH7kX
+gE/E61R9CphL27Nmo5WgVnbuCMipNcyibNegdilknLrAvwlmuu8PG9UozGPpeGgIxHwGVwWRIrnK
+ewx2IBYza6QDSglPGLNozSHmzp7OZAqdZ6aQsL76TFYrbAQ6yLMJNFu3vV3R8auR95cXRMH3EEbl
+hF9lXsBwnM1Exx3R9OpN0AcCAwEAAaOCAlUwggJRMB8GA1UdIwQYMBaAFBSALZ1+mkXA8Vs/GdVA
+sG8vZeDpMFsGA1UdIARUMFIwUAYGYEwBAgEKMEYwRAYIKwYBBQUHAgEWOGh0dHA6Ly9yZXBvc2l0
+b3Jpby5zZXJwcm8uZ292LmJyL2RvY3MvZHBjYWNzZXJwcm9yZmIucGRmMIGIBgNVHR8EgYAwfjA8
+oDqgOIY2aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvbGNyL2Fjc2VycHJvcmZidjUu
+Y3JsMD6gPKA6hjhodHRwOi8vY2VydGlmaWNhZG9zMi5zZXJwcm8uZ292LmJyL2xjci9hY3NlcnBy
+b3JmYnY1LmNybDBWBggrBgEFBQcBAQRKMEgwRgYIKwYBBQUHMAKGOmh0dHA6Ly9yZXBvc2l0b3Jp
+by5zZXJwcm8uZ292LmJyL2NhZGVpYXMvYWNzZXJwcm9yZmJ2NS5wN2Iwgb4GA1UdEQSBtjCBs6A9
+BgVgTAEDBKA0BDIyMjA1MTk3MDc4NTg5NTc2NjA0MDAwMDAwMDAwMDAwMDAwMDBNRzQ0MjYzNDNT
+U1BNR6AhBgVgTAEDAqAYBBZBTkFOSUFTIERFIFNPVVNBIEJSQUdBoBkGBWBMAQMDoBAEDjA1MTY5
+NzU5MDAwMTE2oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEbc2ltb25lLnNvdXphQHR1ZG9ib20u
+Y29tLmJyMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDBAYIKwYBBQUHAwIwDQYJ
+KoZIhvcNAQELBQADggIBAHAdnwXBRUnq+iF5pxr/OMq3cOQHo+3mh2ym9GnvodqNn8r0KlMc0QDi
+WE4eMaLV2gUYjb1Tm9Yj5qyN9XWHiiNjotzG8nAyt/ocbkGbutnuIHWyoAjip+Ka60/zF/fo7FUk
+phJj6r5hfzVmOsSKu36MqyoGejtlbDa6JS/8ZzK9WUUtRbMfNPwVkZu2AfaF14Sb91hrvxxrCE15
+SEGEea6OvkYv/Z23ts1la/PYdyE7JIIrX5cSnO9xVUvr9K87rhUoy5WzGcF7Etqn5MCgdOr1VjtF
+90Fft2SJfnXVQbM1L+DBkDxHqA1Gv2UNV8ryk8kh176kCiPCj25VNAyNPiLN0Ywv2hjqvYp8LwKz
+/i+Ffm4EnMy/Ac2dkL0osI0ZA82LUUrw3WXfDEMQ8JAkN6tLziSr9yo31SzcgqzzpPWsnHSmQUom
+8slSvVH0K+UBnhxLd2OtB7bkxPQnK+LNgTspX8UGYGvXk9Di2zizq5ph34xCKt53fyJmz+Xq/IhL
+3wDfU7R9e4FVV8Qgm/uE9/3pv8dF1yLgwQ6dBW14N0UFHE5S7NcmN5d3N17gq74OTWngdBowuZzY
+tdwOG2PeYyaNumfzmEmHBuharybfyg1DqIfn7Yi75t/uAKpF4O3X5RDsFcCXIpNqvsl0jxCCCXop
+YtRhuYYDLERORA/MCyIE</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203763297251">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.15-SE4</verAplic>
+  <chNFe>31200705169759000116550010022834821184236207</chNFe>
+  <dhRecbto>2020-07-29T02:34:34-03:00</dhRecbto>
+  <nProt>131203763297251</nProt>
+  <digVal>1AFyE+ImaznCCDozoYyPGB+zJpM=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

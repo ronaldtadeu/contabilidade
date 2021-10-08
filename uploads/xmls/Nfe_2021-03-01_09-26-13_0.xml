@@ -1,0 +1,47 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31210200086783000178550010005259231214672325" versao="4.00"><ide><cUF>31</cUF><cNF>21467232</cNF><natOp>Venda dentro estado</natOp><mod>55</mod><serie>1</serie><nNF>525923</nNF><dhEmi>2021-02-18T17:34:00-03:00</dhEmi><dhSaiEnt>2021-02-18T17:34:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>5</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>3</indPres><procEmi>0</procEmi><verProc>1.3.157</verProc></ide><emit><CNPJ>00086783000178</CNPJ><xNome>BY CAR COMERCIO E REPRESENTACOES LTDA</xNome><xFant>BY CAR COMERCIO E REPRESENTACOES LTDA</xFant><enderEmit><xLgr>RUA VILA RICA, 688</xLgr><nro>0</nro><xBairro>PADRE EUSTAQUIO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>30720380</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3130575757</fone></enderEmit><IE>0628836330052</IE><CRT>3</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVSMOTORS LTDA</xNome><enderDest><xLgr>RUA CEFISA VIANA, 251</xLgr><nro>0</nro><xBairro>SANTA BRANCA</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137621163</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE><email>avsmotorsltda@gmail.com</email></dest><det nItem="1"><prod><cProd>23699</cProd><cEAN>SEM GTIN</cEAN><xProd>FAROL AUX JETTA 11-15 LD</xProd><NCM>85122011</NCM><CEST>0105500</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>50.0000000000</vUnCom><vProd>50.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>50.0000000000</vUnTrib><indTot>1</indTot><xPed>22035538</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>2</orig><CST>60</CST><vBCSTRet>29.19</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>4.75</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>25214</cProd><cEAN>SEM GTIN</cEAN><xProd>PARABARRO JETTA 11-15 LE</xProd><NCM>87089990</NCM><CEST>0107500</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>145.0000000000</vUnCom><vProd>145.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>145.0000000000</vUnTrib><indTot>1</indTot><xPed>22035538</xPed><nItemPed>5</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>71.04</vBCSTRet><pST>12.0000</pST><vICMSSubstituto>4.40</vICMSSubstituto><vICMSSTRet>8.38</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>195.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>195.00</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>1</modFrete><vol><nVol>0</nVol><pesoL>2.000</pesoL><pesoB>2.000</pesoB></vol></transp><cobr><fat><nFat>525923</nFat><vOrig>195.00</vOrig><vDesc>0</vDesc><vLiq>195.00</vLiq></fat><dup><nDup>001</nDup><dVenc>2021-03-20</dVenc><vDup>195.00</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>195.00</vPag></detPag></pag><infAdic><infCpl>LOCAL ENTREGA/OBS://ABH.//COBRANCA: 001 COBRANCA BANCARIA//PL.PAGAMENTO: 30 DIAS//VL BASE ST RETIDO R$: 100.226094 VL ST RETIDO R$: 13.131877//ICMS POR SUBSTITUICAO TRIBUTARIA CONF. ART 56 ANEXO 15 DO RICMS/02</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210200086783000178550010005259231214672325"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Uq8HiXWyea3f4PlvbZaTWcPTK5A=</DigestValue></Reference></SignedInfo><SignatureValue>Eu90nfLBkvQauokbmw0kz5UzS//qgPYDxeq0/TLtjwdVOrio13URuyFqirT64E02a4DQu0io5yR8
+5YWPVOik6lXQqM1NWqS3U/BlMwiKIG5OtHCnKUbJ5RF4rdeGYJuFIi9la6UnDt9reuj4apQXJLCS
+vR2q0mDwM/ycWpz3NcvvTjXzCOusgzbetq0v4G4+lKEyjprMUF+C9KyyZxip/V98sMyzqVRSIGst
+3XL8AVn2Rhgk2PfGztCtUeQOS/83ryQGcjWjslNMVse6NiSsNBjQzu6aseHKCc3U4oQ6+RzqNCl5
+X46BdMUNqDw/afHrkGn3cAux9F5JfX6gTW/KMQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHezCCBWOgAwIBAgIMNAWsvgd+iBadDXLCMA0GCSqGSIb3DQEBCwUAMIGJMQswCQYDVQQGEwJC
+UjETMBEGA1UECgwKSUNQLUJyYXNpbDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZl
+ZGVyYWwgZG8gQnJhc2lsIC0gUkZCMS0wKwYDVQQDDCRBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEg
+U0VSUFJPUkZCdjUwHhcNMjAxMTI0MTgzMjEwWhcNMjExMTI0MTgzMjEwWjCCARsxCzAJBgNVBAYT
+AkJSMQswCQYDVQQIDAJNRzEXMBUGA1UEBwwOQkVMTyBIT1JJWk9OVEUxEzARBgNVBAoMCklDUC1C
+cmFzaWwxEzARBgNVBAsMCnByZXNlbmNpYWwxFzAVBgNVBAsMDjEzNTA1NzIxMDAwMTAzMTYwNAYD
+VQQLDC1TZWNyZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFDASBgNV
+BAsMC0FSUFJJTUVDRVJUMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMT0wOwYDVQQDDDRCWSBDQVIg
+Q09NRVJDSU8gRSBSRVBSRVNFTlRBQ09FUyBMVERBOjAwMDg2NzgzMDAwMTc4MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkvPxe0iAux5wBgn/aSLFbBlTXx2HVqHcTyc8vG3dPph7vVt+
+VEbaITLMdwK64jHpEHjgoPIrWk7rDdac680fpzelLLNyArFkeT7C8vOOBwf64t8My4nOW/ygtOSU
+w0ImF8Ut+Ts75DkyX9ItWtNVC5QMOhcsMLNYjN+Pt0ZYs3B5MvPWXeRYGXYJT0+EXZ6tGxnSPt+O
+HAWlwMThhYQwVbIeDe/CqSSx8auPoeGq7XUbW0jabScovBy35Wd8OdE5ODZ3tbFsYM6TrqFBwoCR
+HMbWG1zQRq0EQa4xn0CqYjNT08c8opvPzyyvUT9soLy39s41YfkLzIcaBmioccssYQIDAQABo4IC
+TDCCAkgwHwYDVR0jBBgwFoAUFIAtnX6aRcDxWz8Z1UCwby9l4OkwWwYDVR0gBFQwUjBQBgZgTAEC
+AQowRjBEBggrBgEFBQcCARY4aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvZG9jcy9k
+cGNhY3NlcnByb3JmYi5wZGYwgYgGA1UdHwSBgDB+MDygOqA4hjZodHRwOi8vcmVwb3NpdG9yaW8u
+c2VycHJvLmdvdi5ici9sY3IvYWNzZXJwcm9yZmJ2NS5jcmwwPqA8oDqGOGh0dHA6Ly9jZXJ0aWZp
+Y2Fkb3MyLnNlcnByby5nb3YuYnIvbGNyL2Fjc2VycHJvcmZidjUuY3JsMFYGCCsGAQUFBwEBBEow
+SDBGBggrBgEFBQcwAoY6aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvY2FkZWlhcy9h
+Y3NlcnByb3JmYnY1LnA3YjCBtQYDVR0RBIGtMIGqoDgGBWBMAQMEoC8ELTAxMDkxOTY2NTgwOTE2
+NTM2MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAjBgVgTAEDAqAaBBhCQUxUQVpBUiBEQSBT
+SUxWQSBKVU5JT1KgGQYFYEwBAwOgEAQOMDAwODY3ODMwMDAxNzigFwYFYEwBAwegDgQMMDAwMDAw
+MDAwMDAwgRVyb3NlbWFyeUBtYXR1ci5jb20uYnIwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMEBggrBgEFBQcDAjANBgkqhkiG9w0BAQsFAAOCAgEAgyaAmbp0Z9Kzl7061+nEPS99
+rp9agQAzM7v+ptM3QDFPHO9Nt65zIWNHrCk1XjF3V+qHFLGmHOdBNFB784i+sYsGzMWEDpzpEXtJ
+SIc/0E8kiZSWZeeUWyBhSavENAep9qrKrR8Jt9Y6VMqWeB0UDSFmSMSKMLYoLkbqPlfJb/9Yk08m
++kfpMTqVeXI3+P/TGuMJ2172LWgkMAztg/y0WzZCc4jgGwNOT8fsvCEEqtUy2SxSjOu86RgvdLxi
+IMCbK57h0kzE6n1GgJkp0V4/dg/FdXXeb1rLgmCj3adqQEmBA/ylOtoLlIajRg0Ba7k3vtRAqvaD
+s4R0fD347JFUx1F8OoWMVr2gqeD+e/Mmo1C0mBSqFUVG8Qo0dhN34tK3YLrL0dItmKBZpyMxbFkI
+IhVZ3Jt1k/Str88UuPIXr2UFvT/ibt1CNWSb+gJEQUys7GrtR9EDGcXnTFTOlUuQ+u7FcHXdry2s
+fSh6QKCVXZefUHi3QRMpJHENKX3YXJUqYNb2J6q/waIKQWRpZYx1WfdY8CX3AqGVN32dMPu9W3wp
+VA93yA8V89eD/93aJS3HTB2jk11K5f3ptqsGh1yJxBE2TatvplfKm+Hr99iEm0Y3JTVVPcYTkVlU
+Q+hmAJl6rckmifb5mEdk6yOEW48SakvYYKc4j9wT67HoRQ3gSNE=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214039525571">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.22-NI1</verAplic>
+  <chNFe>31210200086783000178550010005259231214672325</chNFe>
+  <dhRecbto>2021-02-18T17:34:06-03:00</dhRecbto>
+  <nProt>131214039525571</nProt>
+  <digVal>Uq8HiXWyea3f4PlvbZaTWcPTK5A=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

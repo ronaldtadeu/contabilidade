@@ -1,0 +1,47 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31210738419155000130550010000007241585824326" versao="4.00"><ide><cUF>31</cUF><cNF>58582432</cNF><natOp>VENDA MERCADORIA</natOp><mod>55</mod><serie>1</serie><nNF>724</nNF><dhEmi>2021-07-12T00:00:00-03:00</dhEmi><dhSaiEnt>2021-07-12T00:00:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>6</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>2.0</verProc></ide><emit><CNPJ>38419155000130</CNPJ><xNome>CONNECT AUTO PECAS LTDA</xNome><xFant>CONNECT AUTO PECAS</xFant><enderEmit><xLgr>Rua Cata Preta</xLgr><nro>35</nro><xBairro>Joao Pinheiro</xBairro><cMun>3106200</cMun><xMun>Belo Horizonte</xMun><UF>MG</UF><CEP>30530190</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3130875123</fone></enderEmit><IE>0038367960009</IE><CRT>1</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVS- MOTORS LTDA</xNome><enderDest><xLgr>Rua CEFISA VIANNA</xLgr><nro>251</nro><xCpl>LOJA 01</xCpl><xBairro>MUSEU</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400190</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137621163</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE><email>avsmotorsltda@gmail.com</email></dest><det nItem="1"><prod><cProd>1540</cProd><cEAN>SEM GTIN</cEAN><xProd>BUCHA BARRA ESTABILIZADORA DIANTEIRA FORD FUSION 2013/ ( 24 MM )</xProd><NCM>40169990</NCM><CEST>0100900</CEST><CFOP>5405</CFOP><uCom>PC</uCom><qCom>2.0000</qCom><vUnCom>70.0000000000</vUnCom><vProd>140.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>2.0000</qTrib><vUnTrib>70.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN500><orig>0</orig><CSOSN>500</CSOSN><vBCSTRet>0.00</vBCSTRet><pST>0.00</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet></ICMSSN500></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.00</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.00</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.00</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><det nItem="2"><prod><cProd>2314</cProd><cEAN>SEM GTIN</cEAN><xProd>TERMINAL DIRECAO DIREITO FORD FUSION 2013/</xProd><NCM>87089990</NCM><CEST>0107600</CEST><CFOP>5405</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>120.0000000000</vUnCom><vProd>120.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>120.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN500><orig>2</orig><CSOSN>500</CSOSN><vBCSTRet>0.00</vBCSTRet><pST>0.00</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet></ICMSSN500></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.00</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.00</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.00</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>260.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>260.00</vNF></ICMSTot></total><transp><modFrete>1</modFrete><vol><qVol>1</qVol><pesoL>0.000</pesoL><pesoB>0.000</pesoB></vol></transp><cobr><fat><nFat>724</nFat><vOrig>260.00</vOrig><vDesc>0.00</vDesc><vLiq>260.00</vLiq></fat></cobr><pag><detPag><tPag>15</tPag><vPag>260.00</vPag></detPag></pag><infAdic><infCpl>NOS TERMOS DA LEI No 12.741/2012, O VALOR APROXIMADO DOS TRIBUTOS INCIDENTES E DE R$........(9,39%) CONFORME TABELA DE REFERENCIA SEBRAE.;EMPRESA OPTANTE PELO SIMPLES NACIONAL</infCpl></infAdic><infRespTec><CNPJ>10441324000119</CNPJ><xContato>Rodrigo Almeida</xContato><email>contato@rumotecnologia.com.br</email><fone>3136536582</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210738419155000130550010000007241585824326"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>eMgFJwK1FWlRi8uRh/qIoth+WjY=</DigestValue></Reference></SignedInfo><SignatureValue>ML3kiaRgjPD2BQ44DE6+4RciuAKxGq04Gq/WHxx4ziW8ctZVYpS5k2Pm8fRfNrQv+ghfOBtrUPB+
+lfDlPXDOrYiOKLmKsubp6eOnIeOGLDJCOoZ+2rTDyB0oP7Di2pSdAiY44HG2Td6/RkEupyfT+F3a
+dZ/PpW1ydzFPcfS+JSk3VeKkN56H+ae+TAJY0kVEtkldMCoJBvfFD6Dgjbitns+IJTqmlp7s9Du7
+1zvcWEaF8cj9sX1WxITIlmZQOsmTGhpzGj39BWcFtU8PRyAdWlHS7XWOni87RPb6lmyourWr6bSI
+Ck3dcUY7W8llDs+fspGprJbt+gXCyEv165rlLw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHbDCCBVSgAwIBAgINAIXuYiSHF0ncqjFdIDANBgkqhkiG9w0BAQsFADCBiTELMAkGA1UEBhMC
+QlIxEzARBgNVBAoMCklDUC1CcmFzaWwxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBG
+ZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEtMCsGA1UEAwwkQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3Jh
+IFNFUlBST1JGQnY1MB4XDTIwMDkzMDEyMjcxOVoXDTIxMDkzMDEyMjcxOVowggENMQswCQYDVQQG
+EwJCUjELMAkGA1UECAwCTUcxFzAVBgNVBAcMDkJFTE8gSE9SSVpPTlRFMRMwEQYDVQQKDApJQ1At
+QnJhc2lsMRMwEQYDVQQLDApwcmVzZW5jaWFsMRcwFQYDVQQLDA4xMzUwNTcyMTAwMDEwMzE2MDQG
+A1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRQwEgYD
+VQQLDAtBUlBSSU1FQ0VSVDEWMBQGA1UECwwNUkZCIGUtQ05QSiBBMTEvMC0GA1UEAwwmQ09OTkVD
+VCBBVVRPIFBFQ0FTIExUREE6Mzg0MTkxNTUwMDAxMzAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCmbDQuDRhzryYSPtAYUXeaeVKhJQftsY+JAGGsZhzqh6wbkEj8l9wCRFNAqLETQnEF
+gWIhW+nnLRHXORtIQVO2ZvsSosF4ivBbow9KoxFpkb+YACFhwUQYNGOglt1qvYXww2LN3NZlqaQ5
+i0K7GAIMSqOV9nNXFNDIIC9dKb3oTIUmjcrFSUF1ZLer5YxN16uPBr/dyOiddUyU33KGrAkR4+yx
+ChYCKsvv17UFIf7tF28vHxtsO4q8A3o5OLuL5Rr1YKdWvAtiB8TzhxSMmp8R0OY168ygmjLBDLp9
+9eHeFt9049SpaUBW+QHqhUOzYkDND5G/3YgQ/986wgXA9+m3AgMBAAGjggJKMIICRjAfBgNVHSME
+GDAWgBQUgC2dfppFwPFbPxnVQLBvL2Xg6TBbBgNVHSAEVDBSMFAGBmBMAQIBCjBGMEQGCCsGAQUF
+BwIBFjhodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9kb2NzL2RwY2Fjc2VycHJvcmZi
+LnBkZjCBiAYDVR0fBIGAMH4wPKA6oDiGNmh0dHA6Ly9yZXBvc2l0b3Jpby5zZXJwcm8uZ292LmJy
+L2xjci9hY3NlcnByb3JmYnY1LmNybDA+oDygOoY4aHR0cDovL2NlcnRpZmljYWRvczIuc2VycHJv
+Lmdvdi5ici9sY3IvYWNzZXJwcm9yZmJ2NS5jcmwwVgYIKwYBBQUHAQEESjBIMEYGCCsGAQUFBzAC
+hjpodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9jYWRlaWFzL2Fjc2VycHJvcmZidjUu
+cDdiMIGzBgNVHREEgaswgaigOAYFYEwBAwSgLwQtMDEwODE5ODQwNTk5NDI5NDYxNjAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwoCEGBWBMAQMCoBgEFlJFTkFUQSBPVVJJVklPIE1JTExBUkSgGQYF
+YEwBAwOgEAQOMzg0MTkxNTUwMDAxMzCgFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRVhZG0uY2Fw
+bHRkYUBnbWFpbC5jb20wDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEF
+BQcDAjANBgkqhkiG9w0BAQsFAAOCAgEAh2YaTENe0VRs8t8xjAPkhziE2dI4lN3ESkaq2ZiCD0Lk
+0S4o/4Z+D/hUjhXZb7359TuuTvLIISQXf0MQrCbJI5u42xwQJzVe3O03D69DymCodhxoJQE0MBOc
+WptuKdjUoKvSA1oh8bPUOUR0j+k8mWN7Wktj9wg0M/Gzcv8G1NPm77oJ1Q2kiwnN6FHLpnMcV/iK
++9WadgnIVKYj/vccIeii+bAv0/1Q0b30nTpEECuV3bCDb66Z7vD13ojE8P7RZ4lx+t8cuqv+xwSU
+HREjHFfcdLqJl0AZkgEqBbsJI86XDYzCHQXlJppAzjoZGQbXDdne4PW7//zZZGT8+3LMjRvdhPNA
+mCWMKEiBc8FsOgUMZnbzwihNXYZI3v/wiGQqOICRbyIP8ZsUK4ej8Yn6s++pb3Lj3woF47y/Ps3M
+P3C9JgHMJgXfqXA/QD2ghcQKxNcmRCHBKUcnI7oeuDwuXpoiU3pszMIlL3mnIwLf6/nKCPqajAjJ
+SiNF2iRxfLLjTu3ny6xj8HhKMgcb2hnWQE7Yi1UcDKXgDQcQ8XPGxffJgTqypV6d/S7pOnIJxjSt
+qgKI5A3or7YcmW9AHMyoDuYT3gjZN+SqKpXd5SlL6BDyENyNJwUZbIXUlfSAwiXXkYesD5xWiDh4
+3pqNTv4LcrubFlycBGHjPvY4l93K20Q=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214240162556">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.26-HA1</verAplic>
+  <chNFe>31210738419155000130550010000007241585824326</chNFe>
+  <dhRecbto>2021-07-12T16:22:35-03:00</dhRecbto>
+  <nProt>131214240162556</nProt>
+  <digVal>eMgFJwK1FWlRi8uRh/qIoth+WjY=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

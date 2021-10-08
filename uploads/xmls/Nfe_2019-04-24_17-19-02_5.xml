@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190331345618000117550010000001401060040295" versao="4.00"><ide><cUF>31</cUF><cNF>06004029</cNF><natOp>Venda</natOp><mod>55</mod><serie>1</serie><nNF>140</nNF><dhEmi>2019-03-15T14:52:00-03:00</dhEmi><dhSaiEnt>2019-03-15T15:00:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3136702</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>5</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>0</indPres><procEmi>3</procEmi><verProc>4.01_sebrae_b024</verProc></ide><emit><CNPJ>31345618000117</CNPJ><xNome>HD EMBALAGENS INDUSTRIA E COMERCIO EIRELI</xNome><xFant>HD EMBALAGENS</xFant><enderEmit><xLgr>Rua  Giusepe Novelino</xLgr><nro>165</nro><xBairro>Vila Ideal</xBairro><cMun>3136702</cMun><xMun>Juiz de Fora</xMun><UF>MG</UF><CEP>36020515</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3232367751</fone></enderEmit><IE>0032629480003</IE><IM>167912003</IM><CNAE>2222600</CNAE><CRT>1</CRT></emit><dest><CNPJ>68537265000167</CNPJ><xNome>TORQUATO &amp; CARVALHO CONFEITARIA LTDA</xNome><enderDest><xLgr>AVENIDA PREFEITO TELÉSFORO CÂNDIDO DE REZENDE</xLgr><nro>219</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>Conselheiro Lafaiete</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137638559</fone></enderDest><indIEDest>1</indIEDest><IE>1838207520038</IE></dest><det nItem="1"><prod><cProd>202</cProd><cEAN /><xProd>Caixa de papelão B3B "Montado P"</xProd><NCM>48081000</NCM><CFOP>5101</CFOP><uCom>Mil.</uCom><qCom>0.1800</qCom><vUnCom>900.0000000000</vUnCom><vProd>162.00</vProd><cEANTrib /><uTrib>Mil.</uTrib><qTrib>0.1800</qTrib><vUnTrib>900.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN102><orig>0</orig><CSOSN>400</CSOSN></ICMSSN102></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>200</cProd><cEAN /><xProd>Caixa de papelão B3B "Montado G"</xProd><NCM>48081000</NCM><CFOP>5101</CFOP><uCom>Mil.</uCom><qCom>0.0400</qCom><vUnCom>1080.0000000000</vUnCom><vProd>43.20</vProd><cEANTrib /><uTrib>Mil.</uTrib><qTrib>0.0400</qTrib><vUnTrib>1080.0000000000</vUnTrib><vFrete>75.00</vFrete><indTot>1</indTot></prod><imposto><ICMS><ICMSSN102><orig>0</orig><CSOSN>400</CSOSN></ICMSSN102></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><det nItem="3"><prod><cProd>015</cProd><cEAN /><xProd>Caixa de papel "empada"</xProd><NCM>48193000</NCM><CFOP>5101</CFOP><uCom>Mil.</uCom><qCom>0.1000</qCom><vUnCom>850.0000000000</vUnCom><vProd>85.00</vProd><cEANTrib /><uTrib>Mil.</uTrib><qTrib>0.1000</qTrib><vUnTrib>850.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN102><orig>0</orig><CSOSN>400</CSOSN></ICMSSN102></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>290.20</vProd><vFrete>75.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>365.20</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><vol><qVol>05</qVol><esp>Pacotes</esp><pesoL>40.000</pesoL><pesoB>40.000</pesoB><lacres><nLacre>5</nLacre></lacres></vol></transp><pag><detPag><indPag>1</indPag><tPag>01</tPag><vPag>365.20</vPag></detPag></pag></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190331345618000117550010000001401060040295"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>8PkgjgO5GTfaZuBqKwqUh1OWTMM=</DigestValue></Reference></SignedInfo><SignatureValue>Ne3Ilr4SebROlgQ66lZGuKFIFQbD65NN1pHBwT8Gmonlf8/1mjtlYkK1M2C/nrxn/dcOo96JsA7N
+srdFx3isla//vrbQx0PizEEAENl0zpvZlnlnBUiD4Ubb1aQd4OTJWBGBGGu2hlwZls/TO/hlsIR2
+u7P7OQJL+kwveW21pM09DxsYwOOnMpbUerJxFAV/1DgymQ2f9u/h76Cb9/zgryE10EUvYs36/6ET
+QJAv+SIfDqWu5rHFY//sWiabtPQOl7ZlNUAQq4qXIaE3RTQUNLb2DOFjthWuCEYcJwmfj3+AxG89
+BcsIPgOJDOagAIE+jg27I0pHX7VxX1xmZuDMkA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIMDCCBhigAwIBAgIQfT6FWkzNols9Xp92IuULDjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTE4MTAwNTE1MTkyNloXDTIxMTAwNDE1MTkyNlowggESMQswCQYDVQQGEwJCUjETMBEGA1UECgwK
+SUNQLUJyYXNpbDELMAkGA1UECAwCTUcxFTATBgNVBAcMDEp1aXogZGUgRm9yYTE2MDQGA1UECwwt
+U2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1S
+RkIgZS1DTlBKIEEzMTcwNQYDVQQLDC5BdXRlbnRpY2FkbyBwb3IgQVIgR0VORVNJUyBDRVJUSUZJ
+Q0FETyBESUdJVEFMMUEwPwYDVQQDDDhIRCBFTUJBTEFHRU5TIElORFVTVFJJQSBFIENPTUVSQ0lP
+IEVJUkVMSTozMTM0NTYxODAwMDExNzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMRg
+J+x04q4UwZylqCqn/tl6COuLKzxvXw3PaEBdmV+cmJND/XMAuUKt5XQbiQLadxQK6IMosN/6808K
+EVPpVe8/LwKxHY/3gDSuZFgrulaR2bdPeAmVpAQ5PKLWHf5SJmVT2Wfye+cOwQXcExGHWUaZa0Zn
+/QWzMrKJ9dIAbK+rPu2XBgJt2idGF5NMaQc5lrWgRSqf8eUYc91E8CNwuYUVH/yiFW8IhtFCZxdc
+74YxhG0m5yV973WHctqzq8kCObvuDAqV5D/fdLvHyDWTuTkkPdOgJ810H/iqmSosdl5t9+2MXQFv
+GwsICGEDdUV7CR1MeXTeZKSOpubumYGAZYsCAwEAAaOCAxgwggMUMIHHBgNVHREEgb8wgbygPQYF
+YEwBAwSgNAQyMDcwOTE5ODMwNjM3Mjk3NjYwOTAwMDAwMDAwMDAwMDAwMDBNRzEyMTg5NTMyU1NQ
+TUegKgYFYEwBAwKgIQQfR0xPUklBIERBTFZBIENBTVBPUyBRVUlOQSBTT1VaQaAZBgVgTAEDA6AQ
+BA4zMTM0NTYxODAwMDExN6AXBgVgTAEDB6AOBAwwMDAwMDAwMDAwMDCBG2RwdG9wcm9jZXNzb3NA
+bXVsdGlwbGlrLm5ldDAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFFN9f52+0WHQILran+OJpxNzWM1C
+MH8GA1UdIAR4MHYwdAYGYEwBAgMGMGowaAYIKwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2lsLmNl
+cnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FDX0Nl
+cnRpc2lnbl9SRkIucGRmMIG8BgNVHR8EgbQwgbEwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2lsLmNl
+cnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzUvTGF0ZXN0Q1JM
+LmNybDBWoFSgUoZQaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRvcmlv
+L2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBrAYIKwYBBQUHAQEEgZ8wgZwwXwYIKwYBBQUHMAKG
+U2h0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNh
+ZG9zL0FDX0NlcnRpc2lnbl9SRkJfRzUucDdjMDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC1hYy1j
+ZXJ0aXNpZ24tcmZiLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBAH9wr3nyk1hx
+r0prvkdsc5VQUTVTpeqX1noUE4eRL0PA21n7Ib9ml8AfxngQU6O+CIJfzVThRZLgg1OExc1zXUnP
+KTYRs9wPQrQNJKkJ04YN4Cu4gL7J/z2S7U1ZVXAYSlxqIXkeDvYtXQD4SlzQ7Ueu/W/vijHYGYW+
+eO/jCIm+lVWtK4CvJcuwLhYjKFBCGQIQwvcZP3IOQUxb0OTuYR6iQavRgahEbZ/EtLUk/9ahemoS
+Tc3WLpL8tH7/KdDaZehWL4dfOKOOrvt3W7/gyuLsE77ZiQ9tZpnXLdaMkkeddLYNobkpdYyGH5jo
+LaSKdAimfWBT/nacpN6NyVe2R1D0MK6aI6HXCSKlyuJk52BYFQnwu8dcLgSjAhf9Px9cA+IPcfrX
+BrtA2tX6+NJcJueaow/oLzUAP2rY2OJyZohnePR3ln42XE29sx8usCshEGltQtzgPyrCf5ZWXqgB
+23cbS8KoKxwaPTxOXSwoJSUXLYhOH98FRKiG5gmS2atmDrS8LKx9IqbOHOvXWQ8Nl/ohQ0hImynH
+I99PnmVRdO7KbaaH7piWPapEwZzKmfqHGjmTiHrbCblHcr3sKk2/m7sndgqRaqrYTNcsIa0CQvhP
+mI0jyRkF02jb5z9jCGK9z672H2PBEjkfBacA7BkEYsLK3Z4zULzA5brzvE3nr9y3</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193230682570">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.2.20</verAplic>
+  <chNFe>31190331345618000117550010000001401060040295</chNFe>
+  <dhRecbto>2019-03-15T15:00:29-03:00</dhRecbto>
+  <nProt>131193230682570</nProt>
+  <digVal>8PkgjgO5GTfaZuBqKwqUh1OWTMM=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200117159518000175550010029986441673993451" versao="4.00"><ide><cUF>31</cUF><cNF>67399345</cNF><natOp>Venda producao do estabelecimento</natOp><mod>55</mod><serie>1</serie><nNF>2998644</nNF><dhEmi>2020-01-09T14:56:08-03:00</dhEmi><dhSaiEnt>2020-01-09T14:56:08-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>1</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC NFE 10.0</verProc></ide><emit><CNPJ>17159518000175</CNPJ><xNome>Domingos Costa Industrias Alimentic S/A</xNome><xFant>Domingos Costa Ind. Alim. S.A</xFant><enderEmit><xLgr>Pca. Louis Ensch</xLgr><nro>160</nro><xBairro>CIDADE INDUSTRIAL</xBairro><cMun>3118601</cMun><xMun>CONTAGEM</xMun><UF>MG</UF><CEP>32210050</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3133683300</fone></enderEmit><IE>1860015820028</IE><CRT>3</CRT></emit><dest><CNPJ>38474441000106</CNPJ><xNome>GERALDO DA CONSOLACAO CONDE</xNome><enderDest><xLgr>PRACA SAO SEBASTIAO</xLgr><nro>83</nro><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36406015</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137615195</fone></enderDest><indIEDest>1</indIEDest><IE>1836732800038</IE></dest><det nItem="1"><prod><cProd>000000000000215018</cProd><cEAN>17896417201402</cEAN><xProd>FARINHA MASSA FRESCA E PASTEL 3X5 KG</xProd><NCM>11010010</NCM><CEST>1704424</CEST><CFOP>5101</CFOP><uCom>FD</uCom><qCom>5.0000</qCom><vUnCom>38.9500000000</vUnCom><vProd>194.75</vProd><cEANTrib>7896417201405</cEANTrib><uTrib>UN</uTrib><qTrib>5.0000</qTrib><vUnTrib>38.9500000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS20><orig>0</orig><CST>20</CST><modBC>3</modBC><pRedBC>61.1100</pRedBC><vBC>75.74</vBC><pICMS>18.0000</pICMS><vICMS>13.63</vICMS></ICMS20></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>01</CST></IPINT></IPI><PIS><PISNT><CST>08</CST></PISNT></PIS><COFINS><COFINSNT><CST>08</CST></COFINSNT></COFINS></imposto><infAdProd>Reducao da base/Isencao ou nao sujeicao a IPI/RED. B.C CONF. ART 43 E ALIENA A1, ITEM 19 DO ANEXO IV DEC. 43080/02/PRAZO DE VALIDADE DE 10 (DEZ) DIAS, IMPRORROGAVEL, RE/PTA No 45.000012147-21 DF CONTAGEM/TOTAL VFCP = R$ 0.00 E VFCPST = R$ 0.00 Codigo do CIOT:</infAdProd></det><total><ICMSTot><vBC>75.74</vBC><vICMS>13.63</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>194.75</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>194.75</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CPF>04970564612</CPF><xNome>JOSE EVANGELISTA RESENDE DAMASCENO</xNome><xEnder>RUA LAGOA DOURADA 487</xEnder><xMun>IGARAPE</xMun><UF>MG</UF></transporta><vol><qVol>5</qVol><esp>FD</esp><pesoL>75.000</pesoL><pesoB>78.000</pesoB></vol></transp><pag><detPag><tPag>15</tPag><vPag>194.75</vPag></detPag></pag><infAdic><infCpl>FRETE: Valor Servico R$ 817,00 Base de calculo: R$ 817,00 Aliquota: 0,00% Valor de imposto Retido: R$0,00 TOTAL VFCP = R$ 0.00 E VFCPST = R$ 0.00</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200117159518000175550010029986441673993451"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Hi+Pq6jfINnlFnR0SBl+VvZNgks=</DigestValue></Reference></SignedInfo><SignatureValue>XGPwTTGfDpYaZ8p1ghbp1P45K7doe+8pe9hVjpdz6iXmcE4yQpiyXv+eQkYLt/wuYw3TVmdFSquI
+kxiPrjsVi9uj87k+HqcjM5Ynw28u3wpK1Th2dizydwVQRrf00zzyQpx41lj/73ZlX+/5HkAWZXkY
+V07vHgyDYvV19H/H9WGDY0UhccAy7GCQC5LpFrJO3cStD/b4Gph1DxyFfygpjWK4QDxZdBG2b2cR
+8PZFjCOJqRyNvJmJTHj6mQGH9r2lBD1OuKsZjleHgU8+K37wj0E5lzvWz1GUlSmMhD3emrnt4gSY
+68mslFagdN5m6ZnxCZmCKi5E/QlEOv2ptUx0xA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIGjCCBgKgAwIBAgIISvPYTf2Vyp0wDQYJKoZIhvcNAQELBQAwdTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAwwQQUMgU0VSQVNBIFJGQiB2NTAeFw0xOTEyMTExMzA4
+MDBaFw0yMDEyMTAxMzA4MDBaMIIBOzELMAkGA1UEBhMCQlIxCzAJBgNVBAgMAk1HMREwDwYDVQQH
+DAhDT05UQUdFTTETMBEGA1UECgwKSUNQLUJyYXNpbDEYMBYGA1UECwwPMDAwMDAxMDA5MzQyNjg2
+MTYwNAYDVQQLDC1TZWNyZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIx
+FjAUBgNVBAsMDVJGQiBlLUNOUEogQTExGTAXBgNVBAsMEEFDIFNFUkFTQSBSRkIgdjUxFzAVBgNV
+BAsMDjIyMjcxNDc2MDAwMTA4MRYwFAYDVQQLDA1BUiBTQ05ESUdJVEFMMUEwPwYDVQQDDDhET01J
+TkdPUyBDT1NUQSBJTkRVU1RSSUFTIEFMSU1FTlRJQ0lBUyBTQToxNzE1OTUxODAwMDE3NTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKyHC1BbxNEoDitWGdC1rymIaY1y77uoKa2AB1qU
+i/sd2FnAbJmQloTOOvtZ5vc4Ny+72V9zHdB2HnQYNoi7IctsvHkMC2vO7Na0ng4ewWUPxvh2jo4P
+u+0idp9tAiPTFLAyowwAlfzh497tYopMDlCbnMrudbNOyyMrBOpU403eu2O2fkehbWFk9Qm+UPK+
+GHzBJmehKM36th509YDOl6Rclr6ecN4mc5k45sg3dAW1Wx0zCchjuYx4Adx6Z85DB1NUN1YOZlji
+n1wwccnjubRfEVwXvj9Cy3wG5jTlmNfbYQtouoNTLevtqkqpHjvuV61UEoFuCZXCfv/FMBQPoYcC
+AwEAAaOCAuQwggLgMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU7PFBUVeo5jrpXrOgIvkIirU6h48w
+gZkGCCsGAQUFBwEBBIGMMIGJMEgGCCsGAQUFBzAChjxodHRwOi8vd3d3LmNlcnRpZmljYWRvZGln
+aXRhbC5jb20uYnIvY2FkZWlhcy9zZXJhc2FyZmJ2NS5wN2IwPQYIKwYBBQUHMAGGMWh0dHA6Ly9v
+Y3NwLmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvc2VyYXNhcmZidjUwgbQGA1UdEQSBrDCBqYET
+RklTQ0FMQFZJTE1BLkNPTS5CUqAgBgVgTAEDAqAXExVQQVRSSUNJQSBNQUNFRE8gQ09TVEGgGQYF
+YEwBAwOgEBMOMTcxNTk1MTgwMDAxNzWgPAYFYEwBAwSgMxMxMTcwNjE5NzkwMTI1OTY4NTY2NzAw
+MDAwMDAwMDAwMDAwMDAwTUc2NjE1NDcxUENNR6AXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwcQYD
+VR0gBGowaDBmBgZgTAECAQ0wXDBaBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2VydGlm
+aWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1yZmIucGRmMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBnQYDVR0fBIGVMIGSMEqgSKBGhkRodHRwOi8v
+d3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYXJmYnY1
+LmNybDBEoEKgQIY+aHR0cDovL2xjci5jZXJ0aWZpY2Fkb3MuY29tLmJyL3JlcG9zaXRvcmlvL2xj
+ci9zZXJhc2FyZmJ2NS5jcmwwHQYDVR0OBBYEFNnOPXa+dMB/+B0cNToAYZav01KuMA4GA1UdDwEB
+/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEAh9cGzLVRJoz9yMdoQhiWus+EFp/FVh4LP9lfOnIc
+SW+KbvUiGv3wR1xJA3iZwoi8jMYr7LhL8iHx2W4O7uuJtpuxjhEq3RabZwWyetgrYw9L0kITzP91
+ROh2Jtr8BqGdP8HTzOxaGUZa8TW5gbXySWIhjGzi2tdzOgaJzQI+WqrLFHzRafN8RZ7S5jNKTHBM
+OC/8rHyhIH74UFNZsNK85RvAhdzEEq2Z17S267XSqZRomiSTzYgE1MQDlSEQv2LUnGWdDh0Q8Ikx
+1yRCkM0Dkwz6vMUd+v9WECvSdKYzjHpHiPsNFb7jcYHp+HsfAaRf+RskvUeDhTnrBnAITF2qP/Ds
+xhvtNiGb23FRRdxbB8IOfbxd4FwBLjaXPQ0kG/s1+LSfA9gLKOzz1M/PwCa/np9Y/BsPCi1W6UYd
+KWyoCpdQtr64jI0SpXkBxDoy1QlYmqxj4zYVCzNrI3Nh/EyQi/x38Ps30TF+/fRn6nF3PMFQq2Tj
+zGH+R8g5XozHUNT6HS+a62i7vmmjUNZxwVoXaxsh/5oGl5+tTCnSnvGYtshJMrSfotUrRq8KMV8/
+kRKolmAS6HPU738A72g3wSvc+1uPgvthFUEF37vN6oYnIdLApyrL3y8hhtDa8Kz0ybMGwYuoZJNc
+HG7vj6gn2ryBZ2B4XZSYrpn2BAyTMHyIsBM=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203546456378">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.6</verAplic>
+  <chNFe>31200117159518000175550010029986441673993451</chNFe>
+  <dhRecbto>2020-01-09T14:56:03-03:00</dhRecbto>
+  <nProt>131203546456378</nProt>
+  <digVal>Hi+Pq6jfINnlFnR0SBl+VvZNgks=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31210816849231000619550010022206571288026051"><ide><cUF>31</cUF><cNF>28802605</cNF><natOp>Vnd mer.adq.rec.ter.op.mer.sj.rg.sub.trb.cnd.sub.t</natOp><mod>55</mod><serie>1</serie><nNF>2220657</nNF><dhEmi>2021-08-21T01:31:59-03:00</dhEmi><dhSaiEnt>2021-08-21T02:31:59-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3147105</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>1</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>0</indPres><procEmi>0</procEmi><verProc>SAP ECC 6 EHP7</verProc></ide><emit><CNPJ>16849231000619</CNPJ><xNome>ITAMBE ALIMENTOS S/A</xNome><xFant>CD Pará de Minas</xFant><enderEmit><xLgr>RODOVIA BR 262 - ANEXO I</xLgr><nro>S/N</nro><xCpl>KM 403</xCpl><xBairro>PATAFUFO</xBairro><cMun>3147105</cMun><xMun>PARÁ DE MINAS</xMun><UF>MG</UF><CEP>35661390</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3712121212</fone></enderEmit><IE>0020322880432</IE><CRT>3</CRT></emit><dest><CNPJ>23399397000131</CNPJ><xNome>ENIO CAMPOS ME</xNome><enderDest><xLgr>R PROFESSORA LIBANIA</xLgr><nro>475</nro><xBairro>SAO GONCALO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>99879516</fone></enderDest><indIEDest>1</indIEDest><IE>1835568870074</IE></dest><det nItem="1"><prod><cProd>600580290</cProd><cEAN>7896051140016</cEAN><xProd>REQUEIJAO TRADICIONAL COPO 220G</xProd><NCM>04061090</NCM><CEST>1702300</CEST><CFOP>5403</CFOP><uCom>UN</uCom><qCom>60.0000</qCom><vUnCom>6.2200000000</vUnCom><vProd>373.20</vProd><cEANTrib>7896051140016</cEANTrib><uTrib>UN</uTrib><qTrib>60.0000</qTrib><vUnTrib>6.2200000000</vUnTrib><vDesc>8.00</vDesc><indTot>1</indTot></prod><imposto><ICMS><ICMS70><orig>0</orig><CST>70</CST><modBC>3</modBC><pRedBC>33.3300</pRedBC><vBC>243.48</vBC><pICMS>18.0000</pICMS><vICMS>43.83</vICMS><modBCST>4</modBCST><pMVAST>35.0000</pMVAST><vBCST>503.82</vBCST><pICMSST>18.0000</pICMSST><vICMSST>46.86</vICMSST></ICMS70></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>ICMS SUBST. TRIBUT. CONF. ITEM 17, PARTE 2, ANEXO XV, DO RICMS/MG/IPI TRIBUTADO COM ALIQUOTA ZERO/COFINS OPERACAO TRIBUTAVEL A ALIQUOTA ZERO/PIS OPERACAO TRIBUTAVEL A ALIQUOTA ZERO Peso líquido: 13.200</infAdProd></det><total><ICMSTot><vBC>243.48</vBC><vICMS>43.83</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>503.82</vBCST><vST>46.86</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>373.20</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>8.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>412.06</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>03612518000174</CNPJ><xNome>COOP TRANSP.AUT CARGA E PASS REG.ME</xNome><IE>0622550250043</IE><xEnder>RUA PAULO PEREIRA FONS 180, SALA 01 DOM BOSCO 35661-444</xEnder><xMun>PARA DE MINAS</xMun><UF>MG</UF></transporta><vol><qVol>5</qVol><pesoL>13.200</pesoL><pesoB>22.320</pesoB></vol></transp><cobr><fat><nFat>0002220657</nFat><vOrig>412.06</vOrig><vDesc>0.00</vDesc><vLiq>412.06</vLiq></fat><dup><nDup>001</nDup><dVenc>2021-09-18</dVenc><vDup>412.06</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>412.06</vPag></detPag></pag><infAdic><infCpl>NR. ORDEM: 2015826934 Entrega: 8018474309 Doc de Transporte: 0052035771 Fatura: 9017254599 Codigo do Cliente: 0005011660 Codigo do Vendedor 0000000301 Condicao de Pagamento: C028 A PRAZO 28 DD  Boleto em Anexo  / ICMS SUBST. TRIBUT. CONF. ITEM 17, PARTE 2, ANEXO XV, DO RICMS/MG / IPI TRIBUTADO COM ALIQUOTA ZERO / COFINS OPERACAO TRIBUTAVEL A ALIQUOTA ZERO / PIS OPERACAO TRIBUTAVEL A ALIQUOTA ZERO * DESCONTO ESPECIAL: R$ 8,00 * | AO EMITIR NOTA FISCAL PARA A ITAMBE, ENVIAR O ARQUIVO XML PARA nfe_recebidas@itambe.com.br</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210816849231000619550010022206571288026051"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CKsuDC6vsajwTvtAVu4y8v/Mjfk=</DigestValue></Reference></SignedInfo><SignatureValue>JvgI2snzmyqmCyixYBOVitz7fjhonJj60kG2NLPt0GB5i6GKMreoln1VGP6ja5TlBVEMKGBFSBkC
+wUDdVYGfoPv3yxfv/ZW94VcxjXLaY4Tf+1+IVk3FRbhhYWKXN2jFR+L8c2lOex/beId93EAfrBqE
+1nwUjxjjH8jj/rqkMSOYM5XfF3YCgMI4CBjyRsTRBvxDWI6bEA+LDR/WZFO51mdMySoLdbTR7Ps/
+JdgbqSfQ5oVsvavuI7pjXw3/shQ+lgZ6G1E8n2ecD2vD/K50q8pEBpU8uTC1Fr4k2UyS2mw1VU3+
+ZKcd5XKUe4/fwuKIrQ1MMh4Gd0jOABuJLN45UQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH2jCCBcKgAwIBAgIQTyN0YfRODNw1km+OWgG7ejANBgkqhkiG9w0BAQsFADB0MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDEtMCsGA1UECxMkQ2VydGlzaWduIENlcnRpZmljYWRv
+cmEgRGlnaXRhbCBTLkEuMSEwHwYDVQQDExhBQyBDZXJ0aXNpZ24gTXVsdGlwbGEgRzcwHhcNMjEw
+MzAxMTMzMDE2WhcNMjIwMzAxMTMzMDE2WjCBrDELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1C
+cmFzaWwxHjAcBgNVBAsMFUFDIENlcnRpc2lnbiBNdWx0aXBsYTEXMBUGA1UECwwOMzg3MzMxMDEw
+MDAxNDQxEzARBgNVBAsMClByZXNlbmNpYWwxGzAZBgNVBAsMEkFzc2luYXR1cmEgVGlwbyBBMTEd
+MBsGA1UEAwwUSVRBTUJFIEFMSU1FTlRPUyBTIEEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDOjS67NsffSzotUIhG1B23pbLHoT5g0gFnfFmXhdsQO3fACqONaQsJH1DL3rqabd0ELiCT
+9KZXJOmyoTHFpJ/KVhTdNmS1GQw00MXtRbdj0V0w0bB2YKwQ8wMlOKl+GN3/KxvAUhSeDKygCF1V
+ajJs9lRfzQFyhVwjxPLyES17bEle6gO5hCzJdetAb8LqAz+xN7rFZ81Lg8KxpNw4tQ1ZgKSZdvWh
+fsbBcQ2o64XTCw70s31aoJ4IMnxmHyFGrQ9lEI7um9mqQkYHIxyzbU0ItZMUv57MePz9UWLlyCvh
+dBgZFps+jlbtyluhGhWYWgZNiOhWPVeHRonpsgzF5/4TAgMBAAGjggMtMIIDKTCBuwYDVR0RBIGz
+MIGwoD0GBWBMAQMEoDQEMjA3MDExOTc4MDA1MzUyNTE2NzAwMDAwMDAwMDAwMDAwMDAwME1HODEy
+MDgyNVNTUE1HoCEGBWBMAQMCoBgEFkdVSUxIRVJNRSBMSU1BIENBUlJBUkGgGQYFYEwBAwOgEAQO
+MTY4NDkyMzEwMDAxMDSgFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRhwYWxvbWEuZ2lsQGl0YW1i
+ZS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRdcgy/M9K744am6EwGcX5VXAeg1jCBiwYD
+VR0gBIGDMIGAMH4GBmBMAQIBCzB0MHIGCCsGAQUFBwIBFmZodHRwOi8vaWNwLWJyYXNpbC5jZXJ0
+aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fTXVsdGlwbGEvRFBDX0FD
+X0NlcnRpU2lnbl9NdWx0aXBsYS5wZGYwgcYGA1UdHwSBvjCBuzBcoFqgWIZWaHR0cDovL2ljcC1i
+cmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBs
+YUc3L0xhdGVzdENSTC5jcmwwW6BZoFeGVWh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5i
+ci9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUc3L0xhdGVzdENSTC5jcmwwDgYD
+VR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBtgYIKwYBBQUHAQEE
+gakwgaYwZAYIKwYBBQUHMAKGWGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVw
+b3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0NlcnRpc2lnbl9NdWx0aXBsYV9HNy5wN2MwPgYIKwYB
+BQUHMAGGMmh0dHA6Ly9vY3NwLWFjLWNlcnRpc2lnbi1tdWx0aXBsYS5jZXJ0aXNpZ24uY29tLmJy
+MA0GCSqGSIb3DQEBCwUAA4ICAQBf74Jvn0uSdZlgc3ATIJ4ApJ5dMxzahcy1xI0NI4JJZc/kliY3
+MBKvzBpgZZoNGnbEYbz6NmgdbAqdBw3Kv/6NofQPNLaqacS15j5Blc4kdaYRjzf4Z9VfLypR08LJ
+cdbmoQt9qfp8L8pXP3eZ1L9CnctvFG1lqZroTegMK/RyvJzHKZB2kvWbtSyTBF+pGF4aOFGGaCYP
+WsqkpJV+n0Q9HbAgHg1bG6SverqpAurox7Aa19kRUs87IaZynqWGUY+SLTuRdNCR+P+Ye3xPo8U4
+aJGZ14VaGX3nLkqhDCiepKRsXhVS2e3Vv8a+lX1IgjIbJKDRy94wBR8Q79BkuH2DreUCF8morkUf
+IFa47wfwpL+hpiNXlEk6KBo/VG7ml3tpqIYgQQhkxL/OUToBc85hchLqW8LSakjHl4Dh9R1dZoOG
+naMFE2+Fhyi5Gf7GvGTrEbrtldceTyyucVtiitKJKorFOoDFY6dv4uRdTgMnINSgnWDfCPmCPz4d
+rUtasYsJkeTxxyazevrY8+qUffQsbueW1NCDZu6tz3UaoMbkrqH58UWbyuFJ43m0BaBEdetLPJWs
+MPny3cCRYNcDF9tw6+JRBsCOPaYmeNYdWx4uCXIrKvkg9RO4b/GxdCXLXx6cbPkLnM3lnXtTbBj7
+nnoa0lL3nivlQ1LpFHmx2xlx1A==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214304682733">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.26-AC1</verAplic>
+  <chNFe>31210816849231000619550010022206571288026051</chNFe>
+  <dhRecbto>2021-08-21T01:28:41-03:00</dhRecbto>
+  <nProt>131214304682733</nProt>
+  <digVal>CKsuDC6vsajwTvtAVu4y8v/Mjfk=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

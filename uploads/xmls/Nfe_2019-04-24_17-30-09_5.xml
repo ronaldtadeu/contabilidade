@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190201992041000174550010006812481111027020" versao="4.00"><ide><cUF>31</cUF><cNF>11102702</cNF><natOp>BONIFICACAO, DOACAO OU BRINDE</natOp><mod>55</mod><serie>1</serie><nNF>681248</nNF><dhEmi>2019-02-27T23:21:00-03:00</dhEmi><dhSaiEnt>2019-02-28T23:21:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3127701</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.89</verProc></ide><emit><CNPJ>01992041000174</CNPJ><xNome>HAF DISTRIBUIDOR LTDA</xNome><xFant>HAF DISTRIBUIDOR LTDA</xFant><enderEmit><xLgr>RUA HELIO DINIZ</xLgr><nro>1511</nro><xCpl>WWW.HAF.COM.BR</xCpl><xBairro>DISTRITO INDUSTRIAL</xBairro><cMun>3127701</cMun><xMun>GOVERNADOR VALADARES</xMun><UF>MG</UF><CEP>35040600</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3332798090</fone></enderEmit><IE>2776965790085</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA</xNome><enderDest><xLgr>RUA SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><det nItem="1"><prod><cProd>104925</cProd><cEAN>7891224873647</cEAN><xProd>S HAV AERO GRAPHIC ABOBORA 39/40</xProd><NCM>64022000</NCM><CFOP>5910</CFOP><uCom>PA</uCom><qCom>1.0000</qCom><vUnCom>18.0400000000</vUnCom><vProd>18.04</vProd><cEANTrib>7891224873647</cEANTrib><uTrib>PA</uTrib><qTrib>1.0000</qTrib><vUnTrib>18.0400000000</vUnTrib><indTot>1</indTot><xPed>806007048</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>18.04</vBC><pICMS>18.0000</pICMS><vICMS>3.25</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>18.04</vBC><vICMS>3.25</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>18.04</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>18.04</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><vol><qVol>1</qVol><nVol>1</nVol><pesoL>0.400</pesoL><pesoB>0.400</pesoB></vol></transp><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>18.04</vPag></detPag></pag><infAdic><infCpl>FEM DE ACORDO COM DECRETO N 46.927, DE DEZEMBRO/2015, ART 2, VALOR R$: 0.//REDUCAO BASE CALCULO, CONF.ART 534 Z-Z-A DO RICMS-DEC.1090-R DE 25-10-2002//PEDIDO: 806007048.</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190201992041000174550010006812481111027020"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RzEHuhmEmte3mkQInDyXw2T3adg=</DigestValue></Reference></SignedInfo><SignatureValue>aNUVyObqB0uecChv5uIq45ARcCpgcxOxHGCr+Cu4+DCG8egQkSi2q/KI/KP35x3DD5V0q6e3pEKP
+wk6NT5A1U3KcaCBYNd4t0PbqmAFEsSBGX6xQx9tXVdTRfMjwmncXPIhQf+x6SHTWdLVHLcUjMF7V
+Ia2k8qNM/bM3yi2VG74C+IQrRgAAP9n7NhceK1KKSk/4Hxlk2QxiIKn0hHykW+b0R7hhWAO/GZWW
+KKwtYlqbBRskSP1+wWd7Xp/WerAxkIe8VBVhcZ52oZHeKWy7WTxPXwvVNU334BINVnVxhX8if0YR
+PWH64Fc4xKNPVVlScN2A2CzBnmKgtmQvnORifA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIILzCCBhegAwIBAgIIFbhXsQBRJAwwDQYJKoZIhvcNAQELBQAwcjELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UEAxMNQUMgT05MSU5FIFJGQjAeFw0xODA1MDcyMTAyMTla
+Fw0xOTA1MDcyMTAyMTlaMIH4MQswCQYDVQQGEwJCUjELMAkGA1UECAwCTUcxHTAbBgNVBAcMFEdP
+VkVSTkFET1IgVkFMQURBUkVTMRMwEQYDVQQKDApJQ1AtQnJhc2lsMTYwNAYDVQQLDC1TZWNyZXRh
+cmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBlLUNO
+UEogQTExKTAnBgNVBAsMIEFSIEUtVVRJTCBURUNOT0xPR0lBIEUgU0VHVVJBTkNBMS0wKwYDVQQD
+DCRIQUYgRElTVFJJQlVJRE9SIExUREE6MDE5OTIwNDEwMDAxNzQwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC9kJ0gknkzQoO0Qsrb4rvQ/fT/1D/UHK+vVtVg7ZFBJh7AmkYJCN2BDtH4
+UxxmEnMaSQ9BG7Ta7nEJWAxfFqs7BVCFij1op62of2527qGIGJlxT1Z3pKrkwncHahtYuvcRoODv
+5253ZI345a+wpfpdRWdvWQeSlKg0vaTFULUhxepclXssRkP5uQErpNpTi0C2v8L41nspakNgoB1k
+Fdtt1+qTmIgYQp7KvGzqbW75Reyu2LYNfXKgMDRr4ngO8cr5JpZzxZHVGVyeAyiofAIOs2jQC1Sy
+EodgUsjiOUiLvbCTuRrjyzXRGETXhrbC6N3Z0ZZOUj6pId7Yy5kZOuf9AgMBAAGjggNAMIIDPDCB
+oQYIKwYBBQUHAQEEgZQwgZEwXAYIKwYBBQUHMAKGUGh0dHA6Ly9pY3AtYnJhc2lsLnZwa2kudmFs
+aWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy1vbmxpbmVyZmIvYWMtb25saW5lcmZidjIucDdiMDEG
+CCsGAQUFBzABhiVodHRwOi8vb2NzcC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyMAkGA1UdEwQC
+MAAwHwYDVR0jBBgwFoAUkZp2jCuokxiYmHoD5MvstbAZJ/8wdQYDVR0gBG4wbDBqBgZgTAECATcw
+YDBeBggrBgEFBQcCARZSaHR0cDovL2ljcC1icmFzaWwudnBraS52YWxpZGNlcnRpZmljYWRvcmEu
+Y29tLmJyL2FjLW9ubGluZXJmYi9kcGMtYWMtb25saW5lcmZiLnBkZjCCAQYGA1UdHwSB/jCB+zBV
+oFOgUYZPaHR0cDovL2ljcC1icmFzaWwudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy1vbmxp
+bmVyZmIvbGNyLWFjLW9ubGluZXJmYnYyLmNybDBWoFSgUoZQaHR0cDovL2ljcC1icmFzaWwyLnZh
+bGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtb25saW5lcmZiL2xjci1hYy1vbmxpbmVyZmJ2Mi5j
+cmwwSqBIoEaGRGh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292LmJyL2xjci9WQUxJRC9s
+Y3ItYWMtb25saW5lcmZidjIuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcD
+AgYIKwYBBQUHAwQwgbkGA1UdEQSBsTCBroEZbWFybG9uQGNvZWxob2Rpbml6LmNvbS5icqA4BgVg
+TAEDBKAvBC0wODAzMTk3MzgzNjk3MDcxNjUzMTEyNzI1OTc3MTEwMDAwMDAwMDAwMDAwMDCgIwYF
+YEwBAwKgGgQYQUxFWCBTQU5EUk8gQ09FTEhPIERJTklaoBkGBWBMAQMDoBAEDjAxOTkyMDQxMDAw
+MTc0oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMDANBgkqhkiG9w0BAQsFAAOCAgEApyv7b+uhjesE
+On7Z7Pr/1tC+PXc7k4SBErU19s2HKNCfcvyPkfVJDk3ZdEoBV6jmbUgGU0Kof3FkjjzObseblwHI
+wnhBlhaaGpRxhBqWrwXYdGagwZ0EXxn2EVT+VznGMNhGoO0h/4g18gKJgMbjOIYCyJYVDrpJ9oBU
+cnkfr2gAYwvur7zjJyYtSmTOUqI0iZ7xoRPrIQVVhwE3tDzjYSUr1ZfYdWz0QgGqULK5NWe2t95c
+5D4gKIPOi4j5oZmxcexxoeH0hz4lczNZCHonBfr3D+eh7qt0NuJyhtzVYnFTaT8HsDfc2vDXWR3C
+c0otHrwRLNASl9qCSFTuLu/KRel6NYU79tMhjLxAaN+a33ubjbSdKvBXVVq+Mvfhe+ffxHGwqsgX
+vpf0YxoF7VzEW09TazNTJ0edQwsg2jYUxZVpANEUcca7fxKYXzQ9A9UbAxYjUf11Mc44QphTNX9S
+2FB3IKgoEVFzvbXvkE5ShPIJ0854PGj4d2H2CiC+oTQ+mGFIiYwOr5wwzhyFRvpq1u9/484eHvfz
+g6MpL8hpyAEO3+2O89GkkjDYyQP41JD4G2tK1Dxj4wID+z1HtyeuLSpHjhyQoHihWwRGpU4cjmm1
+zNpQnu+6LsnTs82hF8YoxRXEcHlPZRbZ88Apii6hMFSRmvo/OJ06vwIWFKS9UeY=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193216672254">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.2.20</verAplic>
+  <chNFe>31190201992041000174550010006812481111027020</chNFe>
+  <dhRecbto>2019-02-27T23:24:09-03:00</dhRecbto>
+  <nProt>131193216672254</nProt>
+  <digVal>RzEHuhmEmte3mkQInDyXw2T3adg=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

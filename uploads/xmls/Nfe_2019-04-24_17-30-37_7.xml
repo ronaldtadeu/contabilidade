@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190221000468000741550030004207631328436816" versao="4.00"><ide><cUF>31</cUF><cNF>32843681</cNF><natOp>VENDA DE PRODUTOS</natOp><mod>55</mod><serie>3</serie><nNF>420763</nNF><dhEmi>2019-02-08T18:58:42-02:00</dhEmi><dhSaiEnt>2019-02-11T07:00:59-02:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118304</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>6</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>11.52.00.00</verProc></ide><emit><CNPJ>21000468000741</CNPJ><xNome>IRMAOS FARID LTDA.</xNome><xFant>CONSELHEIRO LAFAIETE</xFant><enderEmit><xLgr>Rua Alfredo Eliaz Mafuz</xLgr><nro>1170</nro><xBairro>Santa Matilde</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36405140</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137625031</fone></enderEmit><IE>1830627500610</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA</xNome><enderDest><xLgr>R    SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>31037623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE><email>jg.fonseca ymail.com</email></dest><det nItem="1"><prod><cProd>0000988</cProd><cEAN>7891149010400</cEAN><xProd>BRAHMA CHOPP 600ML</xProd><NCM>22030000</NCM><CEST>0302100</CEST><CFOP>5405</CFOP><uCom>Dz</uCom><qCom>2.0000</qCom><vUnCom>67.8700000000</vUnCom><vProd>135.74</vProd><cEANTrib>7891149010400</cEANTrib><uTrib>Dz</uTrib><qTrib>2.0000</qTrib><vUnTrib>67.8700000000</vUnTrib><vDesc>9.84</vDesc><indTot>1</indTot><xPed>0747130</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>50.16</vBCSTRet><pST>18.00</pST><vICMSSTRet>2.76</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><qUnid>2.0000</qUnid><vUnid>0.0000</vUnid><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>02</CST><vBC>125.90</vBC><pPIS>1.86</pPIS><vPIS>2.34</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>02</CST><vBC>125.90</vBC><pCOFINS>8.54</pCOFINS><vCOFINS>10.75</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>135.74</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>9.84</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>2.34</vPIS><vCOFINS>10.75</vCOFINS><vOutro>0.00</vOutro><vNF>125.90</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>21000468000741</CNPJ><xNome>IRMAOS FARID LTDA</xNome><IE>1830627500610</IE><xEnder>Rua  ALFREDO ELIAS DE MAFUZ, 1170</xEnder><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>GFE CERV 1/1 BR</esp><pesoB>28.000</pesoB></vol></transp><cobr><fat><nFat>420763</nFat><vOrig>125.90</vOrig><vDesc>0.00</vDesc><vLiq>125.90</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-02-11</dVenc><vDup>125.90</vDup></dup></cobr><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>125.90</vPag></detPag></pag><infAdic><infCpl>V02V36|BAR E MERCEARIA SERF|221|ANDRE CLARINDO|209060|DINHEIRO|18.00||||||||||||||||NAO ACEITAMOS CHEQUES DE TERCEIROS          CONFORME ART.92 LEI 8.884/94||||50.16|2.76|50.16|2.76|||||||||||||||||||||||||||||JOSE GERALDO DA FONSECA|00044825781691|MARIA MARTA DE ASSIS FONSECA|00085295124649|14|GILVALDO EUSTAQUIO GABRIEL|24|0||0000-00-00||||||||||||||||||||||||||||||||||||||||||||||||||||Total PIS:     2,34  Total COFINS:    10,75|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190221000468000741550030004207631328436816"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bDphAwfRFtc+F5gH+rZt2J6zsGg=</DigestValue></Reference></SignedInfo><SignatureValue>0vGqDjLGkclxjiRyxq9SVzb3XCF7IS75pHb22GH8IsqhlDVWMgLFExpa8PtyFGcFHul/hFdP6xwm
+rTp/caVyEQqt0hLCKyI6qCt9JmD2lZu9ITM9xqCw8F7eatunoSdMMipM09QzkNHxrLDh7sWh/PO5
+Q8yuEsnPUyMir1nFPRbhmkxub7Fr06qd+m0MWlgkf0vv4wU9Rb59n2GUosSi4T1aIZjNz74fCuVY
+BPCUpysP2NXuxZIqBAVjY/V4GMSW8OKiJKMVUqFFdTk2jVC2+3WNtskXPdwcR655jgT21xQffDLm
+KBNUC97Kw6ZmwoHgHtcxEltwG3WLWKmNonokow==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH8TCCBdmgAwIBAgIQIkiuQwNqvUzqodofE7c46zANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTE4MTAxNzE2MjcyNFoXDTE5MTAxNzE2MjcyNFowgeIxCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJNRzESMBAGA1UEBwwJSXRhYmlyaXRvMTYwNAYDVQQLDC1TZWNy
+ZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBl
+LUNOUEogQTExIjAgBgNVBAsMGUF1dGVudGljYWRvIHBvciBBUiBOaWFscGExKTAnBgNVBAMMIElS
+TUFPUyBGQVJJRCBMVERBOjIxMDAwNDY4MDAwMTU2MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA2igz9nZXMpZkujUGe/7yhK//2O/gWVOOWLgEiWq6sX5apQ8u/c+j5mnLBZZHl0muBzCU
+wWofluXedHvypM84T9isLJNSDiW3Tmi2Awod4zR+pcRaL+16WuOaG1w5LHHU+PkgPzlINkCfwTGm
+DApC2dsVHRAnPY0lntzzXgrtW4zkJsU5V2oYFdQ1QeMnl6pyUmCqpNQXuI2qJLjbpw6gbRzYRM4t
+AaI4g4QQLgB1L2BcMVWbZGix8S/rVQTa4bqgD1es8bsdiLjlyGrnExGSHiiphOXMXe2kRv6JWEqL
+wYruQCitRAnQzN7Nno1KJLm7y1H42V2ApHjiXmnrc+z84wIDAQABo4IDCjCCAwYwgbkGA1UdEQSB
+sTCBrqA8BgVgTAEDBKAzBDEwNTEyMTk2MTU1NjAyODUxNjE1MDAwMDAwMDAwMDAwMDAwMDAwTUc2
+MDUyNzhQQ01HoCIGBWBMAQMCoBkEF0xVSVogQ0FSTE9TIEZBUklEIFJBSE1FoBkGBWBMAQMDoBAE
+DjIxMDAwNDY4MDAwMTU2oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEWZHJpbGVpdGUyQHlhaG9v
+LmNvbS5icjAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFFN9f52+0WHQILran+OJpxNzWM1CMH8GA1Ud
+IAR4MHYwdAYGYEwBAgEMMGowaAYIKwYBBQUHAgEWXGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2ln
+bi5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL0FDX0NlcnRpc2lnbl9SRkIvRFBDX0FDX0NlcnRpc2ln
+bl9SRkIucGRmMIG8BgNVHR8EgbQwgbEwV6BVoFOGUWh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2ln
+bi5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzUvTGF0ZXN0Q1JMLmNybDBW
+oFSgUoZQaHR0cDovL2ljcC1icmFzaWwub3V0cmFsY3IuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9B
+Q0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCBrAYIKwYBBQUHAQEEgZ8wgZwwXwYIKwYBBQUHMAKGU2h0dHA6
+Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FD
+X0NlcnRpc2lnbl9SRkJfRzUucDdjMDkGCCsGAQUFBzABhi1odHRwOi8vb2NzcC1hYy1jZXJ0aXNp
+Z24tcmZiLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBAHK/kCFNIMpLxOFSki6u
+7Cj8IqI1OrU2YuD0En9DPkFC0Bo6RG9BMaHkrUaBdfN2CqZXYRgVpnCBfn3Ji3+VDMlkaUib0ete
+v2CZ+N5+WIGXQDb0My+uakrKZUsfvz3X5X91vabveJy/kryvy23usMwTwLVXwkJc57mKvMpiZY/t
+dr7iru2K+fGCFgDEfMvP8HH6DCR49NLjm1JJYgHLDRmG3BI1gHgB0Hr3tFybTL9i9any/INb5QLG
+N4MoTnEv62rHCRDYtxjoG+gPO+wCys3+ID8jmBpg7Yrqnxii2SKCYLy6XW+UdOBNuHJTfHIHo+HJ
+MZ65b+0YeItrXazfC4r1OBugWwTycptemXj+MVO/o2beh/gtB/3+dm0AqYqHIcw+ZW0X0XhMYTfu
+R3u7Fvpf93dKaBXxzzRZfQXTQRxsAzQkRqfhNliI5hXzxQ6gt+V8P85ckWABxjOssrub7JYd70n6
+FyUHNjdGXDbs3Xo0h8HDDuC/MSiCAjdk0HkUw/H4bYIQVFNGyxrCtl1N7Mt//0F+YChf371C5hFZ
+mHKRcoOcW+qDtKYLfqth2IHHw776FtYuY7kJ1xJDdv47XP/wrQa/+2xVX8IPMnHFwfkvcrgMfnOm
+NQNphv+KIoY34H5wsmX2JODE6Akgo6c2nkyuJdm9l5L9Q+cdNQoSpuzj</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193197969771">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.2.20</verAplic>
+  <chNFe>31190221000468000741550030004207631328436816</chNFe>
+  <dhRecbto>2019-02-08T19:00:03-02:00</dhRecbto>
+  <nProt>131193197969771</nProt>
+  <digVal>bDphAwfRFtc+F5gH+rZt2J6zsGg=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

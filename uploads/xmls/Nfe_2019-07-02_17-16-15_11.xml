@@ -1,0 +1,50 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190608450457000100550010035984741111027065" versao="4.00"><ide><cUF>31</cUF><cNF>11102706</cNF><natOp>REMESSA EM BONIFICACAO, DOACAO OU BRINDE</natOp><mod>55</mod><serie>1</serie><nNF>3598474</nNF><dhEmi>2019-06-27T07:01:00-03:00</dhEmi><dhSaiEnt>2019-06-27T07:01:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>5</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.106</verProc></ide><emit><CNPJ>08450457000100</CNPJ><xNome>EPOCA COM DIST PROD ALIM IND LTDA</xNome><xFant>EPOCA COM DIST PROD ALIM IND LTDA</xFant><enderEmit><xLgr>VIA VER JOAQUIM COSTA, 1405 GALPAO 2</xLgr><nro>1405</nro><xBairro>CAMPINA VERDE</xBairro><cMun>3118601</cMun><xMun>CONTAGEM</xMun><UF>MG</UF><CEP>32150240</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3121285000</fone></enderEmit><IE>0010218440057</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA ME</xNome><enderDest><xLgr>RUA SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE><email>jg.fonseca@ymail.com</email></dest><entrega><CNPJ>23809403000181</CNPJ><xLgr>RUA SANTA APOLONIA</xLgr><nro>116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>38814</cProd><cEAN>7891151028448</cEAN><xProd>BALA AZEDINHA MAST 600GR UVA</xProd><NCM>17049020</NCM><CFOP>5910</CFOP><uCom>UN</uCom><qCom>2.0000</qCom><vUnCom>4.3900000000</vUnCom><vProd>8.78</vProd><cEANTrib>7891151028448</cEANTrib><uTrib>UN</uTrib><qTrib>2.0000</qTrib><vUnTrib>4.3900000000</vUnTrib><indTot>1</indTot><xPed>472043986</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>8.78</vBC><pICMS>18.0000</pICMS><vICMS>1.58</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS><vPIS>0.00</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS><vCOFINS>0.00</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>8.78</vBC><vICMS>1.58</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>8.78</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>8.78</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><vol><qVol>1</qVol><nVol>1</nVol><pesoL>1.320</pesoL><pesoB>1.320</pesoB></vol></transp><cobr><fat><nFat>3598474</nFat><vOrig>8.78</vOrig><vDesc>0</vDesc><vLiq>8.78</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-06-27</dVenc><vDup>8.78</vDup></dup></cobr><pag><detPag><indPag>0</indPag><tPag>99</tPag><vPag>8.78</vPag></detPag></pag><infAdic><infCpl>Cli: 8286//Trans: 21001501 RCA: 472-FRANCISCO JOSE DUTRA REZENDE//(31)9827-4425 (31)9987-2988 EMISSAO: 2019-06-27 00:00:00.0//PEDIDO: 472043986 Carreg: 858389 Cob: BNF//FAVOR CONFERIR MERCADORIAS NO ATO DA ENTREGA, NAO//ACEITAMOS RECLAMACOES POSTERIORES E NEM FAZEMOS//TROCAS. DEVOLUCAO SOMENTE COM NOTA DO CLIENTE.//PRAZO DE VALIDADE 06 (SEIS) DIAS, IMPRORROGAVEL, RE/PTA//N. 45.000003484-06, DELEGACIA FISCAL DE CONTAGEM//BONIFICACAO//00//REDUCAO BASE CALCULO, CONF.ART 534 Z-Z-A DO RICMS-DEC.1090-R DE 25-10-2002//Prestacao de servico de transporte sujeita a emissao de CT-e Global//nos termos do art. 8 da Parte 1 do Anexo IX do RICMS/MG.</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190608450457000100550010035984741111027065"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sysHikEmAEKCqqOfl3jXzxOdPsE=</DigestValue></Reference></SignedInfo><SignatureValue>Qrdye5wV2mwXdhsN5hYhSAlf4g+aTOVxs/MsNtq5bgcZhYSMoTL0sHhCrrdDgi/RQ/UgL3S1l+RP
+OXxWoMZvtzbJ1TdpvW+haUC2yI1I0879ZU/tWlWTW9GwJOgTHC610HyRiLF1iku+cS9LF0actDmy
+ouukmzg7GsLUPj6dWAM4K+e8dtBefLZHhsitFkhtNdqEbRsRwwb45aFljuuf6smsjmToP/uFHGWt
+YUxPVluh3HQNuiFyHRIB9BjxJHnoPQrI8FgpM9Bscnbk+8gEWKqfaqHyCbNL+SFOvgIjl2XmIv+S
+37uQpnWzRD2MaGaM87YS43M/ZSJ2p5DUZgd5XA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIBzCCBe+gAwIBAgIIcr6Fn8EJNU0wDQYJKoZIhvcNAQELBQAwcDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEUMBIGA1UEAxMLQUMgTElOSyBSRkIwHhcNMTgwNzA1MTE0NDMyWhcN
+MTkwNzA1MTE0NDMyWjCB7zELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMREwDwYDVQQHEwhDT05U
+QUdFTTETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLEw1SRkIgZS1DTlBKIEExMRAwDgYDVQQL
+EwdBUiBMSU5LMUkwRwYDVQQDE0BFUE9DQSBDT01FUkNJTyBFIERJU1RSSUJVSUNBTyBERSBQUk9E
+VVRPUyBBTElNRU5UOjA4NDUwNDU3MDAwMTAwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEApYwd9/3eiinr6GJ3F/6Ti9qaQCplDyy+q5fJQg2vz2Bp4hNBeu+QGutpa60wX3SRdY8c2ItW
+8ipEBRX4FqeGpDJzTJpZEMV5uPXnyPXebYlRB1GQgBRxLaq/0Kb3b1uULlcr2ojgBkfxk5mbB8qv
+I4HaygiDNk/PO+t2mBAhykZWeGwHOxh0vmRj8qKwvsZbKoIPJEpfsS4GpV8ra0LPw/UPa3uGT+z2
+Cfy54zhCl+PZk5Cqp19Epa8Uf4quPShCHOU8xjj46OimFYdrGm4Xx/JPlg8p62LDlX4qdCgORHQ3
+nlrBIAQ+VI8TENWIH12texQiGcsgDSNTJa9wamCyNwIDAQABo4IDIzCCAx8wHwYDVR0jBBgwFoAU
+WY0sJWzh8x5duiYhXoEJKGWF1agwDgYDVR0PAQH/BAQDAgXgMG4GA1UdIARnMGUwYwYGYEwBAgE7
+MFkwVwYIKwYBBQUHAgEWS2h0dHA6Ly9yZXBvc2l0b3Jpby5saW5rY2VydGlmaWNhY2FvLmNvbS5i
+ci9hYy1saW5rcmZiL2FjLWxpbmstcmZiLXBjLWExLnBkZjCB+QYDVR0fBIHxMIHuMFCgTqBMhkpo
+dHRwOi8vcmVwb3NpdG9yaW8ubGlua2NlcnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9sY3It
+YWMtbGlua3JmYnYyLmNybDBRoE+gTYZLaHR0cDovL3JlcG9zaXRvcmlvMi5saW5rY2VydGlmaWNh
+Y2FvLmNvbS5ici9hYy1saW5rcmZiL2xjci1hYy1saW5rcmZidjIuY3JsMEegRaBDhkFodHRwOi8v
+cmVwb3NpdG9yaW8uaWNwYnJhc2lsLmdvdi5ici9sY3IvbGluay9sY3ItYWMtbGlua3JmYnYyLmNy
+bDCBlQYIKwYBBQUHAQEEgYgwgYUwUgYIKwYBBQUHMAKGRmh0dHA6Ly9yZXBvc2l0b3Jpby5saW5r
+Y2VydGlmaWNhY2FvLmNvbS5ici9hYy1saW5rcmZiL2FjLWxpbmtyZmJ2Mi5wN2IwLwYIKwYBBQUH
+MAGGI2h0dHA6Ly9vY3NwLmxpbmtjZXJ0aWZpY2FjYW8uY29tLmJyMIG9BgNVHREEgbUwgbKBH0VM
+SUFTQEVQT0NBLURJU1RSSUJVSUNBTy5DT00uQlKgIQYFYEwBAwKgGBMWUEVEUk8gVkVOQU5DSU8g
+QkFSQk9TQaAZBgVgTAEDA6AQEw4wODQ1MDQ1NzAwMDEwMKA4BgVgTAEDBKAvEy0yMDA5MTk1OTI1
+NzY3NzYzNjE1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAw
+MDAwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDAJBgNVHRMEAjAAMA0GCSqGSIb3DQEB
+CwUAA4ICAQCQjAPhvszetGVepKyjnrGLnEZ7FwWxcHwlGQrMXpfoiMUGRRG5Gd3axW6o+ODVuntR
+Bry+WtxdWI+pSMrlCvABmmveZ6xxP4l3LUnNP5q9DpgnlhIB8K4MmNe+GVfRx8TzJIKHcvcaAxxy
+V8RBEK/bk+3FxMz6TKUd2119pAattB0FtZOulU1v6uPTFk0umBiaNprDF/TIjs9tIelTl1VnoJfq
++Dow632hloqsSss/O2eJ15enEoH9G7ehbF7UUiGq1LhcbcJ5jGqlW5wqQ2gXPkxEPpFlzr+v3sSK
+dT+03IDpgq8Y4lt1Rd2pZPs34KtD9XueXhzHoh01V002lSfVajUhAmJ8G/q3i/92LgorSV5qkDrA
+nqPXxN/yUCgwdKv4+/qrrl0ZDjhsro4xgzjfeNIVL9UAuX3HJfOAT7bYwzEh41TyjzmUQymO+hQu
+KNFkcL+hkJAvVqrf7bUqbmZQl7ITyl7u9dWA/cGGUXzgha5BoxGjVCqv5O32NkZWGL6b0THrJNdF
+aUhsMuj4M2tP7avQS8PzZ/ZReBkSBlMVy6JxQVWEhdvM3YHXUqNBA5DvlCOFj8fwcbWAp4ZJ+hbj
+TDBbKKx2vNBZLjzyrWi1lo91wKznkbApjypydKACcRZYesxQShJe0Muk0daZEl4z4bjL3LidHyKM
+kZ8NFA6hIw==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193335214450">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.7</verAplic>
+  <chNFe>31190608450457000100550010035984741111027065</chNFe>
+  <dhRecbto>2019-06-27T08:05:01-03:00</dhRecbto>
+  <nProt>131193335214450</nProt>
+  <digVal>sysHikEmAEKCqqOfl3jXzxOdPsE=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

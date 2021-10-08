@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31200621256870000287550010000402841102125770" versao="4.00"><ide><cUF>31</cUF><cNF>10212577</cNF><natOp>Remessa Mercad.ou Bem P/Cons.ou Reparo</natOp><mod>55</mod><serie>1</serie><nNF>40284</nNF><dhEmi>2020-06-02T12:02:00-03:00</dhEmi><dhSaiEnt>2020-06-02T12:02:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3146107</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>4.0</verProc></ide><emit><CNPJ>21256870000287</CNPJ><xNome>FERRO + MINERACAO S.A</xNome><xFant>FERRO + MINERACAO - OURO PRETO</xFant><enderEmit><xLgr>Fazenda do Pires</xLgr><nro>S/N</nro><xCpl>KM 595 da BR 040</xCpl><xBairro>Distrito Miguel Burnier</xBairro><cMun>3146107</cMun><xMun>Ouro Preto</xMun><UF>MG</UF><CEP>35414000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3732499000</fone></enderEmit><IE>0010033550042</IE><IM>1080756</IM><CNAE>0710301</CNAE><CRT>3</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVS- MOTORS LTDA</xNome><enderDest><xLgr>RUA CEFISA VIANNA</xLgr><nro>251</nro><xCpl>LOJA  01</xCpl><xBairro>MUSEU</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400190</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137632143</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE><email>avsmotorsltda@gmail.com</email></dest><autXML><CNPJ>21256870000287</CNPJ></autXML><det nItem="1"><prod><cProd>IMOB00668</cProd><cEAN>SEM GTIN</cEAN><xProd>CAMINHONETE AMBULANCIA DIESEL GM S10 MARIMAR AMB 2012/2013 CHASSI 9BG144DH0DC445136</xProd><NCM>87033310</NCM><CFOP>5915</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>95000.0000000000</vUnCom><vProd>95000.00</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>95000.0000000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>0</vTotTrib><ICMS><ICMS40><orig>0</orig><CST>50</CST></ICMS40></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISOutr><CST>49</CST><vBC>0</vBC><pPIS>0</pPIS><vPIS>0</vPIS></PISOutr></PIS><COFINS><COFINSOutr><CST>49</CST><vBC>0</vBC><pCOFINS>0</pCOFINS><vCOFINS>0</vCOFINS></COFINSOutr></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>95000.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>95000.00</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>1</modFrete><transporta><xNome>DESTINATARIO</xNome><UF>MG</UF></transporta></transp><pag><detPag><tPag>90</tPag><vPag>0.00</vPag></detPag></pag><infAdic><infCpl>MERCADORIA ENVIADA PARA CONSERTO E POSTERIOR RETORNO. ICMS SUSPENSO CONF ART. 19 ITEM I, ANEXO III DECRETO 43080/2002 RICMS/MG. RI 59.435. NF SOLICITADA POR DEYSILAINE STEFANIE LOPES..Placa:  - UF:MG</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200621256870000287550010000402841102125770"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>8W9Iaj54I04cpf4Va7XPg6rC6Do=</DigestValue></Reference></SignedInfo><SignatureValue>SRG9kF+0rsjsJvFuwNmhvPlA8hZ/4THF9JNYM0JrDknp+D0CEkSdqvhAs87TLVVB4xDt1q0QrIZH
+jJQ1zJ7on2uY2TtULA0w3AEAnKgOtswQ5zMhA+Fwr5ZZP9QQMkO6XUs419GQNNwzfptgzhCvLKze
+RxKU0DkPLEuC7N7NiazjbthQ4vlcp1VFsYYUi1kbfQYgEFvb0qgG+UzSVjBR8JYIIMGq/jC1ealc
+crLl7nr/8+VZTSOU4fHXrYJTOT3Nw03voLrlpqWaPx2t2kWwc589tk5uHy05InCk2iz2JP3uQ4VH
+af5no95yO5xyzLNAGPVvPJ3+GMDI16gLLIjsMg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHzjCCBbagAwIBAgIIQy0gBBY5y+gwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0yMDA0MjAwMjUxMTdaFw0yMTA0MTYyMTM0MDBaMIHuMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExFzAVBgNVBAsTDjIzNzQwNTM0MDAwMTUwMRowGAYDVQQLExFDZXJ0aWZpY2FkbyBQ
+SiBBMTEuMCwGA1UEAxMlRkVSUk8gKyBNSU5FUkFDQU8gUy5BLjoyMTI1Njg3MDAwMDEwNDCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJvcZaoBkwGHIa3DtQoH/J226odyZnlz7DExh76u
+KCcap14QGNIZNb2t9zw2tqu+yCkn5selTnpWqtbPdETYIBFBHZRbyoFj2wQrs6IUqws08qGw4FOO
+sDalDz1GPV63jqtHwt3s24dLVBh96Wie4O/El7cD8NoTALkQQbJqB6ytiq4tFujNtHIQ3BjOFvYd
+UL3jgmH02PgzsmoiE4BhZGbyaO2wug4+KGyBVlQv/8FYHg1pv67FLdJkuQpMomuI6e/+dNgmSd1B
+wgOR2nX3Ey+t92gQxNx4xCiMJQ9LjwldbT5dIBelW7btR3RsZLCFfUA4rqlvuIgOluk59B6sFbMC
+AwEAAaOCAtEwggLNMFQGCCsGAQUFBwEBBEgwRjBEBggrBgEFBQcwAoY4aHR0cDovL2NjZC5hY3Nv
+bHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5wN2IwHQYDVR0OBBYEFPVlfJww
+RKO4G25bQ7qoclhwE+e7MAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUNa4xFPZe0npPWP40qBpnlwrE
+mwcwXgYDVR0gBFcwVTBTBgZgTAECASYwSTBHBggrBgEFBQcCARY7aHR0cHM6Ly9jY2QuYWNzb2x1
+dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwgd4GA1UdHwSB1jCB0zA+
+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12
+MS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11
+bHRpcGxhLXYxLmNybDBQoE6gTIZKaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIv
+bGNyL0FDU09MVVRJL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBuQYDVR0RBIGxMIGugRxkYW5pZWwuc2FudG9z
+QGptZW5kZXMuY29tLmJyoCAGBWBMAQMCoBcTFVJPTVVMTyBESU5JWiBOT0dVRUlSQaAZBgVgTAED
+A6AQEw4yMTI1Njg3MDAwMDEwNKA4BgVgTAEDBKAvEy0yMjEyMTk1NzM2NDE0NTQ5NjQ5MDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMA0GCSqGSIb3DQEB
+CwUAA4ICAQAnw9g45+/5y0cS4YLQKiGsP/ZBqqf+SbKsorFSVjhQgOZLOGqeQjbyGeJ2qfZLBG8z
+68gn7AqAnUiiwn3ajCMU3s2y6E+IColXBgte02snbrgvXEV+1VfC1aNxUEQzGRe45dT1k2B5iBaA
++tK0GYg3qGjMwkivBjd6Q4bTGcVE8KOUnbtv2wMk+V+lMjsXo1qSi1s9bYQLqz1WRSHnFma8O1hh
+dXRTrplBtI0JqSUb/F6/9RPiFzp5zLrVPhmNkJYJNA3e13cZ68Sf/QFOfFivoIOdPHVsBEDWu2V5
+2tvuVSMvd/CswMS2ScxV/sfvZ1SdT/TNnE004q/wawpza332Jxxf3EGZJAsebDig25xrEjUmwkV8
+iWdj1d1iiHT33MHKqyI7juNmOMvodhwTN7NAD3sAKnAPixsarIDHN8iH3HMiC2rngSmoSlrgmdHj
+4dGSAjmB7TPdXDd8H8TEEc0FGNxXZc+UNIRkGcFKbLVoy+f5i+6QKrXxo/5qTbdel6f8NJBesiAs
+X18U2twQaVpnvtMLELakxz/NMLKRulFag5gsKTPoCiUdi8T6xinwneaMSgGWhkE7BuOI5eqDLE2w
+UGnHuKnMZ/XUuzlNF4cNEaEDJO7q6X/kjNbyKAwxtOsH3cpthAg1aaSFyr4ph+0bMOZH5X8BaB8Y
+efR6iU/UJQ==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203695688642">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.12-AC1</verAplic>
+  <chNFe>31200621256870000287550010000402841102125770</chNFe>
+  <dhRecbto>2020-06-02T12:04:43-03:00</dhRecbto>
+  <nProt>131203695688642</nProt>
+  <digVal>8W9Iaj54I04cpf4Va7XPg6rC6Do=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

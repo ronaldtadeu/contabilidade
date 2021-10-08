@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190904487083000146550030001675141119613393" versao="4.00"><ide><cUF>31</cUF><cNF>11961339</cNF><natOp>BONIFICACAO, DOACAO OU BRINDE</natOp><mod>55</mod><serie>3</serie><nNF>167514</nNF><dhEmi>2019-09-20T16:47:00-03:00</dhEmi><dhSaiEnt>2019-09-20T16:47:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>3</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.123</verProc></ide><emit><CNPJ>04487083000146</CNPJ><xNome>PIONEIRA COMERCIO PET LTDA</xNome><enderEmit><xLgr>RUA JOSE SIMPLICIO MOREIRA</xLgr><nro>791</nro><xBairro>TREVO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>31370505</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3134196300</fone></enderEmit><IE>0621336130058</IE><CRT>3</CRT></emit><dest><CNPJ>05859105000114</CNPJ><xNome>AGROPEC. MONTANHESA LTDA.</xNome><enderDest><xLgr>R. BENJAMIM CONSTANTE</xLgr><nro>344</nro><xCpl>-</xCpl><xBairro>SAO JOAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137637949</fone></enderDest><indIEDest>1</indIEDest><IE>1832796610023</IE></dest><entrega><CNPJ>05859105000114</CNPJ><xLgr>R. BENJAMIM CONSTANTE</xLgr><nro>344</nro><xCpl>-</xCpl><xBairro>SAO JOAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><autXML><CNPJ>10695432000118</CNPJ></autXML><det nItem="1"><prod><cProd>1036</cProd><cEAN>7898315810345</cEAN><xProd>SABONETE TIURAN 80GR</xProd><NCM>34011110</NCM><CFOP>5910</CFOP><uCom>UN</uCom><qCom>3.0000</qCom><vUnCom>11.7700000000</vUnCom><vProd>35.31</vProd><cEANTrib>7898315810345</cEANTrib><uTrib>UN</uTrib><qTrib>3.0000</qTrib><vUnTrib>11.7700000000</vUnTrib><vDesc>10.59</vDesc><indTot>1</indTot><xPed>87003492</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>24.72</vBC><pICMS>18.0000</pICMS><vICMS>4.45</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>2109</cProd><cEAN>7898053581767</cEAN><xProd>ORGANEW 100GR</xProd><NCM>23099090</NCM><CEST>2200100</CEST><indEscala>S</indEscala><CFOP>5910</CFOP><uCom>FR</uCom><qCom>1.0000</qCom><vUnCom>9.6000000000</vUnCom><vProd>9.60</vProd><cEANTrib>7898053581767</cEANTrib><uTrib>FR</uTrib><qTrib>1.0000</qTrib><vUnTrib>9.6000000000</vUnTrib><vDesc>2.88</vDesc><indTot>1</indTot><xPed>87003492</xPed><nItemPed>2</nItemPed></prod><imposto><ICMS><ICMS40><orig>0</orig><CST>40</CST></ICMS40></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>09</CST></PISNT></PIS><COFINS><COFINSNT><CST>09</CST></COFINSNT></COFINS></imposto></det><det nItem="3"><prod><cProd>2110</cProd><cEAN>7898053581668</cEAN><xProd>ORGANEW 1KG</xProd><NCM>23099090</NCM><CEST>2200100</CEST><indEscala>S</indEscala><CFOP>5910</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>29.6200000000</vUnCom><vProd>29.62</vProd><cEANTrib>7898053581668</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>29.6200000000</vUnTrib><vDesc>8.89</vDesc><indTot>1</indTot><xPed>87003492</xPed><nItemPed>3</nItemPed></prod><imposto><ICMS><ICMS40><orig>0</orig><CST>40</CST></ICMS40></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>09</CST></PISNT></PIS><COFINS><COFINSNT><CST>09</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>24.72</vBC><vICMS>4.45</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>74.53</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>22.36</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>52.17</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>04597279000193</CNPJ><xNome>RAD TRANSPORTES</xNome><xEnder>AV ALTAMIRO AVELINO SOARES, 1091 - CASTELO</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>1.400</pesoL><pesoB>1.400</pesoB></vol></transp><pag><detPag><indPag>0</indPag><tPag>90</tPag><vPag>0.00</vPag></detPag></pag><infAdic><infCpl>AAS - CLIENTE://040 - MERCADORIA ISENTA DE ICMS CONFORME ANEXO I DO RICMS 2002</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190904487083000146550030001675141119613393"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>95sGYd//SDKe5RZlK0zMeoJRZHA=</DigestValue></Reference></SignedInfo><SignatureValue>aJ4zF7CTwb+w+3vLmqWzDPS2SoWh3dFierKzyOgtUd6FH5KVxUTXoZMp5iD7zgYN6VL79XbzqYnn
++qdjYH6yGaTjOtHlcHJVvDjNjbpKiGPcDAJ/hA447GeztORHiRX3udRlWUXzoctkRs4l1l8pw5zs
+a1Sd2HY3o7U/Nc2ouFxkpBymefhHnZEW7kgnAl42eYQtThhgU/VeXdl8THgHvTUhkNR2SECKBK6A
+xwRJhRUqTJ15ITrPbzhbeyRd/7UrYy4SwhcH32oKJ17x7X2osPC18szVZcVAszAABzgXXSwSnWPx
++sE7JE+kUq3CMUY/i1MAXzhSb6qsBaTHg1Tpow==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHvjCCBaagAwIBAgIIWGsZARFITZAwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0xOTAxMTYxMzMxNDlaFw0yMDAxMTQxOTM1MDBaMIHaMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMTMwMQYDVQQDEypQSU9ORUlSQSBD
+T01FUkNJTyBQRVQgTFREQS46MDQ0ODcwODMwMDAxNDYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDip+DZ4ZrA4bo1CwpL+kY//TaQJWhBFS5YzFmpPj05bbgHXok2oZvj3YcPNNqdWi+e
+lUzybEITn+pQTx8YlWGW8uFYPjXsVmyZ1rqZQmSYUvFn0OOhbOgh9tB8cv76PNr0DY6N2KycooWW
+vgn0pR+4S9t+OPs2M6TRZSJPJM6eHGhZteTHNooE2Zk/vhnPuQKV7wn0csl4hbWyw8iZoIJVP9ao
+DbL0zueTs7BKqNNWt/CXAZKa9NNAabcYTaUI2h3lOU5oj7fBnF04TsR9V3uQxZvitj7/Ax6O2b/D
+YMxC/WjPMT+VDIqFccONWt9hj7ibr7AHA9PBoF9UAIo1CSLRAgMBAAGjggLVMIIC0TBUBggrBgEF
+BQcBAQRIMEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1z
+b2x1dGktbXVsdGlwbGEtdjEucDdiMB0GA1UdDgQWBBR/J4+swoZ8QRLCiHF588c6NYghEDAJBgNV
+HRMEAjAAMB8GA1UdIwQYMBaAFDWuMRT2XtJ6T1j+NKgaZ5cKxJsHMF4GA1UdIARXMFUwUwYGYEwB
+AgEmMEkwRwYIKwYBBQUHAgEWO2h0dHBzOi8vY2NkLmFjc29sdXRpLmNvbS5ici9kb2NzL2RwYy1h
+Yy1zb2x1dGktbXVsdGlwbGEucGRmMIHeBgNVHR8EgdYwgdMwPqA8oDqGOGh0dHA6Ly9jY2QuYWNz
+b2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjEuY3JsMD+gPaA7hjlodHRwOi8v
+Y2NkMi5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwUKBOoEyG
+Smh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292LmJyL2xjci9BQ1NPTFVUSS9hYy1zb2x1
+dGktbXVsdGlwbGEtdjEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYI
+KwYBBQUHAwQwgb0GA1UdEQSBtTCBsoEbYW5hY2Fyb2xpbmFAcGlvdmV0c3MuY29tLmJyoCUGBWBM
+AQMCoBwTGkFOQSBDQVJPTElOQSBBUkFVSk8gWEFWSUVSoBkGBWBMAQMDoBATDjA0NDg3MDgzMDAw
+MTQ2oDgGBWBMAQMEoC8TLTI3MDYxOTc0OTY4MDkwNzg2NDkwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAGBMZzHBGHxh
+TV+HctGAvJhgq3G1Ojx2MAGXdft547WHdouORpCEt7RzKZJltQg9m+NCjfm9vecM9+ByEDpEiRmt
+DnG5vPa4MQNwpdjQ6GYS2Rtc5LOAriBeZTb0SngRhWVD189cvQ8hKPef//NOkxey5fdrpM/SXSJz
+5wyAss0XF2ZScHPELTer6AHoyBDWDABtsPC2U6HII23i+4vx6lWUuCkf1CUBRdmK3A6xDWaOVIBZ
+q9sO2KJF/bp6Xz/jrP8n+6OBlM60llYaDEmafeXndlQsKcQT8jqjwYXuLn2S+phEf0nZQdJfjFot
+p0y0dz5OcnBomL3ppxD+3PhULDbCeT5DxTZscflaPFDQ6tUDsmRnyRVW+3cxrtE/EN3+JPlgKFb7
+3a/x5bMuo57FYwE7kP6XpWtLkImCuVgassKaN4W5PJdWKX25Ec2E5HoBzIKLqYEqm8waM3Taj7k1
+Xf2KFS6uvglmuV3co4i7okh+MUPJ+TVw2xtiJ7N3HddM56BG8DRLvYpZ312+w3ckITPMHKwI1SWE
+b7/RMwZpMQOJrfVOTDiReZR0KttLBkA+b162S7vaO3sLQu+68HqSPUJvUm4aSzXdR0Z41j20M8WY
+TnCeryw234BBrUVX6MVJ6W1C+spGO3zFoRy/9vc5sGwzq/iPNmEomKG36UzwWxvT</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193426498566">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.2</verAplic>
+  <chNFe>31190904487083000146550030001675141119613393</chNFe>
+  <dhRecbto>2019-09-20T16:47:54-03:00</dhRecbto>
+  <nProt>131193426498566</nProt>
+  <digVal>95sGYd//SDKe5RZlK0zMeoJRZHA=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

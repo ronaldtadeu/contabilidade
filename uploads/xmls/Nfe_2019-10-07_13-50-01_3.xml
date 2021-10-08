@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190905017780000287550030099822721760638218" versao="4.00"><ide><cUF>31</cUF><cNF>76063821</cNF><natOp>Vnd mer.adq.rec.ter.op.mer.sj.rg.sub.trb.cnd.sub.t</natOp><mod>55</mod><serie>3</serie><nNF>9982272</nNF><dhEmi>2019-09-10T23:19:16-03:00</dhEmi><dhSaiEnt>2019-09-11T03:00:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3172004</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP ECC 6.0</verProc></ide><emit><CNPJ>05017780000287</CNPJ><xNome>RIO BRANCO ALIMENTOS S/A</xNome><xFant>PIF PAF ALIMENTOS</xFant><enderEmit><xLgr>ROD. MG 22, KM 105 SN</xLgr><nro>s/n</nro><xBairro>BARRA DOS COUTOS</xBairro><cMun>3172004</cMun><xMun>VISCONDE DO RIO BRANCO</xMun><UF>MG</UF><CEP>36520000</CEP><xPais>Brasil</xPais><fone>3235591300</fone></enderEmit><IE>7201767450076</IE><CRT>3</CRT></emit><dest><CNPJ>64193618000106</CNPJ><xNome>PANIFICADORA E LANCHONETE W 3 LTDA</xNome><enderDest><xLgr>PC DA BANDEIRA / RUA LOPES FRANCO</xLgr><nro>12</nro><xBairro>CARIJOS</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3196938128</fone></enderDest><indIEDest>1</indIEDest><IE>1837009170072</IE></dest><det nItem="1"><prod><cProd>000000000000043843</cProd><cEAN>17896581353662</cEAN><xProd>PEITO DE FRANGO DEFUMADO 2,8KG CX5,6KG</xProd><NCM>16023220</NCM><CEST>1707903</CEST><cBenef>RJ801359</cBenef><CFOP>5403</CFOP><uCom>CX</uCom><qCom>1.0000</qCom><vUnCom>97.4400000000</vUnCom><vProd>97.44</vProd><cEANTrib>7896581353665</cEANTrib><uTrib>KG</uTrib><qTrib>5.6000</qTrib><vUnTrib>17.4000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS10><orig>0</orig><CST>10</CST><modBC>3</modBC><vBC>97.44</vBC><pICMS>18.0000</pICMS><vICMS>17.54</vICMS><modBCST>4</modBCST><pMVAST>35.0000</pMVAST><vBCST>131.54</vBCST><pICMSST>18.0000</pICMSST><vICMSST>6.14</vICMSST></ICMS10></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>97.44</vBC><pPIS>1.6500</pPIS><vPIS>1.61</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>97.44</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>7.41</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>97.44</vBC><vICMS>17.54</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>131.54</vBCST><vST>6.14</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>97.44</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>1.61</vPIS><vCOFINS>7.41</vCOFINS><vOutro>0.00</vOutro><vNF>103.58</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>86442720000122</CNPJ><xNome>COOP RIOBRANQ DE TRANSP LTDA</xNome><IE>7208816380001</IE><xEnder>RUA MELO BARRETO 2467 G</xEnder><xMun>VISCONDE DO RIO BRANCO</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>CX</esp><marca>PIFPAF</marca><pesoL>5.600</pesoL><pesoB>5.807</pesoB></vol></transp><cobr><fat><nFat>9982272</nFat><vOrig>103.58</vOrig><vDesc>0.00</vDesc><vLiq>103.58</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-09-21</dVenc><vDup>103.58</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>103.58</vPag></detPag></pag><infAdic><infCpl>-Sujeito a ICMS e Sub.Trib.-IPI tributado com aliquota zero-PREST.SERV TRANSP.CONF. R. E AF VRB SRF I-45.000000658-20 INDETERMINADO.-SERV TRANSP INTERNO MG ISENTO ICMS CONF ITEM 144, ANEXO I RICMS MG</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190905017780000287550030099822721760638218"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Jsx0ByjjuSB39myFPdH0PniHFOs=</DigestValue></Reference></SignedInfo><SignatureValue>RBYm9qX6YbRPLsxeT+ADLvD/TtCAbg4Y4NSAjI5OtH15+MKv3qP6vo40MKkm9ssvafNrELNUpNLE
+cWLQCQ2AkYb6U8lpnWFMWXo5ogvjAkCmeh2U340pasRhJVre5DoAJtPeAdF+ApeiQllPFPzODa+5
+JGcQAG0EyRO11lik7jLpKOkU8bJWhof6iAXn1SVmupFYcbx5OMQYeg9Vwxax7ND/P00f3pNf4jWc
+au4MCluzM4C6S2DLsdH9SEUn1+efpidV5bA8y/tzbONDmIAUItFSC3q9vYX1JT15fPygdgarzbJS
+iu7M2mqEVkXeMNyE4b0SzCCvq01jhxVe6iWqAA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHljCCBX6gAwIBAgIIcWATvfcAud0wDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg
+djUwHhcNMTkwMjE4MTMxOTAwWhcNMjAwMjE4MTMxOTAwWjCB4jELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDg4
+MjM2NjAxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEUMBIGA1UE
+CwwLKEVNIEJSQU5DTykxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNP
+KTEgMB4GA1UEAwwXUklPIEJSQU5DTyBBTElNRU5UT1MgU0EwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCHoTwYAFzRCiVnIxkb/yq0bYigsuziLanyi1aMf4C67zqaBA5ELa543jQ24cOd
+i0gDKOw6s6V0FmI1Ux/Usrx8ZGGhst6L6cH7sKLKjgKZzud3Q1X46uiWoNr0/bP+kp0NYLVzW3/B
+7X8invvLnCWqJEq+lDs44rLsQs0hnGiJHWHMBdcSMjyOYAykGva0gCPAhV5AbB84rtSn4tXBRUu/
+Vxvt+LQOJ6R2Gm7v7TSJba1Me80rEKPF78e0ieOxOsEx04jqtxlw2LIqJ+Spq9MifGqkvn9aQ96a
+/PH2rwh9TE5/DOxVv2xqKNOQQz4pxojoRwRIjlRxS8bmkwk1gFEBAgMBAAGjggLjMIIC3zAfBgNV
+HSMEGDAWgBRWda9Kc7LYCMR9+2woHBHV98GozDCBlwYIKwYBBQUHAQEEgYowgYcwRwYIKwYBBQUH
+MAKGO2h0dHA6Ly93d3cuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9jYWRlaWFzL3NlcmFzYWNk
+djUucDdiMDwGCCsGAQUFBzABhjBodHRwOi8vb2NzcC5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJy
+L3NlcmFzYWNkdjUwgcIGA1UdEQSBujCBt4EYVkFOREFMVUNJQUBQSUZQQUYuQ09NLkJSoD4GBWBM
+AQMEoDUTMzA2MDMxOTgzMzE3Njc5Mzg4MDIwMDAwMDAwMDAwMDAwMDAwTUcyMTE1MjcyM1BDIE1H
+MKAnBgVgTAEDAqAeExxWQU5EQSBMVUNJQSBCRUNBUkkgRkVMSUNJQU5JoBkGBWBMAQMDoBATDjA1
+MDE3NzgwMDAwMTA0oBcGBWBMAQMHoA4TDDAwMDAwMDAwMDAwMDBxBgNVHSAEajBoMGYGBmBMAQIB
+BjBcMFoGCCsGAQUFBwIBFk5odHRwOi8vcHVibGljYWNhby5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29t
+LmJyL3JlcG9zaXRvcmlvL2RwYy9kZWNsYXJhY2FvLXNjZC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUH
+AwIGCCsGAQUFBwMEMIGbBgNVHR8EgZMwgZAwSaBHoEWGQ2h0dHA6Ly93d3cuY2VydGlmaWNhZG9k
+aWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhY2R2NS5jcmwwQ6BBoD+GPWh0dHA6
+Ly9sY3IuY2VydGlmaWNhZG9zLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhY2R2NS5jcmww
+HQYDVR0OBBYEFDJVNRA2AvW6q+UmKRi6cx+pTcR9MA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0B
+AQsFAAOCAgEAXrVsz8z+p1Z54pvnPAWDmeCcY8Tjru9Rmb7xnJvCZ7p3fQGtApqba+kGxhiVX+E0
+Dy1tCI38eAfleFaKHp52V9pvteKyfL/TEbYDJ9n6OzvAaERrUyMcM9cnEhJb3RVhoTjZaHzGgnmZ
+DYHBg5akS9T1TYkstFDythsS6/8LtRiTSFK4LQlhcv1nrZyqvPTtJrXeTY6o3ZU0kkIxeZHP/Mee
+2Q2TYCbRLWGm1WumsmVGzTYVZXkwtHxK3MXOCp1XYCD2drqlhxhCyg3i6kvveLT2DSWKKXTZd7sN
+/RHa+CH/bevmxBpyiyIHGrP7DGkvD3XyDIwYJh3iMpOhwTzZLm2u8ZvN8lJV2rw8MVERgHJtkvRO
+tHVOoL5cZbsLU36Jk7ST8jcXZ7yqO5Sl+n16TdMA9/mkvbh6iyJxK2iXdKP8ARRhIhs0rs7Rr8Hl
+adTb9DgBh8ceamG0IqGcMfAJ3I3BtPf3LLX6jpCv5pWndP9RwZ8SpZAYcPQrdtQ3eyk1uwZl+sgQ
+G4/TkeK7OU4bBevyvZnSlS77re4LK7W6OtW16tpVJuFVXpqPr4iDTNZ0A6NUlXRRAVNazbqWZ1G+
+zx6rzIf1+893tOjCCLWfQq7kHjEdkykhHU/74MpY/8b12CtJtlv72tlJRteoZAB4r4/GHxahMpbn
+UnYFtgivUZw=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193414978135">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.2</verAplic>
+  <chNFe>31190905017780000287550030099822721760638218</chNFe>
+  <dhRecbto>2019-09-10T23:22:07-03:00</dhRecbto>
+  <nProt>131193414978135</nProt>
+  <digVal>Jsx0ByjjuSB39myFPdH0PniHFOs=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

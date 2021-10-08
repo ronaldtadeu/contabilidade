@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31201107427095000688550010000532261116870830" versao="4.00"><ide><cUF>31</cUF><cNF>11687083</cNF><natOp>VENDA DE MERCADORIAS SUJEITA AO REGIME DE S.T. - SUBSTITUIDO</natOp><mod>55</mod><serie>1</serie><nNF>53226</nNF><dhEmi>2020-11-12T21:50:48-03:00</dhEmi><dhSaiEnt>2020-11-12T21:50:48-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3136702</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.152</verProc></ide><emit><CNPJ>07427095000688</CNPJ><xNome>MHM DISTR DE ALIM LTDA - MG</xNome><enderEmit><xLgr>RUA BRUNO SIMILI,</xLgr><nro>0</nro><xBairro>DISTRITO INDUSTRIAL</xBairro><cMun>3136702</cMun><xMun>JUIZ DE FORA</xMun><UF>MG</UF><CEP>36092050</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>0017637710106</IE><CRT>3</CRT></emit><dest><CNPJ>09117341000116</CNPJ><xNome>DENILSON SOUZA DA SILVA</xNome><enderDest><xLgr>R BARAO DE POUSO ALEGRE</xLgr><nro>143</nro><xCpl>: C-LOJA 01,</xCpl><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137611821</fone></enderDest><indIEDest>1</indIEDest><IE>0010453000002</IE><email>denilsonsouza853@yahoo.com</email></dest><entrega><CNPJ>09117341000116</CNPJ><xLgr>R BARAO DE POUSO ALEGRE</xLgr><nro>143</nro><xCpl>: C-LOJA 01,</xCpl><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>4251</cProd><cEAN>7894904005550</cEAN><xProd>MORT. GOURMET DEFUMADA SEARA CX 2X5KG</xProd><NCM>16010000</NCM><CEST>1707800</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>KG</uCom><qCom>9.6000</qCom><vUnCom>13.9900000000</vUnCom><vProd>134.30</vProd><cEANTrib>7894904005550</cEANTrib><uTrib>KG</uTrib><qTrib>9.6000</qTrib><vUnTrib>13.9900000000</vUnTrib><vOutro>1.50</vOutro><indTot>1</indTot><xPed>1093000014</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>85.19</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>11.36</vICMSSubstituto><vICMSSTRet>15.33</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>134.30</vBC><pPIS>1.6500</pPIS><vPIS>2.22</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>134.30</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>10.21</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>134.30</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>2.22</vPIS><vCOFINS>10.21</vCOFINS><vOutro>1.50</vOutro><vNF>135.80</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete><vol><qVol>10</qVol><nVol>9.6</nVol><pesoL>9.600</pesoL><pesoB>9.600</pesoB></vol></transp><cobr><fat><nFat>53226</nFat><vOrig>135.80</vOrig><vDesc>0</vDesc><vLiq>135.80</vLiq></fat><dup><nDup>001</nDup><dVenc>2020-11-19</dVenc><vDup>135.80</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>135.80</vPag></detPag></pag><infAdic><infCpl>FANTASIA: PADARIA SAO SEBASTIAO//PONTO REF.://NUM TRANSACAO: 4122316//NUM PEDIDO: 1093000014 - NUM.PEDIDO CLIENTE ://CARREGAMENTO: 145987//ROTA: MINAS GERAIS - 5//COBRANCA:3415//ENDER:R BARAO DE POUSO ALEGRE//N:143//BAIRRO:SAO SEBASTIAO////ENTREGA//ENDERECO DE ENTREGA://N//- -//RJ - Imp Retido p/Subst. Trib. Conf art 27 a 29 Lv 2 RICMS - ES - Imp Retido p/Subst. Trib. Conf art//MG - Imp Retido p/Subst. Trib. Conf art - SP Imp Retido p/Subst. Trib. Conf art</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31201107427095000688550010000532261116870830"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>A4QfdGtEyAXASoS8XjPoYYqr+ik=</DigestValue></Reference></SignedInfo><SignatureValue>GfUpMuq8LSaTDPUcpf1e9o38WDZ3XoqYD6aRQralBGfQvjDsDaZSJu3M6+Ueux4huvScEjA2/KC6
+NsP5acgz0a04SN1hf0R9GU0gW5+gE9xqCq08Dw0EZFbQVpvav+/TPDt4J9yJxNxoXtW8TW/gjj3x
+9hFPvyE3PDLSEWVkWBpL6z04s6NRu4MgBcLESVGPmA7N/noGHiF4HB5roGRSQ6IVVr49opJ4soau
+06egEbqlSYkf3sNbB4lqe2jKPbYWI8dHsy1/ViFAjJSjnsOuzco726C+yD87BcT24euPQqiBzv47
+WRNBuaqNQklams+qieVKE0nS/MM64XJaPY5UNg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH3zCCBcegAwIBAgIIEMDzz1LLFB4wDQYJKoZIhvcNAQELBQAwdDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEYMBYGA1UEAxMPQUMgVkFMSUQgUkZCIHY1MB4XDTIwMDUyMDIwMDEx
+NloXDTIxMDUyMDIwMDExNlowggEDMQswCQYDVQQGEwJCUjELMAkGA1UECBMCUkoxFDASBgNVBAcT
+C1NBTyBHT05DQUxPMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMTYwNAYDVQQLEy1TZWNyZXRhcmlhIGRh
+IFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsTDVJGQiBlLUNOUEogQTEx
+FDASBgNVBAsTC0FSIENPTlNZU1RFMRcwFQYDVQQLEw4xMDk2NzU3MzAwMDE0MjE9MDsGA1UEAxM0
+TSBIIE0gRElTVFJJQlVJRE9SQSBERSBBTElNRU5UT1MgTFREQTowNzQyNzA5NTAwMDE3MzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANqeLmfkTnbLqlstm5C7pWaTGg0Ugr1eHEo53YsE
+ed+CsZDF7E+qGVbgxyiNOr7KkLoq3PrcbKgcIFx6+tb1d/NID2WKg7UUk6HjWnY1/gdAz52GsPOw
+BRam9uBlnjN8DydMnR/cDVl3mJP2hxsl7zm7oLISIE0AhbI/jWDny1oFnlEENGIckF6+SbaoIRWk
+g/R0d1NbNdb5KnHshnmxKf+Qr/9jGFjxXKJIA+Mm61r7GSznaSFiPPMi6/j1mm1t/d6xNG9glcPl
+DdFNJYgdUibQ8SnBsfVuJVIBsCuY1HUsktWygQGsssprrU3r+RuwZiH4GLUcPSGRs0zbDR2JYNEC
+AwEAAaOCAuIwggLeMIGcBggrBgEFBQcBAQSBjzCBjDBVBggrBgEFBQcwAoZJaHR0cDovL2ljcC1i
+cmFzaWwudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy12YWxpZHJmYi9hYy12YWxpZHJmYnY1
+LnA3YjAzBggrBgEFBQcwAYYnaHR0cDovL29jc3B2NS52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJy
+MAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUU8ul5HVQmUAsvlsVRcm+yzCqicUwcAYDVR0gBGkwZzBl
+BgZgTAECASUwWzBZBggrBgEFBQcCARZNaHR0cDovL2ljcC1icmFzaWwudmFsaWRjZXJ0aWZpY2Fk
+b3JhLmNvbS5ici9hYy12YWxpZHJmYi9kcGMtYWMtdmFsaWRyZmJ2NS5wZGYwgbYGA1UdHwSBrjCB
+qzBToFGgT4ZNaHR0cDovL2ljcC1icmFzaWwudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy12
+YWxpZHJmYi9sY3ItYWMtdmFsaWRyZmJ2NS5jcmwwVKBSoFCGTmh0dHA6Ly9pY3AtYnJhc2lsMi52
+YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2xjci1hYy12YWxpZHJmYnY1LmNy
+bDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIG2BgNVHREE
+ga4wgauBFWVkc29uQGZyaWdvY2VudGVyLmNvbaA4BgVgTAEDBKAvBC0xMjAzMTk4MTA5MDY5OTEw
+NzIxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgJAYFYEwBAwKgGwQZTEVPTkFSRE8gSEFNQkVS
+R0VSIE1PUkVUVKAZBgVgTAEDA6AQBA4wNzQyNzA5NTAwMDE3M6AXBgVgTAEDB6AOBAwwMDAwMDAw
+MDAwMDAwDQYJKoZIhvcNAQELBQADggIBALPEEXYa0om+nFK3ThE4yxELDChjl6YhYhiWnewnj5dA
+i7ojU4fWTW/s1f0ShjHas/PUs0uHJlvbOV6esFQ4x3Uv0o6AhsuBygjSC1mAfTuDl2+sTlDlOhTP
+rzozvaih2dvsKX/7L2x8U/nZm4oeylxeWgmukic+Eq5skMt48figy0B7vrzjxV9qyY2l3tgu/wyp
+0UPkJEx1HfBZPHHTTiO3tsxbk6yIp+LXkreO5n59IkDyV7xb55jJKtgt9wTASIOyJqu08Om6mM+m
+a5pr2mIgAk60iALffXoCKJEPT1/k95O2rRgqUpiFdQaDsN9NaS6FYx/ARGhj6dJwTjvuZbi5WCVJ
+07wOzaXxcmg7fCbJhys+2CgZSLo3fyLOgMhlM2ySnJiyWz6t/u3Rg5j73PbYDVncBtyi5gt31Cf2
+ov2ohGSQqfjRK9wsI/oxwA7ErccKEWFryxD/zj4jMrbupAhXWkWhHXRe1VZRhb63+5cRZzwuCAgO
+YhAszXWfT5STENA56HiE3JRn0JrvfjkxFYO8RgpEKpgt81fYynAs6vAp9SzEr60LWNavO17Qd09x
+90Q3vtreT+FVXzS8HVnxw8R6TlJW0U9L0tHWLfxQzTJCQP3RFdUv5+aLdYLx2DqGtrq9EiSgHdBK
+3SbOrtC3xdMCy5I3breqbe202yrhxZ/5</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203903859553">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.22-SE4</verAplic>
+  <chNFe>31201107427095000688550010000532261116870830</chNFe>
+  <dhRecbto>2020-11-12T21:51:04-03:00</dhRecbto>
+  <nProt>131203903859553</nProt>
+  <digVal>A4QfdGtEyAXASoS8XjPoYYqr+ik=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

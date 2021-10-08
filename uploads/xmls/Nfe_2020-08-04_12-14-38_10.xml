@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31200717467515000107550020015118751077799478"><ide><cUF>31</cUF><cNF>07779947</cNF><natOp>Remessa em bonificação, doação ou brinde</natOp><mod>55</mod><serie>2</serie><nNF>1511875</nNF><dhEmi>2020-07-17T19:31:46-03:00</dhEmi><dhSaiEnt>2020-07-20T04:00:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3157807</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC NFE 4.0</verProc></ide><emit><CNPJ>17467515000107</CNPJ><xNome>Cafe Tres Coracoes S.A</xNome><xFant>Café Três Corações Santa Luzia</xFant><enderEmit><xLgr>Avenida Brasília</xLgr><nro>5145</nro><xBairro>São Benedito</xBairro><cMun>3157807</cMun><xMun>Santa Luzia</xMun><UF>MG</UF><CEP>33170000</CEP><xPais>Brasil</xPais><fone>08005910232</fone></enderEmit><IE>5780158990009</IE><CRT>3</CRT></emit><dest><CNPJ>23809403000181</CNPJ><xNome>MERCEARIA SERFONS LTDA</xNome><enderDest><xLgr>RUA SANTA APOLONIA</xLgr><nro>00116</nro><xBairro>FONTE GRANDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137623187</fone></enderDest><indIEDest>1</indIEDest><IE>1835569290071</IE></dest><retirada><CNPJ>17467515004439</CNPJ><xNome>CAFE TRES CORACOES S.A</xNome><xLgr>RUA ANTONIO ENGRACIO PEREIRA</xLgr><nro>101 G01 MO</nro><xBairro>SITIO DOS BASTOS</xBairro><cMun>3171204</cMun><xMun>VESPASIANO</xMun><UF>MG</UF><CEP>33200000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><IE>5780158991749</IE></retirada><det nItem="1"><prod><cProd>000000000012016500</cProd><cEAN>7896490288812</cEAN><xProd>AMIDO MILHO KIM 25X200G</xProd><NCM>11081200</NCM><CFOP>5910</CFOP><uCom>KG</uCom><qCom>1.0000</qCom><vUnCom>11.2400000000</vUnCom><vProd>11.24</vProd><cEANTrib>7896490288812</cEANTrib><uTrib>UN</uTrib><qTrib>5.0000</qTrib><vUnTrib>2.2480000000</vUnTrib><indTot>1</indTot><xPed>0414028546</xPed><nItemPed>000010</nItemPed></prod><imposto><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>11.24</vBC><pICMS>18.0000</pICMS><vICMS>2.02</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISNT><CST>08</CST></PISNT></PIS><COFINS><COFINSNT><CST>08</CST></COFINSNT></COFINS></imposto><infAdProd>IPI Outras</infAdProd></det><total><ICMSTot><vBC>11.24</vBC><vICMS>2.02</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>11.24</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>11.24</vNF></ICMSTot></total><transp><modFrete>3</modFrete><transporta><CNPJ>17467515000107</CNPJ><xNome>CAFE TRES CORACOES SA</xNome><IE>5780158990009</IE><xEnder>AVENIDA BRASILIA 5145</xEnder><xMun>SANTA LUZIA</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>KG</esp><nVol>1.161</nVol><pesoL>1.000</pesoL><pesoB>1.161</pesoB></vol></transp><pag><detPag><tPag>90</tPag><vPag>0.00</vPag></detPag></pag><infAdic><infCpl>IPI Outras - Num. Pedido: 0414028546 - O prazo de validade desta nota fiscal e de 05 (cinco) dias, conforme autorizado pelo - RE/PTA n(o) 45.000001281-21 - SEF/MG em localidade acima de 100 km. - As mercadorias serao retiradas do Deposito Fechado, localizado a - Rua Antonio Engracio Pereira 101 Galpao G 01, Modulo 1 a 5 Bairro Sitio dos Bastos, - Vespasiano - MG, Inscricao Estadual n(o)578015899.17-49 CNPJ n(o) 17.467.515/0044-39.</infCpl></infAdic><infRespTec><CNPJ>17467515000107</CNPJ><xContato>MARCELO MESQUITA DOS SANTOS</xContato><email>MARCELO@3CORACOES.COM.BR</email><fone>00008005910232</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200717467515000107550020015118751077799478"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Xnbr/FpTtiZAJ0CoYPNj/rlyga8=</DigestValue></Reference></SignedInfo><SignatureValue>6GSkSkKyzmTMkQlekWxAD4luT7fUphIGaG1LdSeFWF+bifah+AwVak8EQsZyxmS0+DBof94OnR5V
+lg0mgHUy3QpGOJIhH+CdsSFnPgW72Fdzrdr2gzNk+PxQTO4Tf2C8mPQlA+8xGZIE7bSUVnBegSQK
+dQlJqiUNItOzKWMARTqUKKJ6GpsLhKF5VkZYO7+MBNXbY9BsLAloJV8mEfDMiKrE++Y3rfOg+MIm
+5oWNNFvx4bBwTaR6mJyxTrwf0KWhNQR1QIWlknxvQTFZG/RqcUriHPFV8McwOkVKmoAcp3pTyGyr
+8iUv0ubCo9Lw1ADBwXhSpZlz3maDTUBelMGtBQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH9TCCBd2gAwIBAgIQYW68FMH+hbojVoJIF8RsYjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTIwMDUyODE5NDkwM1oXDTIxMDUyODE5NDkwM1owgd4xCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJNRzEUMBIGA1UEBwwLU2FudGEgTHV6aWExNjA0BgNVBAsMLVNl
+Y3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECwwNUkZC
+IGUtQ05QSiBBMTEXMBUGA1UECwwOMTg3MzI2ODYwMDAxNzAxLjAsBgNVBAMMJUNBRkUgVFJFUyBD
+T1JBQ09FUyBTIEE6MTc0Njc1MTUwMDAxMDcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDzRIdZ4YoerssIrUw730rddYiDkedzzdE4N8myiqnu52/OvBmCy7fvlpGSpOozQD8JKyQVv2K9
+dcY5hdqCSbrculsF4adOT/MuB4k2SIoP4rS2ly9ypndsdSJAKeysUvNTVUyOCcpzrDnksQuWt+Gc
+z5woeSbtR+RnKzTqjxkEnkVG3FiXzqyeFjs6EdG+Sp01FdH9iyU0xaWwIedlDxsDZyzBJLxGjTFb
+5lk8d1PvLVIKBn0/66WplhjLyh9z7Ko7sKJv6FBXA/H6Oqu6W/n5P70d3lg/Hv010gdvXYFF2CBo
+ycPuuYOMfWk2U6jQhsjE39ZRlgU+StpWTqM24cyBAgMBAAGjggMSMIIDDjCBwQYDVR0RBIG5MIG2
+oDgGBWBMAQMEoC8ELTIxMDgxOTU4MTQyNzAxOTY0OTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+MKAvBgVgTAEDAqAmBCRST01FUk8gTk9WQUVTIE1BUlRJTlMgREUgQUxCVVFVRVJRVUWgGQYFYEwB
+AwOgEAQOMTc0Njc1MTUwMDAxMDegFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRVqYW5lQDNjb3Jh
+Y29lcy5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTfX+dvtFh0CC62p/jiacTc1jNQjB/
+BgNVHSAEeDB2MHQGBmBMAQIBDDBqMGgGCCsGAQUFBwIBFlxodHRwOi8vaWNwLWJyYXNpbC5jZXJ0
+aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fUkZCL0RQQ19BQ19DZXJ0
+aXNpZ25fUkZCLnBkZjCBvAYDVR0fBIG0MIGxMFegVaBThlFodHRwOi8vaWNwLWJyYXNpbC5jZXJ0
+aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5j
+cmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9s
+Y3IvQUNDZXJ0aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgawGCCsGAQUFBwEBBIGfMIGcMF8GCCsGAQUFBzAChlNo
+dHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2NlcnRpZmljYWRv
+cy9BQ19DZXJ0aXNpZ25fUkZCX0c1LnA3YzA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AtYWMtY2Vy
+dGlzaWduLXJmYi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQCTbapde3QMkEN2
+0WFelxrAYBc5Segdkx/+YsiTm5nHEDQVysT7k+8K3V4T7yNeiQT8vcvLOE0Ki4UZbLCnIKAb5PMA
+svU036NwqRcIx2AIXsVr0J/+IIkYolL75x2Z7+o8euvJW6THjUiwEk8QUKj+GkzD70OVfckeapQO
+T5IUaAXw+kb9g44LKGtsFG1+g70VzYRg6P+rhtIuqhgAN0s5IZszV9YMXz/LFD1/o5Fmkdous3O0
+92FWu1pmRHBPh058HVGoAfV/4J/F/GJo+dbWJmXcPyROqGSTMuyRabaKu4xrcrE18gOMT8DCm/Bz
+nyKCArsa4l24oylDrKfDAP+0TtpD5iK4L1vaaxUEub2PikUV7KAvvST0cVoSZcsrhYtl7hCS472D
+XpJeOBxUowp7mYNYjas2y1RJ/U3ngcuQyEyaFVnjYfXbuX4j5rwOwNpQHkrkBaTUAIB8HRdHY4Im
+7cP4dnmDTuF+NqK4zpKtieFcORaBfHJ6GGUKGz1YX7BlZUMNUHYJrxt1kLDS1LO8q4ce7WxBrzf0
+KrQ5sRQejJ9yeXlYct2o9MZKU6Sj/kVMNTiKtGo68sHaFrbtHk/dhZXQfrjdTcswsATYd3H6ajrS
+NvGwwBU9jEOwQOlniimMzAc7Wusm0vi7vAecSCa9KasyA25z544raeiIFJTWaA==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203750072861">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.15-MA1</verAplic>
+  <chNFe>31200717467515000107550020015118751077799478</chNFe>
+  <dhRecbto>2020-07-17T19:32:15-03:00</dhRecbto>
+  <nProt>131203750072861</nProt>
+  <digVal>Xnbr/FpTtiZAJ0CoYPNj/rlyga8=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

@@ -1,0 +1,51 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31210460892858000997550010001402251564313957" versao="4.00"><ide><cUF>31</cUF><cNF>56431395</cNF><natOp>VENDA SUBST TRIBUTARIA DENTRO DO ESTADO</natOp><mod>55</mod><serie>1</serie><nNF>140225</nNF><dhEmi>2021-04-16T15:32:00-03:00</dhEmi><dhSaiEnt>2021-04-16T15:32:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>3</indPres><procEmi>0</procEmi><verProc>4.1.2</verProc></ide><emit><CNPJ>60892858000997</CNPJ><xNome>ACCIOLY IMP. E COM. DE AUTO PECAS LTDA</xNome><enderEmit><xLgr>R. DOS GOITACAZES, 1872</xLgr><nro>Vide logradouro</nro><xBairro>BARRO PRETO</xBairro><cMun>3106200</cMun><xMun>BELO HORIZONTE</xMun><UF>MG</UF><CEP>30190055</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3125761150</fone></enderEmit><IE>0028627160066</IE><CRT>3</CRT></emit><dest><CNPJ>03872722000124</CNPJ><xNome>AVS-MOTORS LTDA</xNome><enderDest><xLgr>R. CEFISA VIANA, 251</xLgr><nro>Vide logradouro</nro><xBairro>SANTA BRANCA</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137632143</fone></enderDest><indIEDest>1</indIEDest><IE>1830927300004</IE><email>avsmotorsltda@gmail.com</email></dest><det nItem="1"><prod><cProd>84652020</cProd><cEAN>SEM GTIN</cEAN><xProd>MANGUEIRA         B              - GM</xProd><NCM>40094290</NCM><CEST>0108800</CEST><CFOP>5405</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>800.5800</vUnCom><vProd>800.58</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>800.5800</vUnTrib><vDesc>160.12</vDesc><indTot>1</indTot></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>696.00</vBCSTRet><pST>0.00</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>73.47</vICMSSTRet></ICMS60></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>800.58</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>160.12</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>640.46</vNF></ICMSTot></total><transp><modFrete>1</modFrete><transporta><CNPJ>20721450000180</CNPJ><xNome>AGILE TRANSPORTES E ENCOMENDAS L</xNome><IE>0024010610050</IE><xEnder>R.VIANA DO CASTELO, 700</xEnder><xMun>BELO HORIZONTE</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><esp>VOLUMES</esp><pesoL>2</pesoL><pesoB>2</pesoB></vol></transp><pag><detPag><tPag>99</tPag><vPag>640.46</vPag></detPag></pag><infAdic><infAdFisco>ICMS RETIDO POR SUBST. TRIBUTARIA, CONF. ART. 12 DO ANEXO XV -#RICMS/MG.#Imposto Recolhido por Substituicao - Decreto n 43.080/02 RICMS/MG - anexo XV#Capitulo III - Subsecao V- Art. 32.#BC ST retido: R$ 696,00; Valor ST retido: R$ 73,47</infAdFisco><infCpl>[b][u] PAGAMENTO EXCLUSIVAMENTE COM A DUPLICATA EM PODER DO BANCO ITAU S.A.     NAO RECEBENDO O BOLETO, ENTRAR EM CONTATO#O PAGAMENTO APOS VENCIMENTO, INCIDE JUROS.#Vendedor:410-LUIZ        BALCAOBH     002             Pedido:  166167                     RODNEY                                      15:31 15:35#[b]PRAZO VARIA DE ACORDO COM O VOLUME DE COMPRA NO PERIODO                               http://clientes.acciolygm.com.br#[b]DEVOLUCOES SOMENTE SERAO ANALISADAS E AUTORIZADAS EM 48 HORAS#[b][u]*** O CREDITO DE DEVOLUCOES SERA CONCEDIDO APENAS NO PROXIMO FATURAMENTO ***#A fatura contendo esta NFe sera' enviada por e-mail conforme cadastro</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31210460892858000997550010001402251564313957"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>SnmTGJYdI34NHjHH66K61vnR6+Q=</DigestValue></Reference></SignedInfo><SignatureValue>QFDZT/tmG95EmLuxUdYKbsw138n5GE64bhyizcYuWRX0a1kmy4d5L34u/2DEFKoz90h2q+GnUksI
+s1SOOS0QOuFYZbE0lDCaAyr17h9GqpFZV9xAWQzIwk0MEFmgBVQrabJ1wOMliTPmrA7Qxf3OPTL/
+ydnRUKoM+NF/K3rbJ2WufBjbO4SyHt1gUuV4qBl/ra9NKAfbdmyYTLhZvPUyi3lKxaiRCuZArsa/
+iV85JoHc1r7nYAxjYl8aJtgFnYqxcwa2UwH3BXjjUutZ9+JqENSt/ZIJVqfqIcqdCU0+XrO/SYGN
+T65Pk0szjmHofbRfMvtrLr2veXVrYxTXFGiSyA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIPDCCBiSgAwIBAgIIEH8xr4caqUMwDQYJKoZIhvcNAQELBQAwdTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAwwQQUMgU0VSQVNBIFJGQiB2NTAeFw0yMDA1MTYxMzA3
+MDBaFw0yMTA1MTYxMzA3MDBaMIIBRjELMAkGA1UEBhMCQlIxCzAJBgNVBAgMAlNQMRIwEAYDVQQH
+DAlTQU8gUEFVTE8xEzARBgNVBAoMCklDUC1CcmFzaWwxGDAWBgNVBAsMDzAwMDAwMTAwOTU5NDUz
+NDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZC
+MRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMRkwFwYDVQQLDBBBQyBTRVJBU0EgUkZCIHY1MRcwFQYD
+VQQLDA4xNDYwMjI2OTAwMDE1MjEZMBcGA1UECwwQQVIgQTdZVEVDTk9MT0dJQTFIMEYGA1UEAww/
+QUNDSU9MWSBJTVBPUlRBQ0FPIEUgQ09NRVJDSU8gREUgQVVUTyBQRUNBUyBMVERBOjYwODkyODU4
+MDAwMTMwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4DJ0syjc6IpFby40xmtCXEK
+xRgDCzlrAonhd/xo4ySlDPGCItr+Pq9BFP1WyrdlC5pmVnjBvRw1oBNo2BqCFYjXsHim0h70sh8/
+BU9Cp+qLK5OtYOdu948A9qy4NKTEs6P8sYLIblwotxyV06CFyN7xlZR8F7tWPph/2GcQS1Jh08m6
+1/MDX9Uw1dBalWPuKs93ob61b3sf3+6wp5tNKH/dc7ZTA9v4239mhDC91i6lePFen1VJedwf+Yyy
+G2pE4RcfTtleGm0SR3nwIv2Sg2Nuw7L26QpCrmcLOCF2qRTEUDXww7pUpyvKoPMUhgJbnnNqxodH
+d4AZIjhzxKIIbwIDAQABo4IC+zCCAvcwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBTs8UFRV6jmOule
+s6Ai+QiKtTqHjzCBmQYIKwYBBQUHAQEEgYwwgYkwSAYIKwYBBQUHMAKGPGh0dHA6Ly93d3cuY2Vy
+dGlmaWNhZG9kaWdpdGFsLmNvbS5ici9jYWRlaWFzL3NlcmFzYXJmYnY1LnA3YjA9BggrBgEFBQcw
+AYYxaHR0cDovL29jc3AuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9zZXJhc2FyZmJ2NTCBywYD
+VR0RBIHDMIHAgSJKRUZGRVJTT04uU0FOVEFOQUBBQ0NJT0xZR00uQ09NLkJSoCcGBWBMAQMCoB4T
+HENBUkxPUyBMVUlaIFBPRUlSQVMgQVNTVU5DQU+gGQYFYEwBAwOgEBMONjA4OTI4NTgwMDAxMzCg
+PQYFYEwBAwSgNBMyMjMxMTE5NDkwNjMxOTk3MTk5MTAwMDAwMDAwMDAwMDAwMDAwMDA2MjMxMzE0
+U1NQU1CgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMHEGA1UdIARqMGgwZgYGYEwBAgENMFwwWgYI
+KwYBBQUHAgEWTmh0dHA6Ly9wdWJsaWNhY2FvLmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVw
+b3NpdG9yaW8vZHBjL2RlY2xhcmFjYW8tcmZiLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwgZ0GA1UdHwSBlTCBkjBKoEigRoZEaHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwu
+Y29tLmJyL3JlcG9zaXRvcmlvL2xjci9zZXJhc2FyZmJ2NS5jcmwwRKBCoECGPmh0dHA6Ly9sY3Iu
+Y2VydGlmaWNhZG9zLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhcmZidjUuY3JsMB0GA1Ud
+DgQWBBT14+bg0oGqJiz+DRPElnniRJAqmzAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQAD
+ggIBABPVCHY5DcAjqWqerLUyxfB3GpLDQkRyywBkHt/iSjCGZUfutq7IQJS2fn5/7jXECo+fKGKC
+hvAMJwXoApj+YjVGfhFNuMYUFlC6WvKuS1Katg8fGM3PUWmZsHFj277UKQgfmORAAr00NKgDzuGD
+HRXkssTyOX+nWlp3qh0SAbi7gjPfAU2jvoazHb/NkZATjiDq7QUtSRQyw4+uaP6tRO8Wai+70QM9
+SQ3q0/9moz/LdQaOlpPN+pxYZZDXNKf7nHL38xhkOZtydNERfMuQjf/s/70nG0qHOWqzsIn5CX8F
+3vbS6Mcpe+KD6s9JP33OJGCbUDBiCdhZOWmHlRDjjUkK89tTTXebvK8PWQV4xzI791rR0eJGj3uD
+UCHRhAZwmDKOG7389ofcAJf9whgJTAoRzhazHHsOZn64GAlOr0L45OztsnezUNjxn04fm3QOXD/a
+7qwRubjfKEH1jldSCU/A26i8GGo7XGUM9XjNqk1uwXNE2UkzOfJB8psBeffR6fEORg5O7pM16aPv
+hdsmGcPUQTiq9BtPRJG36UKPr5VG680Nt8CCvdR1+KC1hF8lBw9zc1JjE2tF1weBymERDmpjNCyz
+fUqEfIhZCiHwIc3ptw1+X52IzE4XcUo37IzQkQuaj6NuMkjJz9T9cGYfyaTxTnE0RenplhGPGcuN
+br6k</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131214117339868">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.26-SE6</verAplic>
+  <chNFe>31210460892858000997550010001402251564313957</chNFe>
+  <dhRecbto>2021-04-16T15:37:49-03:00</dhRecbto>
+  <nProt>131214117339868</nProt>
+  <digVal>SnmTGJYdI34NHjHH66K61vnR6+Q=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

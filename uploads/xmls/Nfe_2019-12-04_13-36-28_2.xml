@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31191117159518000175550010029610771029767137" versao="4.00"><ide><cUF>31</cUF><cNF>02976713</cNF><natOp>Venda producao do estabelecimento</natOp><mod>55</mod><serie>1</serie><nNF>2961077</nNF><dhEmi>2019-11-07T19:11:25-03:00</dhEmi><dhSaiEnt>2019-11-07T19:11:25-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC NFE 10.0</verProc></ide><emit><CNPJ>17159518000175</CNPJ><xNome>Domingos Costa Industrias Alimentic S/A</xNome><xFant>Domingos Costa Ind. Alim. S.A</xFant><enderEmit><xLgr>Pca. Louis Ensch</xLgr><nro>160</nro><xBairro>CIDADE INDUSTRIAL</xBairro><cMun>3118601</cMun><xMun>CONTAGEM</xMun><UF>MG</UF><CEP>32210050</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3133683300</fone></enderEmit><IE>1860015820028</IE><CRT>3</CRT></emit><dest><CNPJ>38474441000106</CNPJ><xNome>GERALDO DA CONSOLACAO CONDE</xNome><enderDest><xLgr>PRACA SAO SEBASTIAO</xLgr><nro>83</nro><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36406015</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137615195</fone></enderDest><indIEDest>1</indIEDest><IE>1836732800038</IE></dest><det nItem="1"><prod><cProd>000000000000215018</cProd><cEAN>17896417201402</cEAN><xProd>FARINHA MASSA FRESCA E PASTEL 3X5 KG</xProd><NCM>11010010</NCM><CEST>1704424</CEST><CFOP>5101</CFOP><uCom>FD</uCom><qCom>4.0000</qCom><vUnCom>38.7600000000</vUnCom><vProd>155.04</vProd><cEANTrib>7896417201405</cEANTrib><uTrib>UN</uTrib><qTrib>4.0000</qTrib><vUnTrib>38.7600000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS20><orig>0</orig><CST>20</CST><modBC>3</modBC><pRedBC>61.1100</pRedBC><vBC>60.30</vBC><pICMS>18.0000</pICMS><vICMS>10.85</vICMS></ICMS20></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>01</CST></IPINT></IPI><PIS><PISNT><CST>08</CST></PISNT></PIS><COFINS><COFINSNT><CST>08</CST></COFINSNT></COFINS></imposto><infAdProd>Reducao da base/Isencao ou nao sujeicao a IPI/RED. B.C CONF. ART 43 E ALIENA A1, ITEM 19 DO ANEXO IV DEC. 43080/02/PRAZO DE VALIDADE DE 10 (DEZ) DIAS, IMPRORROGAVEL, RE/PTA No 45.000012147-21 DF CONTAGEM/TOTAL VFCP = R$ 0.00 E VFCPST = R$ 0.00 Codigo do CIOT: 123037907648/4700</infAdProd></det><total><ICMSTot><vBC>60.30</vBC><vICMS>10.85</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>155.04</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>155.04</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CPF>01255526610</CPF><xNome>CLEITON JUNIO VIEIRA MATIAS</xNome><xEnder>RUA DOS ESPANHOIS 5279</xEnder><xMun>CONTAGEM</xMun><UF>MG</UF></transporta><vol><qVol>4</qVol><esp>FD</esp><pesoL>60.000</pesoL><pesoB>62.000</pesoB></vol></transp><pag><detPag><tPag>15</tPag><vPag>155.04</vPag></detPag></pag><infAdic><infCpl>FRETE: Valor Servico R$ 770,50 Base de calculo: R$ 770,50 Aliquota: 0,00% Valor de imposto Retido: R$0,00 TOTAL VFCP = R$ 0.00 E VFCPST = R$ 0.00</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31191117159518000175550010029610771029767137"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>S8dF/yEvktTIbvI8RbuEutqgDC8=</DigestValue></Reference></SignedInfo><SignatureValue>dVed5Qg4gBP4AdeSMMMKB1LAj0wb605lq/Bey5pTo4XDEJS1HNDJKBvAVkZ/SQSSjzKxWa5F+cjc
+EjrmsO1QgxjuDuNqp0aOWM5kcig7VlRoKYMA8YuonwCO63ijs7jYByg2/CXM4kc5bqoyyRPB6sSD
+fsnaH/8uasbt0KLqstpOVqGMYlfTCVXC2wId48m5n4e2+jdCyUsa+XsnwKnHQbTmGVJI5GXs3YQ7
+kXc2KTEBmRdxYl2hMxq3HC07bcrk9Dh4HBx4md9QOTfIhV05sPCmX6N+Hih4WFGlK0NTYAoLAAuz
+pB8bPizQNbJwZ1FrLhCVpPeTc4SoTBjLfvL/OQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHqDCCBZCgAwIBAgIIFqy/QgzjNI8wDQYJKoZIhvcNAQELBQAwdTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAwwQQUMgU0VSQVNBIFJGQiB2NTAeFw0xODEyMTIxMjE5
+MDBaFw0xOTEyMTIxMjE5MDBaMIHpMQswCQYDVQQGEwJCUjELMAkGA1UECAwCTUcxETAPBgNVBAcM
+CENPTlRBR0VNMRMwEQYDVQQKDApJQ1AtQnJhc2lsMTYwNAYDVQQLDC1TZWNyZXRhcmlhIGRhIFJl
+Y2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBlLUNOUEogQTExEjAQ
+BgNVBAsMCUFSIFNFUkFTQTFBMD8GA1UEAww4RE9NSU5HT1MgQ09TVEEgSU5EVVNUUklBUyBBTElN
+RU5USUNJQVMgU0E6MTcxNTk1MTgwMDAxNzUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCAsZ/AUg3K5thlQInD/5pfvobMY6kElF8Qob54E4JgV4Hig2Jih3skWV46N7GJLyqx5ZHmXned
+LMxrPfJfLKyS2kr4K1+QSrSntzcOdVVOM/b2xvG6GRD4S7XmKXJbLh8a60M+29xeqUbQoVi5vQz7
+QuJUuK7lzRcoYv7jjV4zFNJ2khqmvouxcZ9LBi1Yp9VwgEqPZzZpIKMTe1Csur4m9X13P1oN95qJ
+oF2RnCNziGkIpT2n9ZAK4Cx9FL5MUEM9PcW7yKiiewFRGrRhGvYh8mTaD6I5kSmQeO+KdUOH+jlF
+JyxrOa8kHZ+fAwBCvK1L3kxf5EODn7DLgNpYJ1tTAgMBAAGjggLFMIICwTAJBgNVHRMEAjAAMB8G
+A1UdIwQYMBaAFOzxQVFXqOY66V6zoCL5CIq1OoePMIGZBggrBgEFBQcBAQSBjDCBiTBIBggrBgEF
+BQcwAoY8aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJyL2NhZGVpYXMvc2VyYXNh
+cmZidjUucDdiMD0GCCsGAQUFBzABhjFodHRwOi8vb2NzcC5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29t
+LmJyL3NlcmFzYXJmYnY1MIG0BgNVHREEgawwgamBE0ZJU0NBTEBWSUxNQS5DT00uQlKgIAYFYEwB
+AwKgFxMVUEFUUklDSUEgTUFDRURPIENPU1RBoBkGBWBMAQMDoBATDjE3MTU5NTE4MDAwMTc1oDwG
+BWBMAQMEoDMTMTE3MDYxOTc5MDEyNTk2ODU2NjcwMDAwMDAwMDAwMDAwMDAwME1HNjYxNTQ3MVBD
+TUegFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMHEGA1UdIARqMGgwZgYGYEwBAgENMFwwWgYIKwYB
+BQUHAgEWTmh0dHA6Ly9wdWJsaWNhY2FvLmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3Np
+dG9yaW8vZHBjL2RlY2xhcmFjYW8tcmZiLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUH
+AwQwgZ0GA1UdHwSBlTCBkjBKoEigRoZEaHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29t
+LmJyL3JlcG9zaXRvcmlvL2xjci9zZXJhc2FyZmJ2NS5jcmwwRKBCoECGPmh0dHA6Ly9sY3IuY2Vy
+dGlmaWNhZG9zLmNvbS5ici9yZXBvc2l0b3Jpby9sY3Ivc2VyYXNhcmZidjUuY3JsMA4GA1UdDwEB
+/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEAIHjXg3OLrmap94ZC+4YASNG6poVi4k6I2Fab8vrx
+CEpKmjv2Bai0a//0V77/d0M34bwaH/3z7Tro1ZaYTJgy1j+VojpvPBrxems+XoHIM/mzJL3IwsOO
+kNlXxxF0p2uMJjYv44RvzhhFC6FMmVYvINJ9KPRHts73Cp+CE1sHjLx96lH8dnP6sdMExmIuTGUU
+fvlHDjN/ktvrurcrt+gwacfcFEPHpMrmiJrTKFIIszPiM6TKTBMqUJAZZD86jZjwu55dv/soJQ9y
+qzT7VLoN6IUHH9asZ5Jvut+ex19d51G9uSjLNwhS8/9UTG77Y5K/+dLF04CwiX+NJs5ZOzvx/Cy4
+/+ENQqDJPHjEt3JkBl/JZ679kFcBOuAkj005jOVAAajz7XHeWGIEOYmwdq2Msrs8o3RwGeOGVWoc
+/qVsOgBR4D5aFWEWvkmOBG0aRegfXH4CUpkgfn1QiEGhHirY3ix2D6qD/Lo1eiaahsBKfbbdLQae
+X6T7+n9DTi69uzNqCHlcKF+67zxdfMRkNRF/SWaP5Xm/ixG9J5CrTCAEWnIivMbza191yDX6M+CP
+toKcMnlWKMdHVDgCHBw3fwMjgYjfFSAhIchMBXOD7Am10tlXnQJAIfSPrDNQ8pPXOy6pFOVPbdOO
+kmiIbjyFTRHfuNjQlDA9JujiFV/8qFi7CjU=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193478421773">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.6</verAplic>
+  <chNFe>31191117159518000175550010029610771029767137</chNFe>
+  <dhRecbto>2019-11-07T19:11:23-03:00</dhRecbto>
+  <nProt>131193478421773</nProt>
+  <digVal>S8dF/yEvktTIbvI8RbuEutqgDC8=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

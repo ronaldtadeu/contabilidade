@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190942873091000110550010026253761112657668" versao="4.00"><ide><cUF>31</cUF><cNF>11265766</cNF><natOp>VENDA MERC DENTRO ESTADO</natOp><mod>55</mod><serie>1</serie><nNF>2625376</nNF><dhEmi>2019-09-03T23:05:00-03:00</dhEmi><dhSaiEnt>2019-09-03T23:05:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3116605</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.116</verProc></ide><emit><CNPJ>42873091000110</CNPJ><xNome>COMERCIO REPRESENTACOES CECOTI LTDA</xNome><xFant>CECOTI</xFant><enderEmit><xLgr>ROD MG 260 KM 35 S/N</xLgr><nro>0</nro><xBairro>ZONA RURAL</xBairro><cMun>3116605</cMun><xMun>CLAUDIO</xMun><UF>MG</UF><CEP>35530000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>03733819400</fone></enderEmit><IE>1668120300056</IE><CRT>3</CRT></emit><dest><CNPJ>21089693000100</CNPJ><xNome>NUNES SORVETE LTDA</xNome><enderDest><xLgr>RUA FREI EUSTAQUIO, 10</xLgr><nro>10</nro><xBairro>LOURDES</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137623704</fone></enderDest><indIEDest>1</indIEDest><IE>1832784850075</IE><email>fabrica@iglusorveteria.com.br</email></dest><entrega><CNPJ>21089693000100</CNPJ><xLgr>RUA FREI EUSTAQUIO, 10</xLgr><nro>10</nro><xBairro>LOURDES</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>5419</cProd><cEAN>7896699306805</cEAN><xProd>BASE LACTEA 1287 CULINARIO PURELAC 25KG</xProd><NCM>19019090</NCM><CFOP>5102</CFOP><uCom>SC</uCom><qCom>1.0000</qCom><vUnCom>343.5637830000</vUnCom><vProd>343.56</vProd><cEANTrib>7896699306805</cEANTrib><uTrib>SC</uTrib><qTrib>1.0000</qTrib><vUnTrib>343.5637830000</vUnTrib><vOutro>1.80</vOutro><indTot>1</indTot><xPed>652014630</xPed><nItemPed>1</nItemPed></prod><imposto><vTotTrib>108.05</vTotTrib><ICMS><ICMS00><orig>5</orig><CST>00</CST><modBC>3</modBC><vBC>345.36</vBC><pICMS>18.0000</pICMS><vICMS>62.16</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISNT><CST>06</CST></PISNT></PIS><COFINS><COFINSNT><CST>06</CST></COFINSNT></COFINS></imposto><infAdProd>VL.APROX.TRIB. FEDERAL: 108.05</infAdProd></det><total><ICMSTot><vBC>345.36</vBC><vICMS>62.16</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>343.56</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>1.80</vOutro><vNF>345.36</vNF><vTotTrib>108.05</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>42873091000110</CNPJ><xNome>COMERCIO E REPRESENTACOES CECOTI LTDA</xNome><IE>1668120300056</IE><xEnder>ROD MG 260 KM 35 S/N, - ZONA RURAL</xEnder><xMun>CLAUDIO</xMun><UF>MG</UF></transporta><vol><qVol>1</qVol><nVol>1</nVol><pesoL>25.000</pesoL><pesoB>25.200</pesoB></vol></transp><cobr><fat><nFat>2625376</nFat><vOrig>345.36</vOrig><vDesc>0</vDesc><vLiq>345.36</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-09-24</dVenc><vDup>345.36</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>345.36</vPag></detPag></pag><infAdic><infCpl>Num. Carreg.: 303785 Num. Trans.: 4285884//Cd. Cob.: 341 Prazo: 21 DIAS RCA: 652 - FRANCIS JUNIO AZEVEDO DA SILVA//Dados Entrega: RUA FREI EUSTAQUIO, 10 10//LOURDES CONSELHEIRO LAF MG//Obs. Entrega: ENTR. 09:00 AS 16:00//CLIENTE: IGLU SORVETES//RESSARSCIMENTO P/INDUSTRIA : A INDUSTRIA Q UTILIZA O PRODUTO COMO INSUMO PODERA APROPRIAR-SE DO VALOR DO IMPOSTO A TITULO DE ST RECOLHIDO ANTERIORMENTE DE ACORDO COM O ARTIGO 37 DO ANEXO XV RICMS/02.</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190942873091000110550010026253761112657668"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OyJfOcnnHfauiW3HayHDGIlfkks=</DigestValue></Reference></SignedInfo><SignatureValue>MMlaw079PbaTGUKbdSGuP7PIGYcHbyAE7BEJBknABVxTAA9eutLqUQm61TwgxhvRsC64Huxwg7+z
+B8tIZ7mxJcL3U1llb66rgvRDfbm9/0jsCyANE2FQxH6yUnKTRY03k5CO0GGqlyADI0TuyEGvzoeZ
+j0Tc42u4Ie1dJQIw9oUnK+VSzbh0Zc2jgqMHi3h+AI5UuC+G2Cw92JCjVePuE8f/dE4PhcG+/CD5
+ebB1xMWzL+Y6pbsC65q3jB5yuo5wKlJSBI6A/K3AC8fLzi2TglGRgCevMO8uEPlLuRs/Ofcfy9Od
+qHhESdWR2lpdTdRDB8ZAbGSe4HyE9YDumXCUlg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHvjCCBaagAwIBAgIIMf8ZARA0E6owDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0xOTAxMTUxMDE2MzBaFw0yMDAxMTQxODUzMDBaMIHkMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMT0wOwYDVQQDEzRDT01FUkNJTyBF
+IFJFUFJFU0VOVEFDT0VTIENFQ09USSBMVERBOjQyODczMDkxMDAwMTEwMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAvofnoko1/3He+ge7zT2sYm3qN1ps0fZ1e05561qVUTOW2SbO5mhm
+Wgnk9fR4C8az8qb1wu1WuODFzVZ158chXSV4b/ID7eJt7JzZ0oMXL0RJiCZCcaMDGi29RAJwEs4g
+yHBSuKuy3i0EAICeQQAvK9Nr4zb1eCTJ3EQxTp0a88eYxHb/j9iJp+sRZZ0PKuvvjmViYqHSWemo
+xnMU8PgWywyjhxJIbQO0CBK+Tg6nNZHaY04TcoRL3Xk0ru1lFNZE24y4KbROoSd9VVP+3/ICUTOa
+uXfnV7Lfa6HBnRwgsgQc+zCCVadPa6yd/YHJk/e0EQM/XXxjxbTsu14BpBykRQIDAQABo4ICyzCC
+AscwVAYIKwYBBQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vY2NkLmFjc29sdXRpLmNvbS5i
+ci9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXYxLnA3YjAdBgNVHQ4EFgQUcanw9W0sYWcPJHv9zwY6
+lRAVRcswCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQ1rjEU9l7Sek9Y/jSoGmeXCsSbBzBeBgNVHSAE
+VzBVMFMGBmBMAQIBJjBJMEcGCCsGAQUFBwIBFjtodHRwczovL2NjZC5hY3NvbHV0aS5jb20uYnIv
+ZG9jcy9kcGMtYWMtc29sdXRpLW11bHRpcGxhLnBkZjCB3gYDVR0fBIHWMIHTMD6gPKA6hjhodHRw
+Oi8vY2NkLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXYxLmNybDA/oD2g
+O4Y5aHR0cDovL2NjZDIuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjEu
+Y3JsMFCgTqBMhkpodHRwOi8vcmVwb3NpdG9yaW8uaWNwYnJhc2lsLmdvdi5ici9sY3IvQUNTT0xV
+VEkvYWMtc29sdXRpLW11bHRpcGxhLXYxLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMEMIGzBgNVHREEgaswgaiBFGZpc2NhbEBjZWNvdGkuY29tLmJyoB0G
+BWBMAQMCoBQTEkpPUkdFIENMQVVESU8gQ09HT6AZBgVgTAEDA6AQEw40Mjg3MzA5MTAwMDExMKA9
+BgVgTAEDBKA0EzIyNTAxMTk3NDE3Mjk0MzY4ODk5MDAwMDAwMDAwMDAwMDAwMDAwNTMxOTUwOTFT
+U1BQUqAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAABsCks4ZmWW
+trJEJUsSMAJkB2DQ8A3hUXIucl0VBN+OxHtHpcUvhTLKK9tq6gNSQi2GbeV2ZEcDlRIEKOj2XT73
+6n4UQWBfAtXO2gFZs/djp9Nzre5gDJMljoYDXgJ1FugrRRdtSi07ahZvihgoFYtRjjdIW8MwRjD5
+ep/uJHwufZ4iLhu6AZdKrqX+jyrisPxRrkLC7JpX3jPT8D6SeCskzmut9R44klzf7cCnAJcpcY4f
+wyFp7ajgtuwtd+A6lYan09Af6uYoKnLPsQI7LlwkzPoB49MduXxfjL3Nh40EKlQr6nFXTv0glEg8
+DUCzoT5xBApwDYhd0Q/LsJiTE5ysvcnfvX0E/VALmM7u8meUp4JFCDeBqhizEK7Nj7ir6xbe1y0X
+64n9RNLGzAKH26ctSElFC8jZWPyMZyvOmhPUr/CfI/dtagu+c3AzLNO1pEaj6848DDHDoMBOJPBr
+P43S2puonPu1/zpIId9BfztVSKAXL65izw2ESj7V8MYGI9jBcE8TxC8lt70Rr5s8DnSflG/J7fqs
+XkNFdoYCN6Tq3vBy4k+xn+0Maeh6OV3Bi9UNbRuOuTVVEEO2dRZ2wHjdtHg4yYRCECB1C+3X/7Nc
+vp3KfpDsyzrESAoN12X7X2VzIB6wC5Hn8J7BoAEc+30jzoC++zr2MoSvtkDzTQJU</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193407564945">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190942873091000110550010026253761112657668</chNFe>
+  <dhRecbto>2019-09-03T23:04:38-03:00</dhRecbto>
+  <nProt>131193407564945</nProt>
+  <digVal>OyJfOcnnHfauiW3HayHDGIlfkks=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

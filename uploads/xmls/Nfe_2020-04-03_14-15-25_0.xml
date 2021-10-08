@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe versao="4.00" Id="NFe31200202558157047126550310007780801093716312"><ide><cUF>31</cUF><cNF>09371631</cNF><natOp>Vnd.mer.adq.rec.ter.mer.suj.sub.tri.con.con.sb..</natOp><mod>55</mod><serie>31</serie><nNF>778080</nNF><dhEmi>2020-02-13T09:35:07-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118601</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP NF-E 10.0</verProc></ide><emit><CNPJ>02558157047126</CNPJ><xNome>TELEFONICA BRASIL S/A</xNome><xFant>CD Minas Gerais</xFant><enderEmit><xLgr>Rua Nove</xLgr><nro>180</nro><xCpl>Sala 01</xCpl><xBairro>Jardim Riacho das Pedras</xBairro><cMun>3118601</cMun><xMun>Contagem</xMun><UF>MG</UF><CEP>32250080</CEP><xPais>Brasil</xPais><fone>31074200000</fone></enderEmit><IE>0621904680045</IE><CRT>3</CRT></emit><dest><CNPJ>68537265000167</CNPJ><xNome>TORQUATO &amp; CARVALHO CONFEITARIA LTD</xNome><enderDest><xLgr>AVENIDA PREFEITO TELESFORO CANDIDO DE REZENDE</xLgr><nro>219</nro><xBairro>CENTRO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais></enderDest><indIEDest>1</indIEDest><IE>1838207520038</IE></dest><det nItem="1"><prod><cProd>DGAP08262000</cProd><cEAN>190198772374</cEAN><xProd>APPLE IPHONE XR 128GB PRETO PPB/PI643/10</xProd><NCM>85171231</NCM><CEST>2804300</CEST><CFOP>5405</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>6159.0000000000</vUnCom><vProd>6159.00</vProd><cEANTrib>190198772374</cEANTrib><uTrib>UN</uTrib><qTrib>1.0000</qTrib><vUnTrib>6159.0000000000</vUnTrib><vDesc>2094.00</vDesc><indTot>1</indTot><xPed>1-722395806518-</xPed></prod><imposto><vTotTrib>376.01</vTotTrib><ICMS><ICMS60><orig>4</orig><CST>60</CST><vBCSTRet>3874.07</vBCSTRet><pST>12.0000</pST><vICMSSubstituto>393.97</vICMSSubstituto><vICMSSTRet>311.24</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>01</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>4065.00</vBC><pPIS>1.6500</pPIS><vPIS>67.07</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>4065.00</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>308.94</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>(-) Desconto 2094.00- /</infAdProd></det><det nItem="2"><prod><cProd>YGSC234A3000</cProd><cEAN>7898575222230</cEAN><xProd>SIM CARD 4G 2/3/4FF AVULSO P59 OLHAL MG</xProd><NCM>85235290</NCM><CEST>2106400</CEST><CFOP>5405</CFOP><uCom>UN</uCom><qCom>3.0000</qCom><vUnCom>15.0000000000</vUnCom><vProd>45.00</vProd><cEANTrib>7898575222230</cEANTrib><uTrib>UN</uTrib><qTrib>3.0000</qTrib><vUnTrib>15.0000000000</vUnTrib><indTot>1</indTot><xPed>1-722395806518-</xPed></prod><imposto><vTotTrib>4.16</vTotTrib><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>2.84</vBCSTRet><pST>12.0000</pST><vICMSSubstituto>0.84</vICMSSubstituto><vICMSSTRet>0.69</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>01</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>45.00</vBC><pPIS>1.6500</pPIS><vPIS>0.74</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>45.00</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>3.42</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>Imposto retido por S.T. conforme convenios ICMS 135/06 e 104/07 Prot.192/2009 Operacao Tributavel - Base de Calculo = Valor da Operacao Aliquota Normal (Cumulativo/Nao Cumulativo) Operacao Tributavel - Base de Calculo = Valor da Operacao Aliquota Normal (Cumulativo/Nao Cumulativo) SIM CARD 4G 2/3/4FF AVULSO P59 OLHAL MG CONTEM:</infAdProd></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>6204.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>2094.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>67.81</vPIS><vCOFINS>312.36</vCOFINS><vOutro>0.00</vOutro><vNF>4110.00</vNF><vTotTrib>380.17</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete></transp><pag><detPag><indPag>0</indPag><tPag>99</tPag><vPag>4110.00</vPag></detPag></pag><infAdic><infCpl>/ APPLE IPHONE XR 128GB PRETO CONTEM: / SIM CARD 4G 2/3/4FF AVULSO P59 OLHAL MG CONTEM: / Imposto retido por S.T. conforme convenios ICMS 135/06 e 104/07 / Prot.192/2009 / Valor IPI R$ / No Pedido: 1-722395806518-10 / Valor aproximado dos tributos R$ 380.17 (9.25%) /</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31200202558157047126550310007780801093716312"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Y/cR782TYntlFr4eMZ5YPLFi30s=</DigestValue></Reference></SignedInfo><SignatureValue>efUIzL3kPYR3DSfTVTufBfCcg1l7ms06U/Z2ZELFMCYilWErqpMZWZWnaUT7L+/mNTdY5WcqrL8Y
++04n+C/55lF/b51GsJXaPFMPvmtsegkNozfw8pRLqcNEz05LXXwj22pDoFYKOfxmW9LA6NbIB1/g
+/VD/cicBln6bM4hL4jNplxNR2Q+LLA8Vz0U/5eUZ6RTtY5PLCh8Uh8RuhurQ7JeZMvn+r9j1Ouwq
+voMU4/7rITZvKzytcJIxTmLdrMmMdDKoXskJqAbo6BSkWNgTi3P+vwpyDJLcSP7GTQfySbf/8qhK
+IETiZr+pwxf6VaTdq7c13i0vl7Z2NHOv9ttlTA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHrTCCBZWgAwIBAgIIV/AinkoMDdkwDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg
+djUwHhcNMTkwMzI5MjExMjAwWhcNMjAwMzI4MjExMjAwWjCB+DELMAkGA1UEBhMCQlIxEzARBgNV
+BAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDg4
+Nzk4MTIxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEoMCYGA1UE
+CwwfU0VSQVNBIENlcnRpZmljYWRvcmEgRGlnaXRhbCB2NTEXMBUGA1UECwwONjIxNzM2MjAwMTA1
+NzYxFDASBgNVBAsMCyhFTSBCUkFOQ08pMR8wHQYDVQQDDBZURUxFRk9OSUNBIEJSQVNJTCBTLkEu
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAueabC30e217jGG3++Q7bQYek5faIkaQb
+YmfHZfyfkUai/8jJzkVJqLuroA9zFfWPe3pYcluvfd32UTtCJoT9ufizuxBWDGKZFzzrJ/J8+1r4
+Lvqfg/jo1j/fkbCZMOVojB1HSh4nIHot4A9ZwIUDxbgP04B8yov9RYsLtmo5mf/gJH61QQUYwQW3
+QIR/ti6NDdRWDQMpkf+DR25BiYD87unFqbEs7fFcUQU4XoK9Qdou11dgeTUF0gf5QVMBv38GkiC7
+z/RhRcByRibuJTzBbPJ45tAnyaJl17Vuelb39uwDuBIPtzwRv3uJldBr+tDKxaMYru9FUUCPzz7D
+NrS7lQIDAQABo4IC5DCCAuAwHwYDVR0jBBgwFoAUVnWvSnOy2AjEfftsKBwR1ffBqMwwgZcGCCsG
+AQUFBwEBBIGKMIGHMEcGCCsGAQUFBzAChjtodHRwOi8vd3d3LmNlcnRpZmljYWRvZGlnaXRhbC5j
+b20uYnIvY2FkZWlhcy9zZXJhc2FjZHY1LnA3YjA8BggrBgEFBQcwAYYwaHR0cDovL29jc3AuY2Vy
+dGlmaWNhZG9kaWdpdGFsLmNvbS5ici9zZXJhc2FjZHY1MIHDBgNVHREEgbswgbiBH0ZSQU5DSVND
+Ty5KQUxWRVNAVEVMRUZPTklDQS5DT02gPgYFYEwBAwSgNRMzMjkwOTE5NzIyMDM4Mzg2Mjg1MDAw
+MDAwMDAwMDAwMDAwMDAwMDE1NTQ4NzE2U1NQIFNQoCEGBWBMAQMCoBgTFkNIUklTVElBTiBNQVVB
+RCBHRUJBUkGgGQYFYEwBAwOgEBMOMDI1NTgxNTcwMDAxNjKgFwYFYEwBAwegDhMMMDAwMDAwMDAw
+MDAwMHEGA1UdIARqMGgwZgYGYEwBAgEGMFwwWgYIKwYBBQUHAgEWTmh0dHA6Ly9wdWJsaWNhY2Fv
+LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vZHBjL2RlY2xhcmFjYW8tc2Nk
+LnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgZsGA1UdHwSBkzCBkDBJoEegRYZD
+aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJyL3JlcG9zaXRvcmlvL2xjci9zZXJh
+c2FjZHY1LmNybDBDoEGgP4Y9aHR0cDovL2xjci5jZXJ0aWZpY2Fkb3MuY29tLmJyL3JlcG9zaXRv
+cmlvL2xjci9zZXJhc2FjZHY1LmNybDAdBgNVHQ4EFgQUf95cEGxdszCMtQYcmJHpon4jEF8wDgYD
+VR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQARYO7NzQc6LvvmpWgOXRIQbTnlJVk+P5y+
+Psk2JquPPdqa/O94jhyBr6rwWvGddoAn77jcvK9oevACn/w1p/ScORApI9dXLGt9kPT+3fG3iaLH
+jYNNUkeWCFG2m5QRiaNQcZOep2PDaGTItI8vhuEHnC9WWCBY8uOw0qwMavGirPjmCYJX2GDHg5Nx
+lzKqa6DUxJoP+NQaBJOPVT9z2wb8zKlTQgZ9w/xF4jRcT0Apl3VAw9jbDmgkgINyxyJBTv2V2EHM
+iXpMZobRLlD7O9O7TDr62yl5jtNgnVQJU+dtQyE9GaoeXfzzVmfISkwcu9ZSMUqLU2G3kd+puZt2
+bgApVIKOjKIepLQhRUsgdB1Fn4GOLRoTBLPkFdJjVipNdWEI2xhos68/V998x54qGCUunmvVbP5y
+EWnRYCWpQwosbXsTsj6Mrep4krd7/XhAXfs5bAbvneydLOCeGYp957nsqQD7ROVVfj+3WPKZUDg0
+T9vlnFazZAfodgHD4L3Zr7y2kR6Sj4oWDzJADt4ZwpuR5hrVzBL8tpuSl9LLW92ZMm2Z0AyyWzCU
+17nfSAIYEbwf+ZQEhdz0x+Oc5UdBmPHqJ3WQdZcjncewu/fMxywHbq6pzIFmW/QmStfpDzj7Zu5g
+4fljzkapa/RboAzGNJotr72BsmKAfclbOPqVzBuhhw==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203583634940">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.9-AP3</verAplic>
+  <chNFe>31200202558157047126550310007780801093716312</chNFe>
+  <dhRecbto>2020-02-13T09:35:52-03:00</dhRecbto>
+  <nProt>131203583634940</nProt>
+  <digVal>Y/cR782TYntlFr4eMZ5YPLFi30s=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

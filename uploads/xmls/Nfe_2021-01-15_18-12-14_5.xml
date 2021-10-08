@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31201260409075020340550010011109931616803111" versao="4.00"><ide><cUF>31</cUF><cNF>61680311</cNF><natOp>VDA.MERC.SUJEITA AO REG.DE ST</natOp><mod>55</mod><serie>1</serie><nNF>1110993</nNF><dhEmi>2020-12-19T14:13:40-03:00</dhEmi><dhSaiEnt>2020-12-19T14:18:40-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3105608</cMunFG><tpImp>2</tpImp><tpEmis>1</tpEmis><cDV>1</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>SAP GRC NFE 4.00</verProc></ide><emit><CNPJ>60409075020340</CNPJ><xNome>Nestle Brasil Ltda</xNome><xFant>BR DC Broker Barbacena</xFant><enderEmit><xLgr>Av Helena Aguiar de Figueiredo</xLgr><nro>407</nro><xCpl>GP B SL1</xCpl><xBairro>Ipanema</xBairro><cMun>3105608</cMun><xMun>Barbacena</xMun><UF>MG</UF><CEP>36205507</CEP><xPais>Brasil</xPais><fone>08000304321</fone></enderEmit><IE>0017611430149</IE><IM>109203</IM><CRT>3</CRT></emit><dest><CNPJ>09117341000116</CNPJ><xNome>Denilson Souza da Silva</xNome><enderDest><xLgr>R Barao Pouso Alegre</xLgr><nro>178</nro><xBairro>Sao Sebastiao</xBairro><cMun>3118304</cMun><xMun>Conselheiro Lafaiete</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>3137611821</fone></enderDest><indIEDest>1</indIEDest><IE>0010453000002</IE></dest><autXML><CNPJ>19417473000117</CNPJ></autXML><det nItem="1"><prod><cProd>000000000012045051</cProd><cEAN>7891000051436</cEAN><xProd>PASSATEMPO Biscoito Leite 54x150g BR</xProd><NCM>19053100</NCM><CEST>1705301</CEST><indEscala>S</indEscala><CFOP>5403</CFOP><uCom>UNI</uCom><qCom>9.0000</qCom><vUnCom>1.7188888889</vUnCom><vProd>15.47</vProd><cEANTrib>7891000051436</cEANTrib><uTrib>UNI</uTrib><qTrib>9.0000</qTrib><vUnTrib>1.7188888889</vUnTrib><indTot>1</indTot><xPed>2282159</xPed><nItemPed>000030</nItemPed><nFCI>09D05B1C-E9B5-41BC-AF22-63EC32C03802</nFCI></prod><imposto><ICMS><ICMS70><orig>5</orig><CST>70</CST><modBC>3</modBC><pRedBC>33.3300</pRedBC><vBC>10.31</vBC><pICMS>18.0000</pICMS><vICMS>1.86</vICMS><modBCST>4</modBCST><pMVAST>25.0000</pMVAST><pRedBCST>33.3300</pRedBCST><vBCST>12.89</vBCST><pICMSST>18.0000</pICMSST><vICMSST>0.46</vICMSST><vICMSDeson>1.13</vICMSDeson><motDesICMS>9</motDesICMS></ICMS70></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>15.47</vBC><pPIS>1.6500</pPIS><vPIS>0.26</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>15.47</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>1.18</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>Resolucao do Senado Federal no 13/12,No da FCI 09D05B1C-E9B5-41BC-AF22-63EC32C03802</infAdProd></det><det nItem="2"><prod><cProd>000000000012325231</cProd><cEAN>7891000241356</cEAN><xProd>PASSATEMPO Bisc Recheado Choc 70x130g BR</xProd><NCM>19053100</NCM><CEST>1705300</CEST><indEscala>S</indEscala><CFOP>5403</CFOP><uCom>UNI</uCom><qCom>20.0000</qCom><vUnCom>1.3885000000</vUnCom><vProd>27.77</vProd><cEANTrib>7891000241356</cEANTrib><uTrib>UNI</uTrib><qTrib>20.0000</qTrib><vUnTrib>1.3885000000</vUnTrib><indTot>1</indTot><xPed>2282159</xPed><nItemPed>000050</nItemPed><nFCI>01232346-514C-4DD9-BA34-E3BE94AA2CAB</nFCI></prod><imposto><ICMS><ICMS10><orig>5</orig><CST>10</CST><modBC>3</modBC><vBC>27.77</vBC><pICMS>18.0000</pICMS><vICMS>5.00</vICMS><modBCST>4</modBCST><pMVAST>35.0000</pMVAST><vBCST>37.49</vBCST><pICMSST>18.0000</pICMSST><vICMSST>1.75</vICMSST></ICMS10></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>51</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>27.77</vBC><pPIS>1.6500</pPIS><vPIS>0.46</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>27.77</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>2.11</vCOFINS></COFINSAliq></COFINS></imposto><infAdProd>Resolucao do Senado Federal no 13/12,No da FCI 01232346-514C-4DD9-BA34-E3BE94AA2CAB</infAdProd></det><total><ICMSTot><vBC>38.08</vBC><vICMS>6.86</vICMS><vICMSDeson>1.13</vICMSDeson><vFCP>0.00</vFCP><vBCST>50.38</vBCST><vST>2.21</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>43.24</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.72</vPIS><vCOFINS>3.29</vCOFINS><vOutro>0.00</vOutro><vNF>45.45</vNF></ICMSTot></total><transp><modFrete>0</modFrete><transporta><CNPJ>14635653000151</CNPJ><xNome>Brocker Atos Distribuicao Ltda</xNome><IE>0018741160061</IE><xEnder>Av Helena Aguiar de 407 Gp B Sl 02</xEnder><xMun>Barbacena</xMun><UF>MG</UF></transporta><vol><qVol>29</qVol><esp>UNI</esp><pesoL>3.950</pesoL><pesoB>3.996</pesoB></vol></transp><cobr><fat><nFat>9622081750</nFat><vOrig>45.45</vOrig><vDesc>0.00</vDesc><vLiq>45.45</vLiq></fat><dup><nDup>001</nDup><dVenc>2021-01-11</dVenc><vDup>45.45</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>45.45</vPag></detPag></pag><infAdic><infCpl>Docnum: 0163251413 Cli: 0002949004 FFt: 6617 Emp: BR10 Org. Vendas: BRL1 / 06 / 00 Fvd: Remessa: 8367190731 Doct.Fat: 9622081750 N. Carga: 8024752216 Parceiro 10509535 Pedido: 5376399114 *Boleto Anexo* Tax Perm 72.0000000 PedCli: 2282159Valor L quido: 45,45Base reduzida para Sub.Trib.Sujeito a ICMS e Sub.Trib.</infCpl><obsCont xCampo="FATURA"><xTexto>CondPagto Vencto 21 dias apos dtfat Venc 110121</xTexto></obsCont></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31201260409075020340550010011109931616803111"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ypwjd85zquNvI+meXt84qndM9zk=</DigestValue></Reference></SignedInfo><SignatureValue>bH6FQl62Cpw25jclhtmJI3pKdJQoZZds+nA6ReoaJqEPVrLcbZwbmZdIjMk66A6wDmaQm19lgx74
+QGSUb4vApuDGSValE2+euAHfjX5hu9aSTkyHLCoxWZsD7G5bt4833r4kynADISGAAqVNbkwnEVeH
+axiFqnZhgm/JyENp9YY6bh++EZ0593zgoyLjyc7I073LcDass5Hk5cu8o3CRf7KeRTbqKVG0iF0s
+zFD5pLODMcyyKemyASKX5GL2jGfFcRqn80YHt8wzljJlks5SRonjGK0TtGC8+kWfLWr3PCGUpySw
+pklJOb+LG5cf0+AQZCKhEg4342WNJEJd5+oCMg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH7DCCBdSgAwIBAgIQTJ/xNwEiJ/sgyiGEcZaVRDANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTIwMDgwNjE5NTI1MVoXDTIxMDgwNjE5NTI1MVowgdgxCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJTUDESMBAGA1UEBwwJU2FvIFBhdWxvMTYwNAYDVQQLDC1TZWNy
+ZXRhcmlhIGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBl
+LUNOUEogQTExFzAVBgNVBAsMDjAyMTcyOTgxMDAwMTgwMSowKAYDVQQDDCFORVNUTEUgQlJBU0lM
+IExUREE6NjA0MDkwNzUwMDAxNTIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFN1d1
+Ec/mrcyaAganovnebzWHXm/OeXcYfsHNdQGtUhMCtKO6OiDCTB5VhsUt83PAV4HpjMfUuf1Y34AD
+4ze42zY3odjMZMS7c7RGx69zNpSzqVZRK2wtxfwp24flEdmkukZfOI8xkCObueXB+ipuotEbhQUb
+v+VUgAco/0tLUXFjQnkExc1LjKJ0e2Lbrq2+mCjwPTFKGC6HQzrvHWxZFj8fPDXBs3n5aX9Mc4Bt
+13HHlN3WqwHfa7VloeMSiEgSK3dyPGSvdym0YCeno5FrJBYJBmu2QWxYS4llbB65XfjZxdO3tny2
+JcnRdkf69V8aWKMZHdKnIKs6j2f4Kiq9AgMBAAGjggMPMIIDCzCBvgYDVR0RBIG2MIGzoDgGBWBM
+AQMEoC8ELTEzMDgxOTU5MjQyMTM1MjQ4NzYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAjBgVg
+TAEDAqAaBBhNSUdVRUwgQU5HRUwgRElBWiBWQVJHQVOgGQYFYEwBAwOgEAQONjA0MDkwNzUwMDAx
+NTKgFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgR5KQVFVRUxJTkUuU0lMVkE1QEJSLk5FU1RMRS5D
+T00wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTfX+dvtFh0CC62p/jiacTc1jNQjB/BgNVHSAEeDB2
+MHQGBmBMAQIBDDBqMGgGCCsGAQUFBwIBFlxodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29t
+LmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fUkZCL0RQQ19BQ19DZXJ0aXNpZ25fUkZC
+LnBkZjCBvAYDVR0fBIG0MIGxMFegVaBThlFodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29t
+LmJyL3JlcG9zaXRvcmlvL2xjci9BQ0NlcnRpc2lnblJGQkc1L0xhdGVzdENSTC5jcmwwVqBUoFKG
+UGh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0
+aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwQwgawGCCsGAQUFBwEBBIGfMIGcMF8GCCsGAQUFBzAChlNodHRwOi8vaWNw
+LWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2NlcnRpZmljYWRvcy9BQ19DZXJ0
+aXNpZ25fUkZCX0c1LnA3YzA5BggrBgEFBQcwAYYtaHR0cDovL29jc3AtYWMtY2VydGlzaWduLXJm
+Yi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQBfUtChrc0D8B3WwCHRNicRUcAV
+M21HJkDbPJX7PtaGg+PQbT41cw54Pb6W139g9McRVkQZ2L+rva1cRG78KQVmS5gTG7IS96zBeIJM
+KQCH9uak7JykdWzZtGDgxuJnl0t9aRFBFtvtVcs237pcEnj0JfHp1YwqIq0zuQqhujDLwlRE5/no
+rTC+/Ywz8upuBIpBLGun0PxU9+vxpoaYJNMbjuda88yKKSih4LMTsuuO5sVbeIOhKIv0W4Vg8QPW
+dYmpdzd1aU61gYdLf3OFTufu69a87o2YO/T507B2J4vZQzPYSVhmYDKinZ1hyMrm94RgneT7VdcM
+Yr2If/N2bW1ncBERzBGbpxw6Qgn7Wu18WtDI/lLWOLdnSPpPZ9CCju5FgT/V4qVRVFQugajgP65v
+KAjVXB33yR2mIFCPbjKE/BQLuhFF3WuUjSixquzhDzSI32EfljpaPrV3ogITiiUHz4W18V1bFgvC
+4kviXTZVxMcnM+9sf3UfGppeJn0qTCXgynRGMZ9+gL6DmjFTxcJAFC9yTkO61Of64HFYkMAyT0FW
+JTGSGjq6lZKyXSTsmvI1cYErZB9OBo8nwbIwu329LiZSI1cJYnJEaYhTXEOUeAAjfzjENl1ZfoOu
+7UmAE8glLD3aCaKv79oVfOzmcEbIck7Fjf8f7ywUUM++FC2Z3A==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131203961218681">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.4.22-NI1</verAplic>
+  <chNFe>31201260409075020340550010011109931616803111</chNFe>
+  <dhRecbto>2020-12-19T14:15:04-03:00</dhRecbto>
+  <nProt>131203961218681</nProt>
+  <digVal>Ypwjd85zquNvI+meXt84qndM9zk=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

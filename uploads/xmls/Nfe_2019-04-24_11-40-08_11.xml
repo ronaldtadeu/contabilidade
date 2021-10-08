@@ -1,0 +1,48 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190319712330000138550000000715601000715602" versao="4.00"><ide><cUF>31</cUF><cNF>00071560</cNF><natOp>VENDA DE PECAS</natOp><mod>55</mod><serie>0</serie><nNF>71560</nNF><dhEmi>2019-03-21T09:23:50-02:00</dhEmi><dhSaiEnt>2019-03-21T09:23:57-02:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3118304</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>1.1</verProc></ide><emit><CNPJ>19712330000138</CNPJ><xNome>AUTO COMERCIO LTDA.</xNome><enderEmit><xLgr>RODOVIA BR 040 - KM</xLgr><nro>00624</nro><xBairro>SANTA CRUZ</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36407330</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137612077</fone></enderEmit><IE>1830182860046</IE><CRT>3</CRT></emit><dest><CNPJ>68534668000152</CNPJ><xNome>EUSTAQUIO MIRANDA DA SILVA - ME</xNome><enderDest><xLgr>RUA JAIME MORAIS, 34</xLgr><nro>1</nro><xBairro>VILA REZENDE</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36401331</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137633297</fone></enderDest><indIEDest>1</indIEDest><IE>1838215760050</IE><email>nsaparecida2016@hotmail.com</email></dest><det nItem="1"><prod><cProd>A9060702433</cProd><cEAN /><xProd>TUBO DE PRESSAO (15.0%)</xProd><NCM>84099999</NCM><CEST>0103000</CEST><CFOP>5405</CFOP><uCom>PC</uCom><qCom>1.0000</qCom><vUnCom>160.5000</vUnCom><vProd>160.50</vProd><cEANTrib /><uTrib>PC</uTrib><qTrib>1.0000</qTrib><vUnTrib>160.5000</vUnTrib><vDesc>24.08</vDesc><indTot>1</indTot></prod><imposto><vTotTrib>27.87</vTotTrib><ICMS><ICMS60><orig>6</orig><CST>60</CST><vBCSTRet>0.00</vBCSTRet><pST>0.00</pST><vICMSSTRet>0.00</vICMSSTRet></ICMS60></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>160.50</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>24.08</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>136.42</vNF><vTotTrib>27.87</vTotTrib></ICMSTot></total><transp><modFrete>1</modFrete><transporta><CNPJ>68534668000152</CNPJ><xNome>DESTINATARIO</xNome><IE>1838215760050</IE><xEnder>RUA JAIME MORAIS, 34</xEnder><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></transporta><vol><qVol>0</qVol><esp>PECAS PARA VEICULOS</esp><marca>MERCEDES-BENZ</marca><pesoL>0.000</pesoL><pesoB>0.000</pesoB></vol></transp><pag><detPag><tPag>99</tPag><vPag>136.42</vPag></detPag></pag><infAdic><infAdFisco>IMPOSTO RET. P/SUBST.TRIBUTARIA CONF.DEC. 43708/03</infAdFisco><infCpl>ORDEM DE SERVICO/REQUISICAO: B-057924 COND. PAGAMENTO: 04-28 DIAS (FSEM) TELEPECAS: (31) 3761-1384-VENDEDOR: WANDER LUCIO DA COSTA-FONTE DE CALCULO DOS TRIBUTOS - IBPT</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190319712330000138550000000715601000715602"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>fn7xhfqKdj4tWEniZ6rgKeU9pkM=</DigestValue></Reference></SignedInfo><SignatureValue>MCusA8AOqk/p6qn6fIgGfmDG3xYtW8r/XrTJvuwI95+nx1Crei/P87aXbUPK5cw3o66YmyhGeRGw
+kZOYkj6vCymkfJYiTVaDrz1fbgCwlivHTI7XSOjjhPvnYKNBC44+P9KPoSPbdDvHATuCuFL/3OFR
+pay+1VMe7ZKZ982G956vXza8Li/vj1SXRpeO0DgIB9vkz44rzYLQIY4LDNLpxZafJqYA1Q81pIYz
+p8eAHeJ/XmCRanqY9jSh20YBboiu2DcHu8G7YSbmOc3glfyQ7K+Miba1SUmG3J/0Cc0Bljm0w+qe
+xF1W9d4wQjDFNIHP5eHDU/3sEJqKa8T7SO2/HA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHuzCCBaOgAwIBAgIIaT+bTNcKLpkwDQYJKoZIhvcNAQELBQAwdzELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEbMBkGA1UEAxMSQUMgRE9DQ0xPVUQgUkZCIHYyMB4XDTE4MTIyMTEz
+Mjk0MloXDTE5MTIyMTEzMjk0MlowgeIxCzAJBgNVBAYTAkJSMQswCQYDVQQIEwJNRzEdMBsGA1UE
+BxMUQ09OU0VMSEVJUk8gTEFGQUlFVEUxEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNl
+Y3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZC
+IGUtQ05QSiBBMTEWMBQGA1UECxMNQVIgQ0VSVCBBTFBIQTEqMCgGA1UEAxMhQVVUTyBDT01FUkNJ
+TyBMVERBOjE5NzEyMzMwMDAwMTM4MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzdUv
+RbbFrQDeMudyIBU1QmrOL2ReSTQj6ryhXHAInfCAG6UfO4SRMmPXfoTGXHubJHiiHQQ5YGmxSpSf
+uxL9WtbjVZ0n+jkn+urkQPiyjdbqi1MYZ1C/9TxdtzBrdq9JBQJc9vTdPi0L3fsphEopSKZNnbP+
+7/FnIaZGhsEvWXkkImnn4gnAbIELeZ8okP/pjd/9LtkXDv8TwWQVCom8A8ArffN8TRJTSmxvO70f
+IT8PwRpJO0XpQzBZ4rUfvVd8CAKlKBLV3WM2uPvoXFAVAd03VBEA3frAzV+H9c9DScfLuEzGeLtp
+BT42ouLdaY3ct2yTHbuhxzM+C3Vv6aJy3QIDAQABo4IC3TCCAtkwHwYDVR0jBBgwFoAUnsxNuDCD
+9GbDYqo2j8cMHxBpJZwwDgYDVR0PAQH/BAQDAgXgMHAGA1UdIARpMGcwZQYGYEwBAgE6MFswWQYI
+KwYBBQUHAgEWTWh0dHA6Ly9yZXBvc2l0b3Jpby5hY2RvY2Nsb3VkLmNvbS5ici9hYy1kb2NjbG91
+ZHJmYi9hYy1kb2NjbG91ZC1yZmItcGMtYTEucGRmMIG0BgNVHR8EgawwgakwUqBQoE6GTGh0dHA6
+Ly9yZXBvc2l0b3Jpby5hY2RvY2Nsb3VkLmNvbS5ici9hYy1kb2NjbG91ZHJmYi9sY3ItYWMtZG9j
+Y2xvdWRyZmJ2NS5jcmwwU6BRoE+GTWh0dHA6Ly9yZXBvc2l0b3JpbzIuYWNkb2NjbG91ZC5jb20u
+YnIvYWMtZG9jY2xvdWRyZmIvbGNyLWFjLWRvY2Nsb3VkcmZidjUuY3JsMIGRBggrBgEFBQcBAQSB
+hDCBgTBUBggrBgEFBQcwAoZIaHR0cDovL3JlcG9zaXRvcmlvLmFjZG9jY2xvdWQuY29tLmJyL2Fj
+LWRvY2Nsb3VkcmZiL2FjLWRvY2Nsb3VkcmZidjUucDdiMCkGCCsGAQUFBzABhh1odHRwOi8vb2Nz
+cC5hY2RvY2Nsb3VkLmNvbS5icjCBvgYDVR0RBIG2MIGzgR5DT05UQUJJTElEQURFQEFDT01FUkNJ
+Ty5DT00uQlKgIwYFYEwBAwKgGhMYQUxWQVJPIEFHUklQSU5PIERFIFNPVVpBoBkGBWBMAQMDoBAT
+DjE5NzEyMzMwMDAwMTM4oDgGBWBMAQMEoC8TLTIzMDYxOTM3MDExNTQ5ODI2NTMwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwIGCCsGAQUFBwMEMAkGA1UdEwQCMAAwDQYJKoZIhvcNAQELBQADggIBABfgfnPXx0sosm4Z
+caORIikacexzin1luQv6zbhQkkqjjI+mIhdd94PA3YcQ16ZxxM1tNEsEB+gwf7L4hUdl9P4BClKs
+yUC+C1fxjAv4NtS1H7YL/kwmUkTYhkleC4LVn/FyqFWNtBQ5KVj32Bbgr8473B1JMxTo4XSpc4oV
+dosbMNGd/bKbbvhhpEAvGdPoWj3I2axEqo5lTDp2iMoQTEm8m8oul4maI6x1CpxLv54QhW1QaJ7e
+Mhy+Fqr3Rchn1kNzJhz9VYsOdytch2rFtCjAL2uhG3t3z9uruZ10vjZO0eumXOfLPB4cN4uiiurK
+RTf65CWQKAazuNdjWRh30iqnkBjiS51yOy5r9H2lAZF/0XxUQa+TjcH7KENvS3P9bLCOwjzmKfY5
+HbVMo/SX9vsK++gkK5l+LqiZlQ3W+95qF4VqUjg7/LqtCFsBZP7WHz3XVWk0uifHSb1t2KbX5ZFI
+g2XQVLLAbMNG4BaGeiv+zNXGjXOeBEnOx4clk9ivKaIOr6Xou/jT5GR639BHdMUvi8xYtVx+FBeL
+YnntdJijQ5Xz1wmhXpwW1rVR7z5j6PjvHg7SKahFefb6xeGOItwVQvNjcVGv6uCmedWOnlKmwWj9
+sL/YosR9NcVbpT5Acc2i9Dy63A8TuqGZaCDX9jyOHDwv1te73+FUF1zn4ict</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193235902628">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.2.25</verAplic>
+  <chNFe>31190319712330000138550000000715601000715602</chNFe>
+  <dhRecbto>2019-03-21T09:24:07-03:00</dhRecbto>
+  <nProt>131193235902628</nProt>
+  <digVal>fn7xhfqKdj4tWEniZ6rgKeU9pkM=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>

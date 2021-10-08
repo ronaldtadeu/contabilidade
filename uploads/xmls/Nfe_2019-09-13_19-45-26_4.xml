@@ -1,0 +1,49 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190807427095000688550010000180521111008080" versao="4.00"><ide><cUF>31</cUF><cNF>11100808</cNF><natOp>VENDA DE MERCADORIAS SUJEITA AO REGIME DE S.T. - SUBSTITUIDO</natOp><mod>55</mod><serie>1</serie><nNF>18052</nNF><dhEmi>2019-08-08T03:43:00-03:00</dhEmi><dhSaiEnt>2019-08-08T03:43:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3136702</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres><procEmi>0</procEmi><verProc>1.3.113</verProc></ide><emit><CNPJ>07427095000688</CNPJ><xNome>MHM DISTR DE ALIM LTDA MG</xNome><enderEmit><xLgr>RUA BRUNO SIMILI,</xLgr><nro>0</nro><xBairro>DISTRITO INDUSTRIAL</xBairro><cMun>3136702</cMun><xMun>JUIZ DE FORA</xMun><UF>MG</UF><CEP>36092050</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>0017637710106</IE><CRT>3</CRT></emit><dest><CNPJ>09117341000116</CNPJ><xNome>DENILSON SOUZA DA SILVA</xNome><enderDest><xLgr>R BARAO DE POUSO ALEGRE</xLgr><nro>143</nro><xCpl>: C-LOJA 01;</xCpl><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF><CEP>36400000</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3137611821</fone></enderDest><indIEDest>1</indIEDest><IE>0010453000002</IE><email>denilsonsouza853@yahoo.com</email></dest><entrega><CNPJ>09117341000116</CNPJ><xLgr>R BARAO DE POUSO ALEGRE</xLgr><nro>143</nro><xCpl>: C-LOJA 01;</xCpl><xBairro>SAO SEBASTIAO</xBairro><cMun>3118304</cMun><xMun>CONSELHEIRO LAFAIETE</xMun><UF>MG</UF></entrega><det nItem="1"><prod><cProd>4251</cProd><cEAN>7894904005550</cEAN><xProd>MORT. DEFUMADA SEARA CX 2X5KG</xProd><NCM>16010000</NCM><CEST>1707800</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>KG</uCom><qCom>9.8000</qCom><vUnCom>11.9704081633</vUnCom><vProd>117.31</vProd><cEANTrib>7894904005550</cEANTrib><uTrib>KG</uTrib><qTrib>9.8000</qTrib><vUnTrib>11.9704081633</vUnTrib><vOutro>1.07</vOutro><indTot>1</indTot><xPed>941001724</xPed><nItemPed>1</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>0.00</vBCSTRet><pST>0.0000</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet><pRedBCEfet>0.0000</pRedBCEfet><vBCEfet>0.00</vBCEfet><pICMSEfet>0.0000</pICMSEfet><vICMSEfet>0.00</vICMSEfet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>117.31</vBC><pPIS>1.6500</pPIS><vPIS>1.94</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>117.31</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>8.92</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="2"><prod><cProd>24023</cProd><cEAN>7894904578153</cEAN><xProd>PRESUNTO COZ. OVAL REZENDE PC 3,5KG</xProd><NCM>16024900</NCM><CEST>1707905</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>KG</uCom><qCom>3.5700</qCom><vUnCom>13.2900000000</vUnCom><vProd>47.45</vProd><cEANTrib>7894904578153</cEANTrib><uTrib>KG</uTrib><qTrib>3.5700</qTrib><vUnTrib>13.2900000000</vUnTrib><vOutro>0.43</vOutro><indTot>1</indTot><xPed>941001724</xPed><nItemPed>2</nItemPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>0.00</vBCSTRet><pST>0.0000</pST><vICMSSubstituto>0.00</vICMSSubstituto><vICMSSTRet>0.00</vICMSSTRet><pRedBCEfet>0.0000</pRedBCEfet><vBCEfet>0.00</vBCEfet><pICMSEfet>0.0000</pICMSEfet><vICMSEfet>0.00</vICMSEfet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.0000</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>47.45</vBC><pPIS>1.6500</pPIS><vPIS>0.78</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>47.45</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>3.61</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>164.76</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>2.72</vPIS><vCOFINS>12.53</vCOFINS><vOutro>1.50</vOutro><vNF>166.26</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete><vol><qVol>13</qVol><nVol>13.37</nVol><pesoL>13.370</pesoL><pesoB>13.370</pesoB></vol></transp><cobr><fat><nFat>18052</nFat><vOrig>166.26</vOrig><vDesc>0</vDesc><vLiq>166.26</vLiq></fat><dup><nDup>001</nDup><dVenc>2019-08-15</dVenc><vDup>166.26</vDup></dup></cobr><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>166.26</vPag></detPag></pag><infAdic><infCpl>FANTASIA: PADARIA SAO SEBASTIAO//PONTO REF.://NUM TRANSACAO: 3079588//NUM PEDIDO: 941001724 - NUM.PEDIDO CLIENTE ://CARREGAMENTO: 109332//ROTA: MINAS GERAIS - 5//COBRANCA:3415//ENDER:R BARAO DE POUSO ALEGRE//N:143//BAIRRO:SAO SEBASTIAO////ENTREGA//ENDERECO DE ENTREGA://N//- -//RJ - Imp Retido p/Subst. Trib. Conf art 27 a 29 Lv 2 RICMS - ES - Imp Retido p/Subst. Trib. Conf art//MG - Imp Retido p/Subst. Trib. Conf art - SP Imp Retido p/Subst. Trib. Conf art</infCpl></infAdic><infRespTec><CNPJ>07577599000501</CNPJ><xContato>TOTVS BRASILIA SOFTWARE - UNIDADE GOIANIA LTDA</xContato><email>resp_tecnico_dfe_winthor@totvs.com.br</email><fone>06232500200</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#NFe31190807427095000688550010000180521111008080"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>fyXzFQyxUgCgsK6kEhXj/f6pt98=</DigestValue></Reference></SignedInfo><SignatureValue>a6Ut6S4JCONiE4OYHHM6U+K9KsxG/6ULc4ota9ScCCKno7T/ejXodwpKiHFFh3xg/qA4zzZmWLHD
+RttagIRT3ZeI73cXMpM1Z2k210PmzhmuYE2nU6Qn52IQHjVT8SU1mpqrRV6lTjDYBhMg6g1ljOFx
+uF5D89AfjjeeTtwJuPAEjWfKDHEyPUp2hvylA7s5LR1z69Ew5ifHYfZF9nhzOY+d24jIYbebD3q6
+0ngcAYShBzlF/ZSBNmpIKuG8srcaDIFHOKxqJoTGfzFsumbLXDCzOZkMsbh19gbUsVoUGM67oHNv
+zyjL45AcK6qXb4EF7tcxMMAQw/7HcjpD6aXmgw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIH4TCCBcmgAwIBAgIIbVgf8pmTNggwDQYJKoZIhvcNAQELBQAwdDELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEYMBYGA1UEAxMPQUMgVkFMSUQgUkZCIHY1MB4XDTE5MDUyOTIxMDgy
+MloXDTIwMDUyODIxMDgyMlowggEFMQswCQYDVQQGEwJCUjELMAkGA1UECBMCUkoxFDASBgNVBAcT
+C1NBTyBHT05DQUxPMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMTYwNAYDVQQLEy1TZWNyZXRhcmlhIGRh
+IFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsTDVJGQiBlLUNOUEogQTEx
+FjAUBgNVBAsTDUFSIElORk9STUJBTksxFzAVBgNVBAsTDjE2Njk2MDYxMDAwMTc1MT0wOwYDVQQD
+EzRNIEggTSBESVNUUklCVUlET1JBIERFIEFMSU1FTlRPUyBMVERBOjA3NDI3MDk1MDAwMTczMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvUtB2Uwxeh4H497Ag8E8cOMUC/fEjvzN68Cp
+ZixD6sRGxnX15OQkU1qMeIYbGey34UWyf3fqoKnBWFNWKgOJNqptdni65FZeU2qYGOOQWpKvolwu
+rlovHRIjcPpPgUIHz0GdEhYuBAamSfgBWtjuBqGxiqvLkV5gv0++c9iaOKdKfOF0kWDVBG/Z5k63
+2uvvIuVOti2pWE5iUu6nJG1dJA/1vo9RfJvprYRr/e2GCER14HpasaK2MUf/b6+WDSRHjFakOKDQ
+8dtw43I3KwSzsMpY1uNxwqf26oLzlD0bAukDbwtfFa2QkjLsNfyPZF+vQUHf1qIrCBUfR/c9RFN4
+/QIDAQABo4IC4jCCAt4wgZwGCCsGAQUFBwEBBIGPMIGMMFUGCCsGAQUFBzAChklodHRwOi8vaWNw
+LWJyYXNpbC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2FjLXZhbGlkcmZi
+djUucDdiMDMGCCsGAQUFBzABhidodHRwOi8vb2NzcHY1LnZhbGlkY2VydGlmaWNhZG9yYS5jb20u
+YnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTy6XkdVCZQCy+WxVFyb7LMKqJxTBwBgNVHSAEaTBn
+MGUGBmBMAQIBJTBbMFkGCCsGAQUFBwIBFk1odHRwOi8vaWNwLWJyYXNpbC52YWxpZGNlcnRpZmlj
+YWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2RwYy1hYy12YWxpZHJmYnY1LnBkZjCBtgYDVR0fBIGu
+MIGrMFOgUaBPhk1odHRwOi8vaWNwLWJyYXNpbC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2Fj
+LXZhbGlkcmZiL2xjci1hYy12YWxpZHJmYnY1LmNybDBUoFKgUIZOaHR0cDovL2ljcC1icmFzaWwy
+LnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtdmFsaWRyZmIvbGNyLWFjLXZhbGlkcmZidjUu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgbYGA1Ud
+EQSBrjCBq4EVZWRzb25AZnJpZ29jZW50ZXIuY29toDgGBWBMAQMEoC8ELTEyMDMxOTgxMDkwNjk5
+MTA3MjEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAkBgVgTAEDAqAbBBlMRU9OQVJETyBIQU1C
+RVJHRVIgTU9SRVRUoBkGBWBMAQMDoBAEDjA3NDI3MDk1MDAwMTczoBcGBWBMAQMHoA4EDDAwMDAw
+MDAwMDAwMDANBgkqhkiG9w0BAQsFAAOCAgEABeoAqpxs0Gpm9W41v1TIJOKcqc70DQbKFjF8l6HA
+763CbeU5bpsks/pSTEeojdykBMRZLhmyZMYSgVSf0bGlkEwEJGUCeQAHx8oRAXRJOsrNSuw9AeH6
+ydIjOnrn6ufvD9/UuOcgqHk2h6hMBRZ6ma1T1g4fELqDunXpFMPLUyqzgPj0XFHd51Ax3peFwbxh
+ntw4uBxjVTGbMR+AF75Puo0mPlo5qwpSaG7e3/kNzKFa5rj+gCf7F7ysQMT4Xuf9/44E61M5ljVY
+trnWllbJ2A6T9wY9zfkkWVihhstle1obCG0W4155CVAVk7vHFisQHAYbToa1UXUIVz3TbljunW5H
+jW+x/nPlvEVa1hqh0qRoqPxb82fwxcJS2V9M+Z1NXBG3hViKjD3bOt+JJ88qdnNIwMULLfiJh5sf
+o3iq0EmcOAokvnnl3B+xdYZ5/HsdayCATb/bjq4aUUPUfcOiNEDld4g59VgqJy3gQ6CxLeyGMYZp
+RwvQzg2TgYJiK2dyJKz3HzG+8k/MgezCg5mxirgChRuIPzeqMcDs5mN0qlaGeX2d80rJZt/HXiUa
+IvrOBQbEyJN/rh//o7T+ucoL4shwVxBle8TM5UyPCopVZu6FQ1GSrpJzAD1gwYR/UF+r+SjWFjQy
+2A8dnCW4qsz/Jas/+o/lG2m7IRhq+0VXDLs=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt Id="ID131193378796063">
+  <tpAmb>1</tpAmb>
+  <verAplic>14.3.13</verAplic>
+  <chNFe>31190807427095000688550010000180521111008080</chNFe>
+  <dhRecbto>2019-08-08T03:43:12-03:00</dhRecbto>
+  <nProt>131193378796063</nProt>
+  <digVal>fyXzFQyxUgCgsK6kEhXj/f6pt98=</digVal>
+  <cStat>100</cStat>
+  <xMotivo>Autorizado o uso da NF-e</xMotivo>
+</infProt></protNFe></nfeProc>
